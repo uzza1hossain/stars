@@ -507,6 +507,7 @@
 
 ## others 
 
+- [onlywei/explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations.
 - [maverick-js/observables](https://github.com/maverick-js/observables) - A tiny (~850B minzipped) library for creating reactive observables via functions. Works in browsers and Node.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [asottile/blacken-docs](https://github.com/asottile/blacken-docs) - Run `black` on python code blocks in documentation files
