@@ -61,6 +61,7 @@
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
+- [nim](#nim)
 - [open-source](#open-source)
 - [others](#others)
 - [package-manager](#package-manager)
@@ -181,6 +182,7 @@
 
 ## compiler 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## computer-vision 
@@ -384,6 +386,7 @@
 
 ## hacktoberfest 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
@@ -463,6 +466,7 @@
 
 ## language 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## linux 
@@ -514,12 +518,17 @@
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 
+## nim 
+
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
+
 ## open-source 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## others 
 
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [migonzalvar/dj-email-url](https://github.com/migonzalvar/dj-email-url) - Use an URL to configure email backend settings in your Django Application.
 - [epicserve/django-cache-url](https://github.com/epicserve/django-cache-url) - Use Cache URLs in your Django Application
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
