@@ -62,6 +62,7 @@
 
 ## JavaScript 
 
+- [django-request/django-request](https://github.com/django-request/django-request) - django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [onlywei/explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -86,6 +87,8 @@
 
 ## Others 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
@@ -102,6 +105,10 @@
 
 ## Python 
 
+- [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
+- [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
+- [matthiask/django-tree-queries](https://github.com/matthiask/django-tree-queries) - Like django-cte-forest, but with explicit opt-in and less configurability
+- [jazzband/django-invitations](https://github.com/jazzband/django-invitations) - Generic invitations app for Django
 - [dozymoe/frozen-django](https://github.com/dozymoe/frozen-django) - Incrementally create static sites from Django, meant to be used in background tasks.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [artinnok/django-swap-user](https://github.com/artinnok/django-swap-user) - (Beta) Simple and flexible way to swap default Django User
@@ -291,6 +298,8 @@
 
 ## TypeScript 
 
+- [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [maverick-js/observables](https://github.com/maverick-js/observables) - A tiny (~850B minzipped) library for creating reactive observables via functions. Works in browsers and Node.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -306,7 +315,7 @@
 
 ## V 
 
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vim script 
 
