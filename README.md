@@ -33,6 +33,7 @@
 
 ## C++ 
 
+- [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -108,6 +109,7 @@
 
 ## Python 
 
+- [keithrozario/Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [valohai/django-allauth-2fa](https://github.com/valohai/django-allauth-2fa) - Two-factor authentication for Django Allauth
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
