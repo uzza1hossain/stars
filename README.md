@@ -24,6 +24,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vim script](#vim-script)
+- [Zig](#zig)
 
 ## C 
 
@@ -44,6 +45,8 @@
 
 ## Go 
 
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -65,6 +68,7 @@
 
 ## JavaScript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [django-request/django-request](https://github.com/django-request/django-request) - django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -109,6 +113,11 @@
 
 ## Python 
 
+- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
+- [skorokithakis/django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
+- [barseghyanartur/django-fobi](https://github.com/barseghyanartur/django-fobi) - Form generator/builder application for Django done right: customisable, modular, user- and developer- friendly.
+- [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
+- [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - PEP-484 stubs for Django
 - [keithrozario/Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [valohai/django-allauth-2fa](https://github.com/valohai/django-allauth-2fa) - Two-factor authentication for Django Allauth
@@ -301,6 +310,7 @@
 
 ## Shell 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [jdbit/django-auto-deploy](https://github.com/jdbit/django-auto-deploy) - Deploy a Django website in one click with this bash script (Nginx, Gunicorn, MySQL/MariaDB/PostgreSQL)
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
@@ -334,6 +344,10 @@
 ## Vim script 
 
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
+
+## Zig 
+
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
