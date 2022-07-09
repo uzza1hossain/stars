@@ -610,6 +610,8 @@
 
 ## others 
 
+- [aspiredu/django-safemigrate](https://github.com/aspiredu/django-safemigrate) - Safely run migrations before deployment
+- [ewels/rich-codex](https://github.com/ewels/rich-codex) - Create rich code images for your docs.
 - [skorokithakis/django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
