@@ -115,6 +115,8 @@
 
 ## Python 
 
+- [ehmatthes/django-simple-deploy](https://github.com/ehmatthes/django-simple-deploy) - A reusable Django app that configures your project for deployment
+- [mikeckennedy/jinja_partials](https://github.com/mikeckennedy/jinja_partials) - Simple reuse of partial HTML page templates in the Jinja template language for Python web frameworks.
 - [aspiredu/django-safemigrate](https://github.com/aspiredu/django-safemigrate) - Safely run migrations before deployment
 - [ewels/rich-codex](https://github.com/ewels/rich-codex) - Create rich code images for your docs.
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
