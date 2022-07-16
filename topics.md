@@ -623,6 +623,7 @@
 
 ## others 
 
+- [TobKed/django_on_gcp](https://github.com/TobKed/django_on_gcp) - Django on Google Cloud Platform
 - [charettes/django-seal](https://github.com/charettes/django-seal) - Django application providing queryset sealing capability.
 - [beda-software/drf-writable-nested](https://github.com/beda-software/drf-writable-nested) - Writable nested model serializer for Django REST Framework
 - [ehmatthes/django-simple-deploy](https://github.com/ehmatthes/django-simple-deploy) - A reusable Django app that configures your project for deployment
