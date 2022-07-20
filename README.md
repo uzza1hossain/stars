@@ -35,7 +35,6 @@
 
 ## C++ 
 
-- [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -46,6 +45,7 @@
 
 ## Go 
 
+- [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -134,6 +134,7 @@
 - [barseghyanartur/django-fobi](https://github.com/barseghyanartur/django-fobi) - Form generator/builder application for Django done right: customisable, modular, user- and developer- friendly.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - PEP-484 stubs for Django
+- [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [keithrozario/Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [valohai/django-allauth-2fa](https://github.com/valohai/django-allauth-2fa) - Two-factor authentication for Django Allauth
@@ -353,7 +354,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [devmahdi404/code-django](https://github.com/devmahdi404/code-django) - Django syntax highlighter and snippets for VS Code
+- [almahdi404/code-django](https://github.com/almahdi404/code-django) - Django template syntax highlighter and snippets for VS Code
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
