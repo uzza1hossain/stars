@@ -629,6 +629,7 @@
 
 ## others 
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [Brobin/django-seed](https://github.com/Brobin/django-seed) - :seedling: Seed your Django database with fake data
 - [tolomea/django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed
 - [kalekseev/django-extra-checks](https://github.com/kalekseev/django-extra-checks) - Collection of useful checks for Django Checks Framework
