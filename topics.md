@@ -661,6 +661,8 @@
 
 ## others 
 
+- [droxey/captools](https://github.com/droxey/captools) - ⚙️ Bash scripts to help you easily maintain CapRover applications on your server.
+- [floms/caprover-mobile](https://github.com/floms/caprover-mobile) - 
 - [django-cache-machine/django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models through the ORM.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [Brobin/django-seed](https://github.com/Brobin/django-seed) - :seedling: Seed your Django database with fake data
