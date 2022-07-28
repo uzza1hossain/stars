@@ -29,6 +29,7 @@
 
 ## C 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -79,6 +80,7 @@
 
 ## JavaScript 
 
+- [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
@@ -126,6 +128,9 @@
 
 ## Python 
 
+- [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [jonathan-s/django-sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the django tooling you already know and love.
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
 - [django-cache-machine/django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models through the ORM.
@@ -330,6 +335,7 @@
 
 ## Rust 
 
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -348,6 +354,7 @@
 
 ## Shell 
 
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [droxey/captools](https://github.com/droxey/captools) - ⚙️ Bash scripts to help you easily maintain CapRover applications on your server.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [jdbit/django-auto-deploy](https://github.com/jdbit/django-auto-deploy) - Deploy a Django website in one click with this bash script (Nginx, Gunicorn, MySQL/MariaDB/PostgreSQL)
