@@ -705,6 +705,8 @@
 
 ## others 
 
+- [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere.
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [droxey/captools](https://github.com/droxey/captools) - ⚙️ Bash scripts to help you easily maintain CapRover applications on your server.
 - [floms/caprover-mobile](https://github.com/floms/caprover-mobile) - 
 - [django-cache-machine/django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models through the ORM.
