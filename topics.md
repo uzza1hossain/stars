@@ -39,6 +39,7 @@
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
+- [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
@@ -52,6 +53,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
+- [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -121,6 +123,7 @@
 
 ## api 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
@@ -171,6 +174,7 @@
 
 ## aws 
 
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 
@@ -248,6 +252,7 @@
 
 ## continuous-integration 
 
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 
 ## cpp 
@@ -280,6 +285,7 @@
 
 ## devops 
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -293,6 +299,7 @@
 
 ## django 
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [wq/django-data-wizard](https://github.com/wq/django-data-wizard) - 🧙⚙️ Import structured data (e.g. Excel, CSV, XML, JSON) into one or more Django models via an interactive web-based wizard
 - [jamesturk/django-markupfield](https://github.com/jamesturk/django-markupfield) - 📑 a MarkupField for Django
 - [jonathan-s/django-sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the django tooling you already know and love.
@@ -428,13 +435,19 @@
 
 ## flask 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [mikeckennedy/jinja_partials](https://github.com/mikeckennedy/jinja_partials) - Simple reuse of partial HTML page templates in the Jinja template language for Python web frameworks.
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
 
+## font 
+
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
 ## framework 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [dinoperovic/django-salesman](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django and Wagtail.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
@@ -497,6 +510,7 @@
 
 ## hacktoberfest 
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [nephila/django-meta](https://github.com/nephila/django-meta) - Pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -552,6 +566,10 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 
+## icon-font 
+
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
 ## image-processing 
 
 - [codingjoe/django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP
@@ -598,6 +616,7 @@
 
 ## json 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
 
 ## kubernetes 
@@ -661,6 +680,7 @@
 
 ## monitoring 
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -827,6 +847,12 @@
 
 ## python 
 
+- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [nephila/django-meta](https://github.com/nephila/django-meta) - Pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
@@ -938,6 +964,8 @@
 
 ## python3 
 
+- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - PEP-484 stubs for Django
@@ -1034,6 +1062,7 @@
 
 ## shell 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1078,6 +1107,7 @@
 
 ## testing 
 
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1115,6 +1145,7 @@
 
 ## web 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
