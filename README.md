@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C++](#c++)
+- [CSS](#css)
 - [CoffeeScript](#coffeescript)
 - [Go](#go)
 - [HCL](#hcl)
@@ -43,6 +44,10 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+
+## CSS 
+
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## CoffeeScript 
 
@@ -133,6 +138,11 @@
 
 ## Python 
 
+- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [wq/django-data-wizard](https://github.com/wq/django-data-wizard) - 🧙⚙️ Import structured data (e.g. Excel, CSV, XML, JSON) into one or more Django models via an interactive web-based wizard
 - [nephila/django-meta](https://github.com/nephila/django-meta) - Pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
 - [jamesturk/django-markupfield](https://github.com/jamesturk/django-markupfield) - 📑 a MarkupField for Django
