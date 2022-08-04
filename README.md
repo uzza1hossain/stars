@@ -55,6 +55,7 @@
 
 ## Go 
 
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
@@ -139,6 +140,7 @@
 
 ## Python 
 
+- [django/django-contrib-comments](https://github.com/django/django-contrib-comments) - 
 - [mblayman/django-denied](https://github.com/mblayman/django-denied) - An authorization system based exclusively on allow lists
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
@@ -367,7 +369,7 @@
 
 ## SCSS 
 
-- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Static Jekyll Site/Blog  :rocket: in minutes built for developers.
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Static Jekyll Site/Blog with Admin :rocket: in minutes built for developers.
 
 ## Sass 
 
