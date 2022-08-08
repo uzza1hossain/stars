@@ -767,6 +767,9 @@
 
 ## others 
 
+- [asweigart/humre](https://github.com/asweigart/humre) - A human-readable regular expression module for Python.
+- [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [django/djangosnippets.org](https://github.com/django/djangosnippets.org) - The code that powers djangosnippets.org, it allows users to post and share useful "snippets" of code.
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
