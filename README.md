@@ -40,6 +40,7 @@
 
 ## C++ 
 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -142,6 +143,8 @@
 
 ## Python 
 
+- [asweigart/humre](https://github.com/asweigart/humre) - A human-readable regular expression module for Python.
+- [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - This Library a Audio Validator For Django With d MIME type checking the magic numbers signature And Extension Use FileType Library
 - [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.
 - [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions.
