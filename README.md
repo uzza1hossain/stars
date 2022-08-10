@@ -56,6 +56,9 @@
 
 ## Go 
 
+- [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
+- [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
+- [loophole/cli](https://github.com/loophole/cli) - Loophole. Instant hosting, right from your local machine. CLI.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -78,6 +81,7 @@
 
 ## HTML 
 
+- [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [rebataur/djkube](https://github.com/rebataur/djkube) - Tool for Django Developers to setup full stack EKS Kubernetes with all necessary tools including DevSecOps in 40 minutes
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [jacklinke/django-model-info](https://github.com/jacklinke/django-model-info) - A Django Management Command for displaying details about your project's models
@@ -143,6 +147,7 @@
 
 ## Python 
 
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [asweigart/humre](https://github.com/asweigart/humre) - A human-readable regular expression module for Python.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
@@ -405,6 +410,7 @@
 
 ## TypeScript 
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [floms/caprover-mobile](https://github.com/floms/caprover-mobile) - 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
