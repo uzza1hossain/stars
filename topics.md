@@ -139,6 +139,7 @@
 
 ## automation 
 
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -181,6 +182,7 @@
 
 ## aws 
 
+- [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
@@ -226,6 +228,7 @@
 
 ## cli 
 
+- [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -464,6 +467,7 @@
 
 ## framework 
 
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [dinoperovic/django-salesman](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django and Wagtail.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -514,6 +518,7 @@
 
 ## golang 
 
+- [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -590,6 +595,7 @@
 
 ## http 
 
+- [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -692,6 +698,7 @@
 
 ## macos 
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -767,6 +774,8 @@
 
 ## others 
 
+- [loophole/cli](https://github.com/loophole/cli) - Loophole. Instant hosting, right from your local machine. CLI.
+- [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [asweigart/humre](https://github.com/asweigart/humre) - A human-readable regular expression module for Python.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
@@ -903,6 +912,7 @@
 
 ## python 
 
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - This Library a Audio Validator For Django With d MIME type checking the magic numbers signature And Extension Use FileType Library
 - [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.
@@ -1056,6 +1066,7 @@
 
 ## react 
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
@@ -1067,6 +1078,7 @@
 
 ## react-native 
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 
 ## reactjs 
