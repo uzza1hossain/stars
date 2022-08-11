@@ -774,6 +774,8 @@
 
 ## others 
 
+- [pydantic/hooky](https://github.com/pydantic/hooky) - FastAPI app to receive and respond to GitHub webhooks
+- [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [loophole/cli](https://github.com/loophole/cli) - Loophole. Instant hosting, right from your local machine. CLI.
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
