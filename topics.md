@@ -774,6 +774,8 @@
 
 ## others 
 
+- [cloudradar-monitoring/rport](https://github.com/cloudradar-monitoring/rport) - Manage remote systems with ease. See more https://rport.io
+- [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
 - [pydantic/hooky](https://github.com/pydantic/hooky) - FastAPI app to receive and respond to GitHub webhooks
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [loophole/cli](https://github.com/loophole/cli) - Loophole. Instant hosting, right from your local machine. CLI.
