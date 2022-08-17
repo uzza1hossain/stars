@@ -551,6 +551,7 @@
 
 ## hacktoberfest 
 
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -789,6 +790,7 @@
 
 ## others 
 
+- [lavr/python-emails](https://github.com/lavr/python-emails) - Modern python library for emails
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 - [Lukas-Schillinger/django-queryset-feeler](https://github.com/Lukas-Schillinger/django-queryset-feeler) - tools to help understand how django querysets are executed
 - [jazzband/django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
@@ -915,6 +917,7 @@
 
 ## parsing 
 
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
 ## php 
@@ -934,6 +937,9 @@
 
 ## python 
 
+- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
 - [ubernostrum/django-registration](https://github.com/ubernostrum/django-registration) - An extensible user-registration app for Django.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [modlinltd/django-advanced-filters](https://github.com/modlinltd/django-advanced-filters) - Add advanced filtering abilities to Django admin
@@ -1219,6 +1225,7 @@
 
 ## testing 
 
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [revsys/django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
