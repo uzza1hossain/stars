@@ -151,6 +151,9 @@
 
 ## Python 
 
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [lavr/python-emails](https://github.com/lavr/python-emails) - Modern python library for emails
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
