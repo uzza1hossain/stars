@@ -288,7 +288,7 @@
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Static Jekyll Site/Blog with Admin :rocket: in minutes built for developers.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## data-science 
 
@@ -324,6 +324,7 @@
 
 ## django 
 
+- [jrief/django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface
 - [rsinger86/drf-access-policy](https://github.com/rsinger86/drf-access-policy) - Declarative access policies/permissions modeled after AWS' IAM policies.
 - [openwisp/django-swappable-models](https://github.com/openwisp/django-swappable-models) - Swapper - The unofficial Django swappable models API. Maintained by the OpenWISP project.
 - [wq/django-rest-pandas](https://github.com/wq/django-rest-pandas) - 📊📈 Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
@@ -951,6 +952,7 @@
 
 ## python 
 
+- [jrief/django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
@@ -1137,7 +1139,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [Frojd/django-react-templatetags](https://github.com/Frojd/django-react-templatetags) - A quick way to add React components to your Django templates.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
-- [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## rest-api 
 
@@ -1266,7 +1268,7 @@
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-- [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 
 ## vim 
@@ -1302,7 +1304,7 @@
 
 ## webpack 
 
-- [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## windows 
 
