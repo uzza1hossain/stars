@@ -811,6 +811,7 @@
 
 ## others 
 
+- [Koed00/django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue for Django
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [django/django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame
 - [coderholic/django-cities](https://github.com/coderholic/django-cities) - Countries and cities of the world for Django projects
