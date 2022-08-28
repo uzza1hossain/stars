@@ -91,6 +91,7 @@
 
 ## HTML 
 
+- [remastr/django-unfold](https://github.com/remastr/django-unfold) - Minimal Django theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [rebataur/djkube](https://github.com/rebataur/djkube) - Tool for Django Developers to setup full stack EKS Kubernetes with all necessary tools including DevSecOps in 40 minutes
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -105,6 +106,7 @@
 
 ## Java 
 
+- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
 ## JavaScript 
@@ -164,6 +166,7 @@
 
 ## Python 
 
+- [MattBroach/DjangoRestMultipleModels](https://github.com/MattBroach/DjangoRestMultipleModels) - View (and mixin) for serializing multiple models or querysets in Django Rest Framework
 - [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
 - [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
