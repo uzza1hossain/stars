@@ -16,7 +16,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Lua](#lua)
 - [Nim](#nim)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -136,10 +135,6 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 
-## Lua 
-
-- [lvim-tech/lvim](https://github.com/lvim-tech/lvim) - LVIM IDE is a modular Neovim configuration written in LUA with full customization.
-
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -173,6 +168,7 @@
 
 ## Python 
 
+- [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [MattBroach/DjangoRestMultipleModels](https://github.com/MattBroach/DjangoRestMultipleModels) - View (and mixin) for serializing multiple models or querysets in Django Rest Framework
 - [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
@@ -185,7 +181,7 @@
 - [jrief/django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface
 - [rsinger86/drf-access-policy](https://github.com/rsinger86/drf-access-policy) - Declarative access policies/permissions modeled after AWS' IAM policies.
 - [django/django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame
-- [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
+- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [openwisp/django-swappable-models](https://github.com/openwisp/django-swappable-models) - Swapper - The unofficial Django swappable models API. Maintained by the OpenWISP project.
 - [coderholic/django-cities](https://github.com/coderholic/django-cities) - Countries and cities of the world for Django projects
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
