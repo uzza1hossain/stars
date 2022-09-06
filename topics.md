@@ -354,6 +354,7 @@
 
 ## django 
 
+- [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [remastr/django-unfold](https://github.com/remastr/django-unfold) - Minimal Django theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
 - [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
@@ -859,6 +860,7 @@
 
 ## others 
 
+- [glasnt/emojificate](https://github.com/glasnt/emojificate) - 🙃 Turn text with emoji into text with accessible emoji
 - [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Sharing patterns I use with Django and htmx
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [schinckel/django-shared-property](https://github.com/schinckel/django-shared-property) - Properties that are both ORM expressions and python code.
@@ -1229,6 +1231,7 @@
 
 ## rest-api 
 
+- [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [wq/django-rest-pandas](https://github.com/wq/django-rest-pandas) - 📊📈 Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
 - [py-universe/django-rest-cli](https://github.com/py-universe/django-rest-cli) - Scaffold your Django Rest(DRF) projects faster with DR-CLI⚡🚀
 - [lingster/drf-api-tracking](https://github.com/lingster/drf-api-tracking) - Fork of aschn/drf-tracking so that we can maintain and release newer versions
