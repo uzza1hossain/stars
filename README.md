@@ -169,6 +169,8 @@
 
 ## Python 
 
+- [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
+- [glasnt/emojificate](https://github.com/glasnt/emojificate) - 🙃 Turn text with emoji into text with accessible emoji
 - [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Sharing patterns I use with Django and htmx
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [schinckel/django-shared-property](https://github.com/schinckel/django-shared-property) - Properties that are both ORM expressions and python code.
