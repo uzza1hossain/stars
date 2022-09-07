@@ -210,7 +210,7 @@
 - [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [asweigart/humre](https://github.com/asweigart/humre) - A human-readable regular expression module for Python.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
-- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - This Library a Audio Validator For Django With d MIME type checking the magic numbers signature And Extension Use FileType Library
+- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - An audio validator for Django that checks the mime and extension of audio files
 - [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.
 - [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions.
 - [revsys/django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase
