@@ -366,7 +366,7 @@
 - [ubernostrum/django-registration](https://github.com/ubernostrum/django-registration) - An extensible user-registration app for Django.
 - [Frojd/django-react-templatetags](https://github.com/Frojd/django-react-templatetags) - A quick way to add React components to your Django templates.
 - [modlinltd/django-advanced-filters](https://github.com/modlinltd/django-advanced-filters) - Add advanced filtering abilities to Django admin
-- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - This Library a Audio Validator For Django With d MIME type checking the magic numbers signature And Extension Use FileType Library
+- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - An audio validator for Django that checks the mime and extension of audio files
 - [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.
 - [revsys/django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
@@ -1047,7 +1047,7 @@
 - [modlinltd/django-advanced-filters](https://github.com/modlinltd/django-advanced-filters) - Add advanced filtering abilities to Django admin
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
-- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - This Library a Audio Validator For Django With d MIME type checking the magic numbers signature And Extension Use FileType Library
+- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - An audio validator for Django that checks the mime and extension of audio files
 - [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
