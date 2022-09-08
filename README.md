@@ -16,6 +16,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [Nim](#nim)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -134,6 +135,10 @@
 - [learningnoobi/django_channels_bingo_game](https://github.com/learningnoobi/django_channels_bingo_game) - Real Time Multiplayer Bingo Game Using Django Channels and Javascript
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
+
+## Lua 
+
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
 ## Nim 
 
