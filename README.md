@@ -79,7 +79,7 @@
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -174,6 +174,8 @@
 
 ## Python 
 
+- [jazzband/django-defender](https://github.com/jazzband/django-defender) - A simple super fast django reusable app that blocks people from brute forcing login attempts
+- [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [glasnt/emojificate](https://github.com/glasnt/emojificate) - 🙃 Turn text with emoji into text with accessible emoji
 - [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Sharing patterns I use with Django and htmx
