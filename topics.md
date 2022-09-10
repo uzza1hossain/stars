@@ -22,6 +22,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [code](#code)
+- [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -275,6 +276,10 @@
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 
+## code-review 
+
+- [pydantic/hooky](https://github.com/pydantic/hooky) - Productivity tools for popular open source repos, used by pydantic
+
 ## compiler 
 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -354,6 +359,7 @@
 
 ## django 
 
+- [codingjoe/django-select2](https://github.com/codingjoe/django-select2) - This is a Django integration for Select2
 - [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [remastr/django-unfold](https://github.com/remastr/django-unfold) - Minimal Django theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
@@ -885,7 +891,6 @@
 - [jazzband/django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
 - [cloudradar-monitoring/rport](https://github.com/cloudradar-monitoring/rport) - Manage remote systems with ease. See more https://rport.io
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
-- [pydantic/hooky](https://github.com/pydantic/hooky) - FastAPI app to receive and respond to GitHub webhooks
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [loophole/cli](https://github.com/loophole/cli) - Loophole. Instant hosting, right from your local machine. CLI.
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
