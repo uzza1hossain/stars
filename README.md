@@ -176,6 +176,10 @@
 
 ## Python 
 
+- [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
+- [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications
+- [larryhastings/appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
+- [swyddfa/esbonio](https://github.com/swyddfa/esbonio) - A language server for working with Sphinx projects.
 - [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v4.0
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
@@ -311,7 +315,7 @@
 - [MythicManiac/copilot-import](https://github.com/MythicManiac/copilot-import) - Inspired by https://github.com/drathier/stack-overflow-import
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [Salaah01/django-form-creator](https://github.com/Salaah01/django-form-creator) - A Django app that allows users to dynamically create forms.
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [stefanfoulis/django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
 - [caramdache/django-dynamic-filters](https://github.com/caramdache/django-dynamic-filters) - Add dynamic filtering abilities to Django admin
