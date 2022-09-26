@@ -182,6 +182,8 @@
 
 ## Python 
 
+- [wharton/drf-excel](https://github.com/wharton/drf-excel) - An XLSX spreadsheet renderer for Django REST Framework.
+- [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [skoczen/django-seo-js](https://github.com/skoczen/django-seo-js) - SEO support for react, Vue, angular, backbone, ember.us, and other SPA apps built with django.
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [adamghill/django-fbv](https://github.com/adamghill/django-fbv) - Utilities to make function-based views cleaner, more efficient, and better tasting.
@@ -467,7 +469,7 @@
 
 ## Rust 
 
-- [cnpryer/huak](https://github.com/cnpryer/huak) - A Python package manager written in Rust inspired by Cargo.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
