@@ -372,6 +372,8 @@
 
 ## django 
 
+- [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django.
+- [jieter/django-tables2](https://github.com/jieter/django-tables2) - django-tables2 - An app for creating HTML tables
 - [snok/django-guid](https://github.com/snok/django-guid) - Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with Celery
 - [voiio/emark](https://github.com/voiio/emark) - eMark↓ – Markdown template based HTML and text emails for Django.
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
@@ -650,12 +652,14 @@
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [nephila/django-meta](https://github.com/nephila/django-meta) - Pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [jonathan-s/django-sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the django tooling you already know and love.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - PEP-484 stubs for Django
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -917,6 +921,8 @@
 
 ## others 
 
+- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
+- [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window
 - [zanderle/django-sft](https://github.com/zanderle/django-sft) - Django Single File Templates — inspired by Vue's Single file components
 - [MetaMetricsInc/django-warrant](https://github.com/MetaMetricsInc/django-warrant) - Django package that uses AWS Cognito and Warrant to create a Django backend and common views.
 - [wharton/drf-excel](https://github.com/wharton/drf-excel) - An XLSX spreadsheet renderer for Django REST Framework.
@@ -1099,6 +1105,7 @@
 
 ## python 
 
+- [jieter/django-tables2](https://github.com/jieter/django-tables2) - django-tables2 - An app for creating HTML tables
 - [voiio/emark](https://github.com/voiio/emark) - eMark↓ – Markdown template based HTML and text emails for Django.
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
