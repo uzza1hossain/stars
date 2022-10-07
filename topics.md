@@ -640,6 +640,7 @@
 
 ## hacktoberfest 
 
+- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [voiio/emark](https://github.com/voiio/emark) - eMark↓ – Markdown template based HTML and text emails for Django.
 - [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
@@ -685,6 +686,7 @@
 - [cfpb/django-flags](https://github.com/cfpb/django-flags) - Feature flags for Django projects
 - [zodman/inertia-django](https://github.com/zodman/inertia-django) - django connector for inertia
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [codingjoe/django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP
 - [alanjds/drf-nested-routers](https://github.com/alanjds/drf-nested-routers) - Nested Routers for Django Rest Framework
@@ -801,6 +803,7 @@
 
 ## learning 
 
+- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
 ## library 
@@ -894,6 +897,7 @@
 
 ## nlp 
 
+- [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 
 ## node 
@@ -923,6 +927,10 @@
 
 ## others 
 
+- [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
+- [edelvalle/djhtmx](https://github.com/edelvalle/djhtmx) - Interactive UI components for Django using htmx.org
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [adamchainz/django-read-only](https://github.com/adamchainz/django-read-only) - Disable Django database writes.
 - [mrswats/django-interactive-models](https://github.com/mrswats/django-interactive-models) - Create Django Models interactively
 - [gavinwahl/django-postgres-queue](https://github.com/gavinwahl/django-postgres-queue) - A task queue for django
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
@@ -1109,6 +1117,7 @@
 
 ## python 
 
+- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [jieter/django-tables2](https://github.com/jieter/django-tables2) - django-tables2 - An app for creating HTML tables
 - [voiio/emark](https://github.com/voiio/emark) - eMark↓ – Markdown template based HTML and text emails for Django.
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
@@ -1351,6 +1360,7 @@
 
 ## rust 
 
+- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
