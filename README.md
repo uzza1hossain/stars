@@ -96,6 +96,7 @@
 
 ## HTML 
 
+- [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django.
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
@@ -120,6 +121,7 @@
 
 ## JavaScript 
 
+- [edelvalle/djhtmx](https://github.com/edelvalle/djhtmx) - Interactive UI components for Django using htmx.org
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
@@ -164,6 +166,7 @@
 
 ## Others 
 
+- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere.
@@ -188,6 +191,7 @@
 
 ## Python 
 
+- [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [adamchainz/django-read-only](https://github.com/adamchainz/django-read-only) - Disable Django database writes.
 - [mrswats/django-interactive-models](https://github.com/mrswats/django-interactive-models) - Create Django Models interactively
 - [gavinwahl/django-postgres-queue](https://github.com/gavinwahl/django-postgres-queue) - A task queue for django
