@@ -376,6 +376,7 @@
 
 ## django 
 
+- [vintasoftware/django-role-permissions](https://github.com/vintasoftware/django-role-permissions) - A django app for role based permissions.
 - [soynatan/django-easy-audit](https://github.com/soynatan/django-easy-audit) - Yet another Django audit log app, hopefully the simplest one.
 - [eventbrite/tikibar](https://github.com/eventbrite/tikibar) - A debugging and information toolbar for django, designed for lightweight impact so it can be enabled selectively and run in production.
 - [app-generator/devtool-django-api-generator](https://github.com/app-generator/devtool-django-api-generator) - Django API Generator - Open-Source Tool for Developers | AppSeed
@@ -392,6 +393,7 @@
 - [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [remastr/django-unfold](https://github.com/remastr/django-unfold) - Minimal Django theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
+- [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [jrief/django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface
@@ -671,6 +673,7 @@
 - [jonathan-s/django-sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the django tooling you already know and love.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - PEP-484 stubs for Django
@@ -940,6 +943,7 @@
 
 ## others 
 
+- [MarcoGorelli/auto-walrus](https://github.com/MarcoGorelli/auto-walrus) - Automatically use the walrus operator where possible
 - [syse-i/django-component-tags-tailwindcss](https://github.com/syse-i/django-component-tags-tailwindcss) - Tailwindcss component tags for Django Projects.
 - [syse-i/django-component-tags](https://github.com/syse-i/django-component-tags) - Create advanced HTML components using Django Tags.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -976,7 +980,6 @@
 - [MattBroach/DjangoRestMultipleModels](https://github.com/MattBroach/DjangoRestMultipleModels) - View (and mixin) for serializing multiple models or querysets in Django Rest Framework
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
-- [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [python-social-auth/social-app-django](https://github.com/python-social-auth/social-app-django) - Python Social Auth - Application - Django
 - [Koed00/django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue for Django
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
@@ -1134,6 +1137,7 @@
 
 ## python 
 
+- [vintasoftware/django-role-permissions](https://github.com/vintasoftware/django-role-permissions) - A django app for role based permissions.
 - [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
