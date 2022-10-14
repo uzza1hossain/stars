@@ -943,7 +943,8 @@
 
 ## others 
 
-- [MarcoGorelli/auto-walrus](https://github.com/MarcoGorelli/auto-walrus) - Automatically use the walrus operator where possible
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+- [jazzband/django-formtools](https://github.com/jazzband/django-formtools) - A set of high-level abstractions for Django forms
 - [syse-i/django-component-tags-tailwindcss](https://github.com/syse-i/django-component-tags-tailwindcss) - Tailwindcss component tags for Django Projects.
 - [syse-i/django-component-tags](https://github.com/syse-i/django-component-tags) - Create advanced HTML components using Django Tags.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -1137,7 +1138,9 @@
 
 ## python 
 
+- [Salamek/cron-descriptor](https://github.com/Salamek/cron-descriptor) - A Python library that converts cron expressions into human readable strings.
 - [vintasoftware/django-role-permissions](https://github.com/vintasoftware/django-role-permissions) - A django app for role based permissions.
+- [MarcoGorelli/auto-walrus](https://github.com/MarcoGorelli/auto-walrus) - Automatically use the awesome walrus operator
 - [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
