@@ -196,6 +196,8 @@
 
 ## Python 
 
+- [s-block/django-nested-inline](https://github.com/s-block/django-nested-inline) - Nested inline support for Django admin
+- [javrasya/django-river](https://github.com/javrasya/django-river) - Django workflow library that supports on the fly changes ⛵
 - [Salamek/cron-descriptor](https://github.com/Salamek/cron-descriptor) - A Python library that converts cron expressions into human readable strings.
 - [jazzband/django-formtools](https://github.com/jazzband/django-formtools) - A set of high-level abstractions for Django forms
 - [vintasoftware/django-role-permissions](https://github.com/vintasoftware/django-role-permissions) - A django app for role based permissions.
