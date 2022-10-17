@@ -548,7 +548,7 @@
 
 ## firebase 
 
-- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Jekyll Site/Blog with CMS :rocket: in minutes built for developers.
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - A Customizable/Hackable portfolio website where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 
 ## firefox 
 
@@ -692,7 +692,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Jekyll Site/Blog with CMS :rocket: in minutes built for developers.
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - A Customizable/Hackable portfolio website where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
