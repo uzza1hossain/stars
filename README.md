@@ -18,6 +18,7 @@
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Nim](#nim)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -161,6 +162,10 @@
 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -181,7 +186,6 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
@@ -350,6 +354,7 @@
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py) - Type-safe and powerful Python library to generate SVG files
 - [asottile/blacken-docs](https://github.com/asottile/blacken-docs) - Run `black` on python code blocks in documentation files
