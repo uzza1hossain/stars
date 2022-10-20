@@ -200,6 +200,7 @@
 
 ## Python 
 
+- [occipital/django-consistency-model](https://github.com/occipital/django-consistency-model) - DCM is a set of tools that helps you to keep your data in your Django Models consistent.
 - [meshy/django-schema-graph](https://github.com/meshy/django-schema-graph) - An interactive graph of your Django model structure
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [s-block/django-nested-inline](https://github.com/s-block/django-nested-inline) - Nested inline support for Django admin
