@@ -363,7 +363,7 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [kevinjalbert/notion-toolbox](https://github.com/kevinjalbert/notion-toolbox) - This is a collection of Notion tools that work in tandem together.
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
-- [matthiask/django-tree-queries](https://github.com/matthiask/django-tree-queries) - Like django-cte-forest, but with explicit opt-in and less configurability
+- [matthiask/django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
 - [jazzband/django-invitations](https://github.com/jazzband/django-invitations) - Generic invitations app for Django
 - [dozymoe/frozen-django](https://github.com/dozymoe/frozen-django) - Incrementally create static sites from Django, meant to be used in background tasks.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
