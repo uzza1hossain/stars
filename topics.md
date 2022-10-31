@@ -682,6 +682,7 @@
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
+- [codingjoe/django-select2](https://github.com/codingjoe/django-select2) - This is a Django integration for Select2
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
