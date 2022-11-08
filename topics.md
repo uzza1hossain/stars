@@ -713,7 +713,6 @@
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - PEP-484 stubs for Django
-- [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -1000,7 +999,7 @@
 - [bitdotioinc/pgsqlite](https://github.com/bitdotioinc/pgsqlite) - Load sqlite databases into Postgres databases
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
 - [wagtail/django-modelcluster](https://github.com/wagtail/django-modelcluster) - Django extension to allow working with 'clusters' of models as a single unit, independently of the database
-- [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
+- [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter) - macOS tool to limit maximum charging percentage
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
@@ -1291,6 +1290,7 @@
 - [barseghyanartur/django-fobi](https://github.com/barseghyanartur/django-fobi) - Form generator/builder application for Django done right: customisable, modular, user- and developer- friendly.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - PEP-484 stubs for Django
+- [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [keithrozario/Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers
 - [valohai/django-allauth-2fa](https://github.com/valohai/django-allauth-2fa) - Two-factor authentication for Django Allauth
 - [dabapps/django-readers](https://github.com/dabapps/django-readers) - A lightweight function-oriented toolkit for better organisation of business logic and efficient selection and projection of data in Django projects.
