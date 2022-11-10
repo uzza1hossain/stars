@@ -418,7 +418,7 @@
 - [codingjoe/django-select2](https://github.com/codingjoe/django-select2) - This is a Django integration for Select2
 - [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
-- [remastr/django-unfold](https://github.com/remastr/django-unfold) - Minimal Django admin theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
+- [remastr/django-unfold](https://github.com/remastr/django-unfold) - Django admin theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
 - [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
@@ -798,6 +798,7 @@
 
 ## javascript 
 
+- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -988,6 +989,7 @@
 
 ## others 
 
+- [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [jazzband/django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
 - [radiac/django-tagulous](https://github.com/radiac/django-tagulous) - Fabulous Tagging for Django
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
@@ -1005,7 +1007,6 @@
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [lincolnloop/django-production](https://github.com/lincolnloop/django-production) - production settings for Django
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [occipital/django-consistency-model](https://github.com/occipital/django-consistency-model) - DCM is a set of tools that helps you to keep your data in your Django Models consistent.
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
 - [s-block/django-nested-inline](https://github.com/s-block/django-nested-inline) - Nested inline support for Django admin
@@ -1244,7 +1245,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [remastr/django-unfold](https://github.com/remastr/django-unfold) - Minimal Django admin theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
+- [remastr/django-unfold](https://github.com/remastr/django-unfold) - Django admin theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
@@ -1597,6 +1598,7 @@
 
 ## typescript 
 
+- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and 
