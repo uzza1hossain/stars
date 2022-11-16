@@ -999,6 +999,7 @@
 
 ## others 
 
+- [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [andrewgodwin/yamdl](https://github.com/andrewgodwin/yamdl) - ORM-queryable YAML fixtures for Django
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
 - [tim-schilling/django-anymail](https://github.com/tim-schilling/django-anymail) - Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, Postal, SendGrid, Sendinblue, SparkPost and more
