@@ -397,6 +397,9 @@
 
 ## django 
 
+- [mobolic/django-session-cleanup](https://github.com/mobolic/django-session-cleanup) - A periodic task for removing expired Django sessions from the django_session table
+- [dealertrack/django-rest-framework-braces](https://github.com/dealertrack/django-rest-framework-braces) - Collection of utilities for working with django rest framework (DRF)
+- [AlexHill/django-relativity](https://github.com/AlexHill/django-relativity) - More expressive relationships for the Django ORM.
 - [fabiocaccamo/django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - :construction: :hammer_and_wrench: shows a 503 error page when maintenance-mode is on.
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [theatlantic/django-nested-admin](https://github.com/theatlantic/django-nested-admin) - Django admin classes that allow for nested inlines
@@ -637,6 +640,7 @@
 
 ## github 
 
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
@@ -646,6 +650,7 @@
 
 ## github-api 
 
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 
@@ -999,6 +1004,8 @@
 
 ## others 
 
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
+- [yourlabs/django-session-security](https://github.com/yourlabs/django-session-security) - A little javascript and middleware work together to ensure that the user was active during the past X minutes in any tab he has open. Otherwise, display a warning leaving a couple of minutes to show a
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [andrewgodwin/yamdl](https://github.com/andrewgodwin/yamdl) - ORM-queryable YAML fixtures for Django
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
@@ -1220,6 +1227,7 @@
 
 ## python 
 
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
 - [fabiocaccamo/django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - :construction: :hammer_and_wrench: shows a 503 error page when maintenance-mode is on.
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
