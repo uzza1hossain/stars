@@ -64,6 +64,7 @@
 
 ## Go 
 
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
@@ -201,6 +202,11 @@
 
 ## Python 
 
+- [yourlabs/django-session-security](https://github.com/yourlabs/django-session-security) - A little javascript and middleware work together to ensure that the user was active during the past X minutes in any tab he has open. Otherwise, display a warning leaving a couple of minutes to show a
+- [mobolic/django-session-cleanup](https://github.com/mobolic/django-session-cleanup) - A periodic task for removing expired Django sessions from the django_session table
+- [dealertrack/django-rest-framework-braces](https://github.com/dealertrack/django-rest-framework-braces) - Collection of utilities for working with django rest framework (DRF)
+- [AlexHill/django-relativity](https://github.com/AlexHill/django-relativity) - More expressive relationships for the Django ORM.
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [andrewgodwin/yamdl](https://github.com/andrewgodwin/yamdl) - ORM-queryable YAML fixtures for Django
 - [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
 - [fabiocaccamo/django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - :construction: :hammer_and_wrench: shows a 503 error page when maintenance-mode is on.
