@@ -202,6 +202,8 @@
 
 ## Python 
 
+- [jacklinke/django-range-merge](https://github.com/jacklinke/django-range-merge) - Enables the range_merge Aggregate for Django on Postgres. range_merge "Computes the smallest range that includes ... the given ranges".
+- [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [Bearle/django_private_chat2](https://github.com/Bearle/django_private_chat2) - Chat app for Django, powered by Django Channels, Websockets & Asyncio
 - [django-cms/django-filer](https://github.com/django-cms/django-filer) - File and Image Management Application for django
 - [django-admin-tools/django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - Extends the Django Admin to include a extensible dashboard and navigation menu
