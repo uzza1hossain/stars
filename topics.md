@@ -1009,6 +1009,7 @@
 
 ## others 
 
+- [rajasimon/django-command-palette](https://github.com/rajasimon/django-command-palette) - A modern Django admin shortcut interface  ( kbar )
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [Shopify/shopify_python_api](https://github.com/Shopify/shopify_python_api) - ShopifyAPI library allows Python developers to programmatically access the admin section of stores
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
@@ -1235,6 +1236,7 @@
 
 ## python 
 
+- [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions
 - [django-cms/django-filer](https://github.com/django-cms/django-filer) - File and Image Management Application for django
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [darrenburns/shira](https://github.com/darrenburns/shira) - the python inspector 🔍
