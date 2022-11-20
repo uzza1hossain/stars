@@ -126,6 +126,7 @@
 
 ## JavaScript 
 
+- [rajasimon/django-command-palette](https://github.com/rajasimon/django-command-palette) - A modern Django admin shortcut interface  ( kbar )
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
@@ -202,6 +203,7 @@
 
 ## Python 
 
+- [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions
 - [jacklinke/django-range-merge](https://github.com/jacklinke/django-range-merge) - Enables the range_merge Aggregate for Django on Postgres. range_merge "Computes the smallest range that includes ... the given ranges".
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [Bearle/django_private_chat2](https://github.com/Bearle/django_private_chat2) - Chat app for Django, powered by Django Channels, Websockets & Asyncio
