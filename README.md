@@ -129,6 +129,7 @@
 
 ## JavaScript 
 
+- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [calmjohnson/alpineapple](https://github.com/calmjohnson/alpineapple) - Alpine JS UI Components styled with Tailwind Css
 - [patrikx3/redis-ui](https://github.com/patrikx3/redis-ui) - 📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
@@ -215,6 +216,7 @@
 
 ## Python 
 
+- [pavelsof/django-mirror](https://github.com/pavelsof/django-mirror) - cheese shop package marrying django with codemirror
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
 - [jazzband/django-smart-selects](https://github.com/jazzband/django-smart-selects) - chained and grouped selects for django forms
@@ -591,6 +593,7 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
