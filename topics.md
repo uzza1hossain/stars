@@ -494,7 +494,7 @@
 - [carltongibson/django-sphinx-view](https://github.com/carltongibson/django-sphinx-view) - Serve your Sphinx docs with Django.
 - [jcass77/django-apscheduler](https://github.com/jcass77/django-apscheduler) - APScheduler for Django
 - [akx/django-managerie](https://github.com/akx/django-managerie) - Expose Django management commands in the admin
-- [israelabraham/django-sotp](https://github.com/israelabraham/django-sotp) - Generate a secured base32 one time password to authenticate your user! 🔐
+- [aybruhm/django-sotp](https://github.com/aybruhm/django-sotp) - Generate a secured base32 one time password to authenticate your user! 🔐
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [pytest-dev/pytest-django](https://github.com/pytest-dev/pytest-django) - A Django plugin for pytest.
 - [fabiocaccamo/django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - :art: color field for django models with a nice color-picker in the admin.
@@ -1389,7 +1389,7 @@
 - [adamghill/coltrane](https://github.com/adamghill/coltrane) - A simple content site framework that harnesses the power of Django without the hassle.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [israelabraham/django-sotp](https://github.com/israelabraham/django-sotp) - Generate a secured base32 one time password to authenticate your user! 🔐
+- [aybruhm/django-sotp](https://github.com/aybruhm/django-sotp) - Generate a secured base32 one time password to authenticate your user! 🔐
 - [fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e) - Example code for Fluent Python, 2nd edition (O'Reilly 2022)
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
