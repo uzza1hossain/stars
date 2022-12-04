@@ -423,6 +423,7 @@
 
 ## django 
 
+- [Opus10/django-pgpubsub](https://github.com/Opus10/django-pgpubsub) - A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 - [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - A fresh approach to autocomplete implementations, specially for Django. Status: v4 alpha, v3 stable, v2 & v1 deprecated.
 - [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A simple django project template for modern web apps.
@@ -1059,6 +1060,9 @@
 
 ## others 
 
+- [brutasse/django-push](https://github.com/brutasse/django-push) - PubSubHubbub support for Django
+- [roman-right/lazy_model](https://github.com/roman-right/lazy_model) - Lazy parsing for Pydantic models
+- [diefenbach/djello](https://github.com/diefenbach/djello) - This is a try to create a trello clone by using Django, django_components, htmx and hyperscript.
 - [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette/FastApi applications
 - [mohi7solanki/dj-snake](https://github.com/mohi7solanki/dj-snake) - Django command to load fixture without overriding existing objects with same primary key
 - [boxed/django-fastdev](https://github.com/boxed/django-fastdev) - An app to make it faster and more fun to develop in Django
