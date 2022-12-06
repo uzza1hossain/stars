@@ -560,7 +560,7 @@
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 - [runekaagaard/django-hypergen](https://github.com/runekaagaard/django-hypergen) - Take a break from javascript. Write server-rendered reactive HTML liveviews for Django in pure python 💫
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [lingster/drf-api-tracking](https://github.com/lingster/drf-api-tracking) - Fork of aschn/drf-tracking so that we can maintain and release newer versions
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [Brobin/drf-generators](https://github.com/Brobin/drf-generators) - :triangular_ruler: Generate Views, Serializers, and Urls for your Django Rest Framework application
@@ -681,7 +681,7 @@
 - [codegps/vsc-codio](https://github.com/codegps/vsc-codio) - A media format for VS Code to record and playback the process of programming.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-- [maverick-js/observables](https://github.com/maverick-js/observables) - A tiny (~850B minzipped) and extremely fast library for creating reactive observables via functions.
+- [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~850B minzipped) and extremely fast library for creating reactive observables via functions.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
