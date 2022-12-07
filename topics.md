@@ -331,6 +331,7 @@
 
 ## compiler 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -426,7 +427,7 @@
 - [Opus10/django-pgpubsub](https://github.com/Opus10/django-pgpubsub) - A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 - [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - A fresh approach to autocomplete implementations, specially for Django. Status: v4 alpha, v3 stable, v2 & v1 deprecated.
-- [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A simple django project template for modern web apps.
+- [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience.
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
 - [farhan0581/django-admin-autocomplete-filter](https://github.com/farhan0581/django-admin-autocomplete-filter) - A simple Django app to render list filters in django admin using autocomplete widget.
@@ -735,6 +736,7 @@
 
 ## hacktoberfest 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -911,6 +913,7 @@
 
 ## language 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -968,6 +971,7 @@
 
 ## markdown 
 
+- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [voiio/emark](https://github.com/voiio/emark) - eMark↓ – Markdown template based HTML and text emails for Django.
@@ -1060,6 +1064,7 @@
 
 ## others 
 
+- [orf/hq](https://github.com/orf/hq) - jq, but for HTML
 - [brutasse/django-push](https://github.com/brutasse/django-push) - PubSubHubbub support for Django
 - [roman-right/lazy_model](https://github.com/roman-right/lazy_model) - Lazy parsing for Pydantic models
 - [diefenbach/djello](https://github.com/diefenbach/djello) - This is a try to create a trello clone by using Django, django_components, htmx and hyperscript.
@@ -1302,12 +1307,13 @@
 
 ## python 
 
+- [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 - [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - A fresh approach to autocomplete implementations, specially for Django. Status: v4 alpha, v3 stable, v2 & v1 deprecated.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
-- [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A simple django project template for modern web apps.
+- [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience.
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
 - [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions
@@ -1497,6 +1503,7 @@
 
 ## python3 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [Bearle/django_private_chat2](https://github.com/Bearle/django_private_chat2) - Chat app for Django, powered by Django Channels, Websockets & Asyncio
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
@@ -1592,6 +1599,7 @@
 
 ## rust 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
