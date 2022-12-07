@@ -216,6 +216,8 @@
 
 ## Python 
 
+- [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [brutasse/django-push](https://github.com/brutasse/django-push) - PubSubHubbub support for Django
 - [Opus10/django-pgpubsub](https://github.com/Opus10/django-pgpubsub) - A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.
 - [roman-right/lazy_model](https://github.com/roman-right/lazy_model) - Lazy parsing for Pydantic models
@@ -229,7 +231,7 @@
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [boxed/django-fastdev](https://github.com/boxed/django-fastdev) - An app to make it faster and more fun to develop in Django
-- [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A simple django project template for modern web apps.
+- [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience.
 - [pavelsof/django-mirror](https://github.com/pavelsof/django-mirror) - cheese shop package marrying django with codemirror
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
@@ -608,6 +610,8 @@
 
 ## Rust 
 
+- [orf/hq](https://github.com/orf/hq) - jq, but for HTML
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
