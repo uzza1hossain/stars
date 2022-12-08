@@ -370,7 +370,7 @@
 
 ## data-analysis 
 
-- [comet-ml/kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale
+- [comet-ml/kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale 🦘
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
@@ -953,7 +953,7 @@
 
 ## machine-learning 
 
-- [comet-ml/kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale
+- [comet-ml/kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale 🦘
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## macos 
@@ -1064,6 +1064,7 @@
 
 ## others 
 
+- [forgepackages/forge-htmx](https://github.com/forgepackages/forge-htmx) - 
 - [orf/hq](https://github.com/orf/hq) - jq, but for HTML
 - [brutasse/django-push](https://github.com/brutasse/django-push) - PubSubHubbub support for Django
 - [roman-right/lazy_model](https://github.com/roman-right/lazy_model) - Lazy parsing for Pydantic models
