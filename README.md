@@ -218,6 +218,14 @@
 
 ## Python 
 
+- [dabapps/django-db-queue](https://github.com/dabapps/django-db-queue) - Simple database-backed job queue
+- [moggers87/django-sendfile2](https://github.com/moggers87/django-sendfile2) - xsendfile etc wrapper for Django. Friendly fork of django-sendfile
+- [adamchainz/django-linear-migrations](https://github.com/adamchainz/django-linear-migrations) - Ensure your migration history is linear.
+- [craigds/django-typed-models](https://github.com/craigds/django-typed-models) - polymorphic django models using automatic type-field downcasting
+- [guettli/django-tips](https://github.com/guettli/django-tips) - Güttli's opinionated Django Tips
+- [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
+- [celiao/django-rest-authemail](https://github.com/celiao/django-rest-authemail) - A RESTful API for user signup and authentication using email addresses.
+- [schlunsen/django-timescaledb](https://github.com/schlunsen/django-timescaledb) - A Django database backend and tooling for Timescaledb.
 - [ByteInternet/drf-oidc-auth](https://github.com/ByteInternet/drf-oidc-auth) - OpenID Connect authentication for Django REST Framework
 - [sehmaschine/django-filebrowser](https://github.com/sehmaschine/django-filebrowser) - Media-Management with Grappelli
 - [richardbarran/django-photologue](https://github.com/richardbarran/django-photologue) - A customizable plug-in photo gallery management application for the Django web framework.
@@ -679,6 +687,7 @@
 
 ## TypeScript 
 
+- [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
