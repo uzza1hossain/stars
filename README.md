@@ -218,6 +218,9 @@
 
 ## Python 
 
+- [philipn/django-rest-framework-filters](https://github.com/philipn/django-rest-framework-filters) - Better filtering for Django REST Framework
+- [simonw/django-sql-dashboard](https://github.com/simonw/django-sql-dashboard) - Django app for building dashboards using raw SQL queries
+- [groveco/django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
 - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
 - [django-parler/django-parler](https://github.com/django-parler/django-parler) - Easily translate "cheese omelet" into "omelette au fromage".
 - [jazzband/django-categories](https://github.com/jazzband/django-categories) - This app attempts to provide a generic category system that multiple apps could use. It uses MPTT for the tree storage and provides a custom admin for better visualization (copied and modified from fe
@@ -666,7 +669,7 @@
 ## Shell 
 
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
