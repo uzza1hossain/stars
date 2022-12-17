@@ -38,6 +38,7 @@
 
 ## C 
 
+- [gwsw/less](https://github.com/gwsw/less) - Less - text pager
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -130,6 +131,7 @@
 
 ## JavaScript 
 
+- [peopledoc/django-chartjs](https://github.com/peopledoc/django-chartjs) - Django Class Based Views to generate Ajax charts js parameters.
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [calmjohnson/alpineapple](https://github.com/calmjohnson/alpineapple) - Alpine JS UI Components styled with Tailwind Css
