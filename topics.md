@@ -901,6 +901,7 @@
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1115,7 +1116,7 @@
 - [brutasse/django-push](https://github.com/brutasse/django-push) - PubSubHubbub support for Django
 - [roman-right/lazy_model](https://github.com/roman-right/lazy_model) - Lazy parsing for Pydantic models
 - [diefenbach/djello](https://github.com/diefenbach/djello) - This is a try to create a trello clone by using Django, django_components, htmx and hyperscript.
-- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette/FastApi applications
+- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 - [mohi7solanki/dj-snake](https://github.com/mohi7solanki/dj-snake) - Django command to load fixture without overriding existing objects with same primary key
 - [boxed/django-fastdev](https://github.com/boxed/django-fastdev) - An app to make it faster and more fun to develop in Django
 - [pavelsof/django-mirror](https://github.com/pavelsof/django-mirror) - cheese shop package marrying django with codemirror
@@ -1613,6 +1614,7 @@
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1630,6 +1632,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [Frojd/django-react-templatetags](https://github.com/Frojd/django-react-templatetags) - A quick way to add React components to your Django templates.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## rest-api 
