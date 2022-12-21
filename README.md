@@ -220,6 +220,7 @@
 
 ## Python 
 
+- [pinax/django-user-accounts](https://github.com/pinax/django-user-accounts) - User accounts for Django
 - [django-treebeard/django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations for Django
 - [roaldnefs/django-sms](https://github.com/roaldnefs/django-sms) - A Django app for sending SMS with interchangeable backends.
 - [philipn/django-rest-framework-filters](https://github.com/philipn/django-rest-framework-filters) - Better filtering for Django REST Framework
