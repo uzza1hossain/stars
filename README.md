@@ -220,6 +220,9 @@
 
 ## Python 
 
+- [dimagi/django-prbac](https://github.com/dimagi/django-prbac) - 
+- [macropin/django-registration](https://github.com/macropin/django-registration) - Django-registration (redux) provides user registration functionality for Django websites.
+- [jsocol/django-ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django
 - [konradhalas/dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
 - [pinax/django-user-accounts](https://github.com/pinax/django-user-accounts) - User accounts for Django
 - [django-treebeard/django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations for Django
@@ -641,6 +644,7 @@
 
 ## Rust 
 
+- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [orf/hq](https://github.com/orf/hq) - jq, but for HTML
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
