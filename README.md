@@ -104,6 +104,7 @@
 
 ## HTML 
 
+- [acantril/aws-dev-associate](https://github.com/acantril/aws-dev-associate) - Repo for https://learn.cantrill.io/p/aws-certified-developer-associate
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [eventbrite/tikibar](https://github.com/eventbrite/tikibar) - A debugging and information toolbar for django, designed for lightweight impact so it can be enabled selectively and run in production.
@@ -155,6 +156,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [onlywei/explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [aybruhm/django-sotp](https://github.com/aybruhm/django-sotp) - Generate a secured base32 one time password to authenticate your user! 🔐
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -219,6 +221,7 @@
 
 ## Python 
 
+- [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
 - [izimobil/django-rest-framework-datatables](https://github.com/izimobil/django-rest-framework-datatables) - Seamless integration between Django REST framework and Datatables.
 - [dimagi/django-prbac](https://github.com/dimagi/django-prbac) - 
 - [macropin/django-registration](https://github.com/macropin/django-registration) - Django-registration (redux) provides user registration functionality for Django websites.
@@ -491,7 +494,6 @@
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [jrief/django-formset](https://github.com/jrief/django-formset) - Building beautiful Forms in Django with a contemporary User eXperience has never been easier.
 - [justinmayer/django-autoslug](https://github.com/justinmayer/django-autoslug) - AutoSlugField for Django. Supports (but not does not require) unidecode/pytils for transliteration. Old issue tracker is at Bitbucket: https://bitbucket.org/neithere/django-autoslug/issues
-- [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [adamghill/coltrane](https://github.com/adamghill/coltrane) - A simple content site framework that harnesses the power of Django without the hassle.
 - [rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 - [carltongibson/django-sphinx-view](https://github.com/carltongibson/django-sphinx-view) - Serve your Sphinx docs with Django.
