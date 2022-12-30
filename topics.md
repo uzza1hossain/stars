@@ -1111,6 +1111,8 @@
 
 ## others 
 
+- [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
+- [acantril/aws-dev-associate](https://github.com/acantril/aws-dev-associate) - Repo for https://learn.cantrill.io/p/aws-certified-developer-associate
 - [dimagi/django-prbac](https://github.com/dimagi/django-prbac) - 
 - [jsocol/django-ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django
 - [konradhalas/dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
