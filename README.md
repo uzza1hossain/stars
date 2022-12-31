@@ -104,7 +104,6 @@
 
 ## HTML 
 
-- [acantril/aws-dev-associate](https://github.com/acantril/aws-dev-associate) - Repo for https://learn.cantrill.io/p/aws-certified-developer-associate
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [eventbrite/tikibar](https://github.com/eventbrite/tikibar) - A debugging and information toolbar for django, designed for lightweight impact so it can be enabled selectively and run in production.
@@ -221,6 +220,7 @@
 
 ## Python 
 
+- [merixstudio/django-trench](https://github.com/merixstudio/django-trench) - django-trench provides a set of REST API endpoints to supplement django-rest-framework with multi-factor authentication (MFA, 2FA). It supports both standard built-in authentication methods, as well a
 - [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
 - [izimobil/django-rest-framework-datatables](https://github.com/izimobil/django-rest-framework-datatables) - Seamless integration between Django REST framework and Datatables.
 - [dimagi/django-prbac](https://github.com/dimagi/django-prbac) - 
@@ -710,7 +710,7 @@
 
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
