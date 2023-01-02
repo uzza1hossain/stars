@@ -1117,6 +1117,7 @@
 
 ## others 
 
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [Mimino666/langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 - [jazzband/django-cookie-consent](https://github.com/jazzband/django-cookie-consent) - Reusable application for managing various cookies and visitors consent for their use in Django project.
 - [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
