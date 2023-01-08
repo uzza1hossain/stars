@@ -224,6 +224,9 @@
 
 ## Python 
 
+- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS & android mobile devices through FCM (Firebase Cloud Messaging)
+- [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
+- [python/devguide](https://github.com/python/devguide) - The Python developer's guide
 - [sjbitcode/django-cbv-inspect](https://github.com/sjbitcode/django-cbv-inspect) - A tool to help inspect Django class-based views
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
 - [iMerica/dj-rest-auth](https://github.com/iMerica/dj-rest-auth) - Authentication for Django Rest Framework
