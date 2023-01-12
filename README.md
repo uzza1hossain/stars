@@ -225,6 +225,8 @@
 
 ## Python 
 
+- [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
+- [dbrgn/drf-dynamic-fields](https://github.com/dbrgn/drf-dynamic-fields) - Dynamically select only a subset of fields per DRF resource, either using a whitelist or a blacklist.
 - [manjitkumar/drf-url-filters](https://github.com/manjitkumar/drf-url-filters) - A django app to apply filters on drf querysets using query params with validations using voluptuous.
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
 - [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS & android mobile devices through FCM (Firebase Cloud Messaging)
