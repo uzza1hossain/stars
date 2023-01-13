@@ -446,6 +446,7 @@
 
 ## django 
 
+- [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [manjitkumar/drf-url-filters](https://github.com/manjitkumar/drf-url-filters) - A django app to apply filters on drf querysets using query params with validations using voluptuous.
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
 - [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS & android mobile devices through FCM (Firebase Cloud Messaging)
@@ -764,6 +765,7 @@
 
 ## golang 
 
+- [rosszurowski/tandem](https://github.com/rosszurowski/tandem) - Parallel task runner for servers and long-running commands.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1138,6 +1140,7 @@
 
 ## others 
 
+- [furious-luke/django-address](https://github.com/furious-luke/django-address) - A Django address model and field. Addresses may be specified by address components or by performing an automatic Google Maps lookup.
 - [dbrgn/drf-dynamic-fields](https://github.com/dbrgn/drf-dynamic-fields) - Dynamically select only a subset of fields per DRF resource, either using a whitelist or a blacklist.
 - [eried/portapack-mayhem](https://github.com/eried/portapack-mayhem) - Custom firmware for the HackRF+PortaPack H1/H2
 - [python/devguide](https://github.com/python/devguide) - The Python developer's guide
@@ -1406,6 +1409,7 @@
 
 ## python 
 
+- [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [manjitkumar/drf-url-filters](https://github.com/manjitkumar/drf-url-filters) - A django app to apply filters on drf querysets using query params with validations using voluptuous.
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
