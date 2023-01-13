@@ -69,6 +69,7 @@
 
 ## Go 
 
+- [rosszurowski/tandem](https://github.com/rosszurowski/tandem) - Parallel task runner for servers and long-running commands.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -225,6 +226,8 @@
 
 ## Python 
 
+- [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
+- [furious-luke/django-address](https://github.com/furious-luke/django-address) - A Django address model and field. Addresses may be specified by address components or by performing an automatic Google Maps lookup.
 - [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [dbrgn/drf-dynamic-fields](https://github.com/dbrgn/drf-dynamic-fields) - Dynamically select only a subset of fields per DRF resource, either using a whitelist or a blacklist.
 - [manjitkumar/drf-url-filters](https://github.com/manjitkumar/drf-url-filters) - A django app to apply filters on drf querysets using query params with validations using voluptuous.
