@@ -231,6 +231,8 @@
 
 ## Python 
 
+- [jsocol/django-jsonview](https://github.com/jsocol/django-jsonview) - Return Python objects, always get JSON.
+- [olivierdalang/django-toosimple-q](https://github.com/olivierdalang/django-toosimple-q) - Simplistic task queue and cron-like scheduler for Django
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [slyapustin/django-classified](https://github.com/slyapustin/django-classified) - Django Classified
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
@@ -676,6 +678,7 @@
 
 ## Ruby 
 
+- [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
