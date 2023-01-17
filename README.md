@@ -230,6 +230,7 @@
 
 ## Python 
 
+- [applegrew/django-select2](https://github.com/applegrew/django-select2) - This is a Django integration for Select2
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [jsocol/django-jsonview](https://github.com/jsocol/django-jsonview) - Return Python objects, always get JSON.
 - [olivierdalang/django-toosimple-q](https://github.com/olivierdalang/django-toosimple-q) - Simplistic task queue and cron-like scheduler for Django
@@ -684,6 +685,7 @@
 
 ## Rust 
 
+- [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
