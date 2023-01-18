@@ -135,6 +135,7 @@
 
 ## JavaScript 
 
+- [mardix/litedom](https://github.com/mardix/litedom) - A reactive Web Component library to create Custom Element and turns any HTML sections into components
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [peopledoc/django-chartjs](https://github.com/peopledoc/django-chartjs) - Django Class Based Views to generate Ajax charts js parameters.
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -230,6 +231,9 @@
 
 ## Python 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [ministryofjustice/django-zendesk-tickets](https://github.com/ministryofjustice/django-zendesk-tickets) - Django views and forms that submit tickets to Zendesk
+- [ministryofjustice/money-to-prisoners-api](https://github.com/ministryofjustice/money-to-prisoners-api) - Backend and internal admin site for Prisoner Money suite of apps
 - [applegrew/django-select2](https://github.com/applegrew/django-select2) - This is a Django integration for Select2
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [jsocol/django-jsonview](https://github.com/jsocol/django-jsonview) - Return Python objects, always get JSON.
