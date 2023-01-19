@@ -1176,6 +1176,9 @@
 
 ## others 
 
+- [jdevries3133/django_htmx_rest](https://github.com/jdevries3133/django_htmx_rest) - Bringing together django, django rest framework, and htmx
+- [PHACDataHub/django-htmx-autocomplete](https://github.com/PHACDataHub/django-htmx-autocomplete) - A Django autocomplete component powered by htmx
+- [aldjemy/aldjemy](https://github.com/aldjemy/aldjemy) - Integration SQLAlchemy in Django projects for effective query building purposes
 - [ministryofjustice/django-zendesk-tickets](https://github.com/ministryofjustice/django-zendesk-tickets) - Django views and forms that submit tickets to Zendesk
 - [ministryofjustice/money-to-prisoners-api](https://github.com/ministryofjustice/money-to-prisoners-api) - Backend and internal admin site for Prisoner Money suite of apps
 - [mardix/litedom](https://github.com/mardix/litedom) - A reactive Web Component library to create Custom Element and turns any HTML sections into components
