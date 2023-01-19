@@ -62,6 +62,7 @@
 ## CSS 
 
 - [syse-i/django-component-tags-tailwindcss](https://github.com/syse-i/django-component-tags-tailwindcss) - Tailwindcss component tags for Django Projects.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## CoffeeScript 
 
@@ -231,6 +232,9 @@
 
 ## Python 
 
+- [jdevries3133/django_htmx_rest](https://github.com/jdevries3133/django_htmx_rest) - Bringing together django, django rest framework, and htmx
+- [PHACDataHub/django-htmx-autocomplete](https://github.com/PHACDataHub/django-htmx-autocomplete) - A Django autocomplete component powered by htmx
+- [aldjemy/aldjemy](https://github.com/aldjemy/aldjemy) - Integration SQLAlchemy in Django projects for effective query building purposes
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ministryofjustice/django-zendesk-tickets](https://github.com/ministryofjustice/django-zendesk-tickets) - Django views and forms that submit tickets to Zendesk
 - [ministryofjustice/money-to-prisoners-api](https://github.com/ministryofjustice/money-to-prisoners-api) - Backend and internal admin site for Prisoner Money suite of apps
@@ -728,7 +732,6 @@
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [droxey/captools](https://github.com/droxey/captools) - ⚙️ Bash scripts to help you easily maintain CapRover applications on your server.
