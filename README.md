@@ -237,7 +237,7 @@
 
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create UI. For the web. With Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based UI with Python. The nice way.
 - [jdevries3133/django_htmx_rest](https://github.com/jdevries3133/django_htmx_rest) - Bringing together django, django rest framework, and htmx
 - [PHACDataHub/django-htmx-autocomplete](https://github.com/PHACDataHub/django-htmx-autocomplete) - A Django autocomplete component powered by htmx
 - [aldjemy/aldjemy](https://github.com/aldjemy/aldjemy) - Integration SQLAlchemy in Django projects for effective query building purposes
@@ -538,7 +538,7 @@
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py) - Type-safe and powerful Python library to generate SVG files
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
