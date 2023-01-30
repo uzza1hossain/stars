@@ -236,6 +236,7 @@
 
 ## Python 
 
+- [hynek/stamina](https://github.com/hynek/stamina) - Good retries made easy.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
