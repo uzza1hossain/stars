@@ -1471,6 +1471,7 @@
 
 ## python 
 
+- [hynek/stamina](https://github.com/hynek/stamina) - Good retries made easy.
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool that finds all third-party packages imported into your Python project
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
