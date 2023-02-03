@@ -24,6 +24,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -301,6 +302,10 @@
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+
+## chatgpt 
+
+- [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 
 ## chrome 
 
