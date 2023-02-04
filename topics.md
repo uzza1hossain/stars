@@ -914,7 +914,6 @@
 - [lingster/drf-api-tracking](https://github.com/lingster/drf-api-tracking) - Fork of aschn/drf-tracking so that we can maintain and release newer versions
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [idom-team/idom](https://github.com/idom-team/idom) - Create highly interactive web pages purely in Python
-- [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 - [Abdenasser/dr_scaffold](https://github.com/Abdenasser/dr_scaffold) - scaffold django rest apis like a champion 🚀
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
