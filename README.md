@@ -237,6 +237,7 @@
 
 ## Python 
 
+- [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python programs into one line of python code!
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [hynek/stamina](https://github.com/hynek/stamina) - Good retries made easy.
