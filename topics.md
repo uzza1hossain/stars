@@ -136,6 +136,7 @@
 - [sql](#sql)
 - [statistics](#statistics)
 - [support](#support)
+- [svelte](#svelte)
 - [swift](#swift)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -1716,6 +1717,7 @@
 
 ## python3 
 
+- [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python programs into one line of python code!
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool that finds all third-party packages imported into your Python project
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -1918,6 +1920,10 @@
 ## support 
 
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
+
+## svelte 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
 ## swift 
 
