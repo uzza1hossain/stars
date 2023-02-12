@@ -485,6 +485,7 @@
 
 ## django 
 
+- [Tivix/django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (
 - [slyapustin/django-classified](https://github.com/slyapustin/django-classified) - Django Classified
 - [sesh/django-up](https://github.com/sesh/django-up) - Zero configuration Django deployments
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
@@ -1204,6 +1205,7 @@
 
 ## others 
 
+- [fcurella/django-msgpack-serializer](https://github.com/fcurella/django-msgpack-serializer) - A MsgPack serializer for Django.
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [jdevries3133/django_htmx_rest](https://github.com/jdevries3133/django_htmx_rest) - Bringing together django, django rest framework, and htmx
@@ -1717,7 +1719,7 @@
 
 ## python3 
 
-- [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python programs into one line of python code!
+- [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python3 programs into one line of python code!
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool that finds all third-party packages imported into your Python project
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
