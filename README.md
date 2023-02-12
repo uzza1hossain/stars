@@ -237,7 +237,9 @@
 
 ## Python 
 
-- [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python programs into one line of python code!
+- [fcurella/django-msgpack-serializer](https://github.com/fcurella/django-msgpack-serializer) - A MsgPack serializer for Django.
+- [Tivix/django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (
+- [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python3 programs into one line of python code!
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [hynek/stamina](https://github.com/hynek/stamina) - Good retries made easy.
