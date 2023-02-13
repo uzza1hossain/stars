@@ -23,6 +23,7 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [Perl](#perl)
+- [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -111,6 +112,7 @@
 
 ## HTML 
 
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
@@ -235,8 +237,13 @@
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
+## Pug 
+
+- [rajasegar/htmx-trello](https://github.com/rajasegar/htmx-trello) - A Trello clone in htmx
+
 ## Python 
 
+- [andrewgodwin/django-hatchway](https://github.com/andrewgodwin/django-hatchway) - An unsurprising Django API framework
 - [fcurella/django-msgpack-serializer](https://github.com/fcurella/django-msgpack-serializer) - A MsgPack serializer for Django.
 - [Tivix/django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (
 - [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python3 programs into one line of python code!
