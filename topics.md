@@ -1210,6 +1210,9 @@
 
 ## others 
 
+- [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
+- [marksweb/django-bleach](https://github.com/marksweb/django-bleach) - Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that make
+- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
 - [rajasegar/htmx-trello](https://github.com/rajasegar/htmx-trello) - A Trello clone in htmx
 - [andrewgodwin/django-hatchway](https://github.com/andrewgodwin/django-hatchway) - An unsurprising Django API framework
 - [fcurella/django-msgpack-serializer](https://github.com/fcurella/django-msgpack-serializer) - A MsgPack serializer for Django.
