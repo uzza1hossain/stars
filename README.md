@@ -719,7 +719,7 @@
 ## Rust 
 
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
-- [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool that finds all third-party packages imported into your Python project
+- [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -795,7 +795,7 @@
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [floms/caprover-mobile](https://github.com/floms/caprover-mobile) - 
