@@ -491,6 +491,7 @@
 
 ## django 
 
+- [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
 - [dgk/django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django
 - [evenicoulddoit/django-rest-framework-serializer-extensions](https://github.com/evenicoulddoit/django-rest-framework-serializer-extensions) - Extensions to help DRY up Django Rest Framework serializers
 - [oxan/djangorestframework-dataclasses](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework
@@ -935,6 +936,7 @@
 
 ## html 
 
+- [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
@@ -1220,6 +1222,8 @@
 
 ## others 
 
+- [matthiask/feincms3](https://github.com/matthiask/feincms3) - feincms3 provides additional building blocks on top of django-content-editor and django-tree-queries which make building a page CMS (and also other types of CMS) simpler.
+- [feincms/feincms](https://github.com/feincms/feincms) - A Django-based CMS with a focus on extensibility and concise code
 - [boxed/okrand](https://github.com/boxed/okrand) - Okrand is an internationalization/translation tool for Django
 - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
 - [marksweb/django-bleach](https://github.com/marksweb/django-bleach) - Bleach is a Python module that takes any HTML input, and returns valid, sanitised HTML that contains only an allowed subset of HTML tags, attributes and styles. django-bleach is a Django app that make
@@ -1506,6 +1510,8 @@
 
 ## python 
 
+- [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
+- [fabiocaccamo/python-fsutil](https://github.com/fabiocaccamo/python-fsutil) - :computer: :wrench: high-level file-system operations for lazy devs.
 - [dgk/django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django
 - [oxan/djangorestframework-dataclasses](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
@@ -2068,6 +2074,7 @@
 
 ## website 
 
+- [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based UI with Python. The nice way.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
