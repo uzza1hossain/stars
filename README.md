@@ -249,6 +249,10 @@
 
 ## Python 
 
+- [matthiask/feincms3](https://github.com/matthiask/feincms3) - feincms3 provides additional building blocks on top of django-content-editor and django-tree-queries which make building a page CMS (and also other types of CMS) simpler.
+- [feincms/feincms](https://github.com/feincms/feincms) - A Django-based CMS with a focus on extensibility and concise code
+- [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
+- [fabiocaccamo/python-fsutil](https://github.com/fabiocaccamo/python-fsutil) - :computer: :wrench: high-level file-system operations for lazy devs.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [evenicoulddoit/django-rest-framework-serializer-extensions](https://github.com/evenicoulddoit/django-rest-framework-serializer-extensions) - Extensions to help DRY up Django Rest Framework serializers
 - [oxan/djangorestframework-dataclasses](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework
