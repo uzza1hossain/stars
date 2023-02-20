@@ -402,7 +402,7 @@
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
@@ -491,6 +491,7 @@
 
 ## django 
 
+- [rvinzent/django-dynamic-models](https://github.com/rvinzent/django-dynamic-models) - Dynamic Django models allow users to define, edit, and populate their own database schema.
 - [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
 - [dgk/django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django
 - [evenicoulddoit/django-rest-framework-serializer-extensions](https://github.com/evenicoulddoit/django-rest-framework-serializer-extensions) - Extensions to help DRY up Django Rest Framework serializers
@@ -880,7 +881,7 @@
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -942,7 +943,7 @@
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [IanTerzo/Neutron](https://github.com/IanTerzo/Neutron) - Create modern cross-platform apps in Python using HTML and CSS
 - [voiio/emark](https://github.com/voiio/emark) - eMark↓ – Markdown template based HTML and text emails for Django.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [mikeckennedy/jinja_partials](https://github.com/mikeckennedy/jinja_partials) - Simple reuse of partial HTML page templates in the Jinja template language for Python web frameworks. #pypackage
 - [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
@@ -1000,7 +1001,7 @@
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1160,6 +1161,7 @@
 ## mysql 
 
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [buserbrasil/django-migrations-ci](https://github.com/buserbrasil/django-migrations-ci) - Cached migrations on CI for faster migrations
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## neovim 
@@ -1194,7 +1196,7 @@
 
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [SimulatedGREG/nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -1222,6 +1224,7 @@
 
 ## others 
 
+- [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [matthiask/feincms3](https://github.com/matthiask/feincms3) - feincms3 provides additional building blocks on top of django-content-editor and django-tree-queries which make building a page CMS (and also other types of CMS) simpler.
 - [feincms/feincms](https://github.com/feincms/feincms) - A Django-based CMS with a focus on extensibility and concise code
 - [boxed/okrand](https://github.com/boxed/okrand) - Okrand is an internationalization/translation tool for Django
@@ -1493,7 +1496,6 @@
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [jacklinke/django-range-merge](https://github.com/jacklinke/django-range-merge) - Enables the range_merge Aggregate for Django on Postgres. range_merge "Computes the smallest range that includes ... the given ranges".
-- [buserbrasil/django-migrations-ci](https://github.com/buserbrasil/django-migrations-ci) - Cached migrations on CI for faster migrations
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
@@ -1510,6 +1512,7 @@
 
 ## python 
 
+- [rvinzent/django-dynamic-models](https://github.com/rvinzent/django-dynamic-models) - Dynamic Django models allow users to define, edit, and populate their own database schema.
 - [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
 - [fabiocaccamo/python-fsutil](https://github.com/fabiocaccamo/python-fsutil) - :computer: :wrench: high-level file-system operations for lazy devs.
 - [dgk/django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django
@@ -1807,7 +1810,7 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [Bearle/django_private_chat2](https://github.com/Bearle/django_private_chat2) - Chat app for Django, powered by Django Channels, Websockets & Asyncio
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
@@ -1827,7 +1830,7 @@
 ## reactjs 
 
 - [Bearle/django_private_chat2](https://github.com/Bearle/django_private_chat2) - Chat app for Django, powered by Django Channels, Websockets & Asyncio
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [Frojd/django-react-templatetags](https://github.com/Frojd/django-react-templatetags) - A quick way to add React components to your Django templates.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -2012,7 +2015,7 @@
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
