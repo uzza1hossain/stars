@@ -249,6 +249,7 @@
 
 ## Python 
 
+- [em1208/adrf](https://github.com/em1208/adrf) - Async support for Django REST framework
 - [saleweaver/python-amazon-sp-api](https://github.com/saleweaver/python-amazon-sp-api) - Python wrapper to access the amazon selling partner API
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [rvinzent/django-dynamic-models](https://github.com/rvinzent/django-dynamic-models) - Dynamic Django models allow users to define, edit, and populate their own database schema.
