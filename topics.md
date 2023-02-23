@@ -1224,6 +1224,7 @@
 
 ## others 
 
+- [em1208/adrf](https://github.com/em1208/adrf) - Async support for Django REST framework
 - [saleweaver/python-amazon-sp-api](https://github.com/saleweaver/python-amazon-sp-api) - Python wrapper to access the amazon selling partner API
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [matthiask/feincms3](https://github.com/matthiask/feincms3) - feincms3 provides additional building blocks on top of django-content-editor and django-tree-queries which make building a page CMS (and also other types of CMS) simpler.
