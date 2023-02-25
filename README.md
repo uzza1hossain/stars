@@ -249,6 +249,7 @@
 
 ## Python 
 
+- [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart) - A simple and flexible cart manager for your django projects.
 - [em1208/adrf](https://github.com/em1208/adrf) - Async support for Django REST framework
 - [saleweaver/python-amazon-sp-api](https://github.com/saleweaver/python-amazon-sp-api) - Python wrapper to access the amazon selling partner API
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
