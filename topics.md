@@ -1515,6 +1515,7 @@
 
 ## python 
 
+- [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [rvinzent/django-dynamic-models](https://github.com/rvinzent/django-dynamic-models) - Dynamic Django models allow users to define, edit, and populate their own database schema.
 - [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
 - [fabiocaccamo/python-fsutil](https://github.com/fabiocaccamo/python-fsutil) - :computer: :wrench: high-level file-system operations for lazy devs.
