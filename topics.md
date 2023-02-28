@@ -491,6 +491,7 @@
 
 ## django 
 
+- [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
 - [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart) - A simple and flexible cart manager for your django projects.
 - [rvinzent/django-dynamic-models](https://github.com/rvinzent/django-dynamic-models) - Dynamic Django models allow users to define, edit, and populate their own database schema.
 - [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
@@ -938,6 +939,7 @@
 
 ## html 
 
+- [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
 - [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
