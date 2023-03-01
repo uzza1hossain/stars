@@ -1227,6 +1227,7 @@
 
 ## others 
 
+- [thomst/django-more-admin-filters](https://github.com/thomst/django-more-admin-filters) - Django-more-admin-filters is a collection of django admin filters with a focus on filters using dropdown widgets, multiple choice filters and filters working with annotated attributes.
 - [em1208/adrf](https://github.com/em1208/adrf) - Async support for Django REST framework
 - [saleweaver/python-amazon-sp-api](https://github.com/saleweaver/python-amazon-sp-api) - Python wrapper to access the amazon selling partner API
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
