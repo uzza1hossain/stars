@@ -249,6 +249,7 @@
 
 ## Python 
 
+- [thomst/django-more-admin-filters](https://github.com/thomst/django-more-admin-filters) - Django-more-admin-filters is a collection of django admin filters with a focus on filters using dropdown widgets, multiple choice filters and filters working with annotated attributes.
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart) - A simple and flexible cart manager for your django projects.
