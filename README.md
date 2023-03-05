@@ -250,6 +250,10 @@
 
 ## Python 
 
+- [tekanokhambane/django-multitenancy](https://github.com/tekanokhambane/django-multitenancy) - Django Multitenancy is a Django app that handles user subscriptions for tenant apps.
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [dropseed/django-admincharts](https://github.com/dropseed/django-admincharts) - Add Chart.js visualizations to your Django admin using a mixin class
 - [UniversitaDellaCalabria/django-form-builder](https://github.com/UniversitaDellaCalabria/django-form-builder) - Dynamic forms builder for Django Framework
 - [thomst/django-more-admin-filters](https://github.com/thomst/django-more-admin-filters) - Django-more-admin-filters is a collection of django admin filters with a focus on filters using dropdown widgets, multiple choice filters and filters working with annotated attributes.
@@ -807,6 +811,7 @@
 
 ## TypeScript 
 
+- [brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic) - Web tool for generating Pydantic models from JSON objects
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
