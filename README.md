@@ -250,6 +250,8 @@
 
 ## Python 
 
+- [eadwinCode/django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework)
+- [glyph/QuickMacHotKey](https://github.com/glyph/QuickMacHotKey) - Quickly bind a global hotkey in a PyObjC application.
 - [tekanokhambane/django-multitenancy](https://github.com/tekanokhambane/django-multitenancy) - Django Multitenancy is a Django app that handles user subscriptions for tenant apps.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
