@@ -492,6 +492,7 @@
 
 ## django 
 
+- [eadwinCode/django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework)
 - [tekanokhambane/django-multitenancy](https://github.com/tekanokhambane/django-multitenancy) - Django Multitenancy is a Django app that handles user subscriptions for tenant apps.
 - [dropseed/django-admincharts](https://github.com/dropseed/django-admincharts) - Add Chart.js visualizations to your Django admin using a mixin class
 - [oscarmlage/django-cruds-adminlte](https://github.com/oscarmlage/django-cruds-adminlte) - django-cruds is simple drop-in django app that creates CRUD for faster prototyping
@@ -1237,6 +1238,7 @@
 
 ## others 
 
+- [glyph/QuickMacHotKey](https://github.com/glyph/QuickMacHotKey) - Quickly bind a global hotkey in a PyObjC application.
 - [brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic) - Web tool for generating Pydantic models from JSON objects
 - [UniversitaDellaCalabria/django-form-builder](https://github.com/UniversitaDellaCalabria/django-form-builder) - Dynamic forms builder for Django Framework
 - [thomst/django-more-admin-filters](https://github.com/thomst/django-more-admin-filters) - Django-more-admin-filters is a collection of django admin filters with a focus on filters using dropdown widgets, multiple choice filters and filters working with annotated attributes.
@@ -1529,6 +1531,7 @@
 
 ## python 
 
+- [eadwinCode/django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework)
 - [tekanokhambane/django-multitenancy](https://github.com/tekanokhambane/django-multitenancy) - Django Multitenancy is a Django app that handles user subscriptions for tenant apps.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
@@ -1599,6 +1602,7 @@
 - [buserbrasil/django-migrations-ci](https://github.com/buserbrasil/django-migrations-ci) - Cached migrations on CI for faster migrations
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
+- [oliverandrich/django-tailwind-cli](https://github.com/oliverandrich/django-tailwind-cli) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
 - [jab/bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
