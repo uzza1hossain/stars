@@ -250,6 +250,7 @@
 
 ## Python 
 
+- [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [jordaneremieff/djantic](https://github.com/jordaneremieff/djantic) - Pydantic model support for Django
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
 - [edelvalle/reactor](https://github.com/edelvalle/reactor) - Phoenix LiveView but for Django
