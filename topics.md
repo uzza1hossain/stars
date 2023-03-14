@@ -1246,6 +1246,7 @@
 
 ## others 
 
+- [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 - [Miserlou/Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
 - [glyph/QuickMacHotKey](https://github.com/glyph/QuickMacHotKey) - Quickly bind a global hotkey in a PyObjC application.
 - [brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic) - Web tool for generating Pydantic models from JSON objects
