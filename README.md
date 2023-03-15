@@ -250,6 +250,10 @@
 
 ## Python 
 
+- [pytest-dev/pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
+- [ubernostrum/django-contact-form](https://github.com/ubernostrum/django-contact-form) - A configurable contact-form application for Django.
+- [nwjlyons/django_slots](https://github.com/nwjlyons/django_slots) - django_slots = inclusion tag + blocks
+- [DontShaveTheYak/cf2tf](https://github.com/DontShaveTheYak/cf2tf) - Convert Cloudformation templates to Terraform.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [jordaneremieff/djantic](https://github.com/jordaneremieff/djantic) - Pydantic model support for Django
@@ -289,7 +293,7 @@
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [hynek/stamina](https://github.com/hynek/stamina) - Good retries made easy.
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python.
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based UI with Python. The nice way.
@@ -439,7 +443,7 @@
 - [occipital/django-consistency-model](https://github.com/occipital/django-consistency-model) - DCM is a set of tools that helps you to keep your data in your Django Models consistent.
 - [meshy/django-schema-graph](https://github.com/meshy/django-schema-graph) - An interactive graph of your Django model structure
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
-- [s-block/django-nested-inline](https://github.com/s-block/django-nested-inline) - Nested inline support for Django admin
+- [OskarPersson/django-nested-inline](https://github.com/OskarPersson/django-nested-inline) - Nested inline support for Django admin
 - [javrasya/django-river](https://github.com/javrasya/django-river) - Django workflow library that supports on the fly changes ⛵
 - [Salamek/cron-descriptor](https://github.com/Salamek/cron-descriptor) - A Python library that converts cron expressions into human readable strings.
 - [jazzband/django-formtools](https://github.com/jazzband/django-formtools) - A set of high-level abstractions for Django forms
@@ -544,7 +548,7 @@
 - [jamesturk/django-markupfield](https://github.com/jamesturk/django-markupfield) - 📑 a MarkupField for Django
 - [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester) - Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [jonathan-s/django-sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the django tooling you already know and love.
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
 - [django-cache-machine/django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models through the ORM.
