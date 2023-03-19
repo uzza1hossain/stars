@@ -149,7 +149,6 @@
 ## JavaScript 
 
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
 - [oscarmlage/django-cruds-adminlte](https://github.com/oscarmlage/django-cruds-adminlte) - django-cruds is simple drop-in django app that creates CRUD for faster prototyping
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
@@ -264,6 +263,9 @@
 
 ## Python 
 
+- [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
+- [oliverandrich/django-pdm-startproject](https://github.com/oliverandrich/django-pdm-startproject) - Django startproject template using pdm as package and dependency manager.
+- [django-parler/django-parler-rest](https://github.com/django-parler/django-parler-rest) - Translatable model support for django-rest-framework
 - [surface-security/django-restful-admin-ppb](https://github.com/surface-security/django-restful-admin-ppb) - Django admin restful api
 - [demon-bixia/django-api-admin](https://github.com/demon-bixia/django-api-admin) - Expose django.contrib.admin as a restful service. useful for adding new features to django admin or writing a new admin client.
 - [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
@@ -852,6 +854,7 @@
 ## TypeScript 
 
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - Your best AI pair programmer - open source only
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic) - Web tool for generating Pydantic models from JSON objects
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
