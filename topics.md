@@ -160,6 +160,7 @@
 
 ## ai 
 
+- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 - [yufeikang/ai-cli](https://github.com/yufeikang/ai-cli) - This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
@@ -201,6 +202,7 @@
 
 ## api 
 
+- [tinkoffjournal/freddie](https://github.com/tinkoffjournal/freddie) - DRF-like declarative viewsets for FastAPI
 - [izimobil/django-rest-framework-datatables](https://github.com/izimobil/django-rest-framework-datatables) - Seamless integration between Django REST framework and Datatables.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -320,7 +322,9 @@
 
 ## chatgpt 
 
+- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+- [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
 - [yufeikang/ai-cli](https://github.com/yufeikang/ai-cli) - This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -346,6 +350,7 @@
 ## cli 
 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
@@ -1277,9 +1282,11 @@
 
 ## others 
 
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT clone for running locally in your browser.
+- [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [raagin/django-streamfield](https://github.com/raagin/django-streamfield) - This is a simple realisation of StreamField's idea from Wagtail CMS for plain Django admin or with Grappelli skin.
 - [jazzband/django-admin-sortable](https://github.com/jazzband/django-admin-sortable) - Generic drag-and-drop ordering for objects and tabular inlines in Django Admin
-- [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [heywbj/django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive) - Recursive Serialization for Django REST framework
 - [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
@@ -1588,6 +1595,7 @@
 
 ## python 
 
+- [tinkoffjournal/freddie](https://github.com/tinkoffjournal/freddie) - DRF-like declarative viewsets for FastAPI
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [ra-systems/django-ra-erp](https://github.com/ra-systems/django-ra-erp) - A Django based framework to create diverse business solutions, equipped with a reporting engine and a responsive dashboard.
 - [django-parler/django-parler-rest](https://github.com/django-parler/django-parler-rest) - Translatable model support for django-rest-framework
