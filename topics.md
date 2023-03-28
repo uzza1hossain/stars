@@ -477,6 +477,7 @@
 
 ## database 
 
+- [har777/pellet](https://github.com/har777/pellet) - Pellet helps improve your Django app performance by discovering N+1 queries.
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [patrikx3/redis-ui](https://github.com/patrikx3/redis-ui) - 📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app
@@ -520,6 +521,9 @@
 
 ## django 
 
+- [ahmedaljawahiry/django-admin-site-search](https://github.com/ahmedaljawahiry/django-admin-site-search) - A search (cmd+k) modal, for the Django admin UI, that searches your entire site.
+- [har777/pellet](https://github.com/har777/pellet) - Pellet helps improve your Django app performance by discovering N+1 queries.
+- [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django
 - [celery/django-celery-results](https://github.com/celery/django-celery-results) - Celery result back end with django
 - [browniebroke/django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
@@ -903,6 +907,7 @@
 
 ## hacktoberfest 
 
+- [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django
 - [browniebroke/django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
@@ -1288,8 +1293,10 @@
 
 ## others 
 
+- [neurosity/neurosity-python-sdk](https://github.com/neurosity/neurosity-python-sdk) - The Official Neurosity Python SDK 🤯
+- [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
 - [Zac-HD/shed](https://github.com/Zac-HD/shed) - `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open-source ChatGPT UI.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [raagin/django-streamfield](https://github.com/raagin/django-streamfield) - This is a simple realisation of StreamField's idea from Wagtail CMS for plain Django admin or with Grappelli skin.
@@ -1573,6 +1580,7 @@
 
 ## parsing 
 
+- [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
@@ -1602,6 +1610,8 @@
 
 ## python 
 
+- [har777/pellet](https://github.com/har777/pellet) - Pellet helps improve your Django app performance by discovering N+1 queries.
+- [madzak/python-json-logger](https://github.com/madzak/python-json-logger) - Json Formatter for the standard python logger
 - [celery/django-celery-results](https://github.com/celery/django-celery-results) - Celery result back end with django
 - [browniebroke/django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
@@ -1979,6 +1989,7 @@
 
 ## rust 
 
+- [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
