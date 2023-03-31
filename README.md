@@ -268,6 +268,7 @@
 
 ## Python 
 
+- [3YOURMIND/django-deprecate-fields](https://github.com/3YOURMIND/django-deprecate-fields) - This package allows deprecating model fields and allows removing them in a backwards compatible manner.
 - [noisrucer/girok](https://github.com/noisrucer/girok) - Beautiful and powerful CLI scheduler
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [ahmedaljawahiry/django-admin-site-search](https://github.com/ahmedaljawahiry/django-admin-site-search) - A search (cmd+k) modal, for the Django admin UI, that searches your entire site.
@@ -283,7 +284,7 @@
 - [browniebroke/django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [tinkoffjournal/freddie](https://github.com/tinkoffjournal/freddie) - DRF-like declarative viewsets for FastAPI
-- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.
+- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [raagin/django-streamfield](https://github.com/raagin/django-streamfield) - This is a simple realisation of StreamField's idea from Wagtail CMS for plain Django admin or with Grappelli skin.
 - [jazzband/django-admin-sortable](https://github.com/jazzband/django-admin-sortable) - Generic drag-and-drop ordering for objects and tabular inlines in Django Admin
