@@ -397,6 +397,7 @@
 
 ## compiler 
 
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -908,6 +909,7 @@
 
 ## hacktoberfest 
 
+- [kjaymiller/render_engine](https://github.com/kjaymiller/render_engine) - Static Site Generator with Flask Like Routing
 - [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django
 - [browniebroke/django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
@@ -1187,6 +1189,7 @@
 
 ## markdown 
 
+- [kjaymiller/render_engine](https://github.com/kjaymiller/render_engine) - Static Site Generator with Flask Like Routing
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
@@ -1295,6 +1298,7 @@
 
 ## others 
 
+- [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
 - [3YOURMIND/django-deprecate-fields](https://github.com/3YOURMIND/django-deprecate-fields) - This package allows deprecating model fields and allows removing them in a backwards compatible manner.
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable and sortable behaviors inspired by the jQuery UI implementation
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
@@ -1615,6 +1619,8 @@
 
 ## python 
 
+- [kjaymiller/render_engine](https://github.com/kjaymiller/render_engine) - Static Site Generator with Flask Like Routing
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [noisrucer/girok](https://github.com/noisrucer/girok) - Beautiful and powerful CLI scheduler
 - [har777/pellet](https://github.com/har777/pellet) - Pellet helps improve your Django app performance by discovering N+1 queries.
 - [madzak/python-json-logger](https://github.com/madzak/python-json-logger) - Json Formatter for the standard python logger
