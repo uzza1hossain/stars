@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -268,6 +269,8 @@
 
 ## Python 
 
+- [kjaymiller/render_engine](https://github.com/kjaymiller/render_engine) - Static Site Generator with Flask Like Routing
+- [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
 - [3YOURMIND/django-deprecate-fields](https://github.com/3YOURMIND/django-deprecate-fields) - This package allows deprecating model fields and allows removing them in a backwards compatible manner.
 - [noisrucer/girok](https://github.com/noisrucer/girok) - Beautiful and powerful CLI scheduler
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
