@@ -271,6 +271,11 @@
 
 ## Python 
 
+- [iashraful/fastapi-boilerplate-with-postgres](https://github.com/iashraful/fastapi-boilerplate-with-postgres) - A production ready boilerplate/template for FastAPI and PostgreSQL
+- [iashraful/fast-drf](https://github.com/iashraful/fast-drf) - A simple model based API maker written in Python and based on Django and Django REST Framework
+- [OysterHQ/FastAPI-Production-Boilerplate](https://github.com/OysterHQ/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
+- [holgi/fastapi-permissions](https://github.com/holgi/fastapi-permissions) - row level security for FastAPI framework
+- [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
 - [nickatnight/cookiecutter-fastapi-backend](https://github.com/nickatnight/cookiecutter-fastapi-backend) - :cookie: Cookiecutter template to build and deploy fastapi backends..batteries included
 - [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
 - [melvinkcx/fastapi-events](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette
@@ -298,7 +303,7 @@
 - [kjaymiller/render_engine](https://github.com/kjaymiller/render_engine) - Static Site Generator with Flask Like Routing
 - [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
 - [3YOURMIND/django-deprecate-fields](https://github.com/3YOURMIND/django-deprecate-fields) - This package allows deprecating model fields and allows removing them in a backwards compatible manner.
-- [noisrucer/girok](https://github.com/noisrucer/girok) - Beautiful and powerful CLI scheduler
+- [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [ahmedaljawahiry/django-admin-site-search](https://github.com/ahmedaljawahiry/django-admin-site-search) - A search (cmd+k) modal, for the Django admin UI, that searches your entire site.
 - [neurosity/neurosity-python-sdk](https://github.com/neurosity/neurosity-python-sdk) - The Official Neurosity Python SDK 🤯
