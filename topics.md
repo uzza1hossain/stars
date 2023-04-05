@@ -331,6 +331,7 @@
 
 ## chatgpt 
 
+- [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -359,6 +360,7 @@
 
 ## cli 
 
+- [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -455,7 +457,7 @@
 
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
@@ -533,6 +535,7 @@
 
 ## django 
 
+- [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [iashraful/fast-drf](https://github.com/iashraful/fast-drf) - A simple model based API maker written in Python and based on Django and Django REST Framework
 - [ahmedaljawahiry/django-admin-site-search](https://github.com/ahmedaljawahiry/django-admin-site-search) - A search (cmd+k) modal, for the Django admin UI, that searches your entire site.
 - [har777/pellet](https://github.com/har777/pellet) - Pellet helps improve your Django app performance by discovering N+1 queries.
@@ -1111,7 +1114,7 @@
 ## json 
 
 - [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
@@ -1318,6 +1321,10 @@
 
 ## others 
 
+- [denisorehovsky/django-rest-polymorphic](https://github.com/denisorehovsky/django-rest-polymorphic) - Polymorphic serializers for Django REST Framework
+- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
+- [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool for operating on your codebase using GPT. Promptr dynamically includes one or more files into your GPT prompts, and it can optionally parse and apply the changes that GPT suggest
+- [django-functest/django-functest](https://github.com/django-functest/django-functest) - Helpers for creating high-level functional tests in Django, with a unified API for WebTest and Selenium tests.
 - [holgi/fastapi-permissions](https://github.com/holgi/fastapi-permissions) - row level security for FastAPI framework
 - [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
 - [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
@@ -1662,6 +1669,8 @@
 
 ## python 
 
+- [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
+- [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [iashraful/fast-drf](https://github.com/iashraful/fast-drf) - A simple model based API maker written in Python and based on Django and Django REST Framework
 - [OysterHQ/FastAPI-Production-Boilerplate](https://github.com/OysterHQ/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
 - [nickatnight/cookiecutter-fastapi-backend](https://github.com/nickatnight/cookiecutter-fastapi-backend) - :cookie: Cookiecutter template to build and deploy fastapi backends..batteries included
@@ -1741,7 +1750,7 @@
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - New maintainers 🚧 --- Django reCAPTCHA form field/widget integration app.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [forgepackages/forge-htmx](https://github.com/forgepackages/forge-htmx) - An HTMX integration for Django with template fragments and view actions
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
@@ -2175,6 +2184,8 @@
 
 ## terminal 
 
+- [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
+- [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [yufeikang/ai-cli](https://github.com/yufeikang/ai-cli) - This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
@@ -2205,7 +2216,7 @@
 
 ## testing 
 
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
