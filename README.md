@@ -150,6 +150,7 @@
 
 ## JavaScript 
 
+- [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool for operating on your codebase using GPT. Promptr dynamically includes one or more files into your GPT prompts, and it can optionally parse and apply the changes that GPT suggest
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable and sortable behaviors inspired by the jQuery UI implementation
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [ra-systems/django-ra-erp](https://github.com/ra-systems/django-ra-erp) - A Django based framework to create diverse business solutions, equipped with a reporting engine and a responsive dashboard.
@@ -271,6 +272,10 @@
 
 ## Python 
 
+- [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
+- [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
+- [denisorehovsky/django-rest-polymorphic](https://github.com/denisorehovsky/django-rest-polymorphic) - Polymorphic serializers for Django REST Framework
+- [django-functest/django-functest](https://github.com/django-functest/django-functest) - Helpers for creating high-level functional tests in Django, with a unified API for WebTest and Selenium tests.
 - [iashraful/fastapi-boilerplate-with-postgres](https://github.com/iashraful/fastapi-boilerplate-with-postgres) - A production ready boilerplate/template for FastAPI and PostgreSQL
 - [iashraful/fast-drf](https://github.com/iashraful/fast-drf) - A simple model based API maker written in Python and based on Django and Django REST Framework
 - [OysterHQ/FastAPI-Production-Boilerplate](https://github.com/OysterHQ/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
@@ -452,7 +457,7 @@
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - New maintainers 🚧 --- Django reCAPTCHA form field/widget integration app.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
 - [assem-ch/django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) - Legacy Django jet rebooted to support Django 3 and Django 4, and latest python releases
 - [forgepackages/forge-htmx](https://github.com/forgepackages/forge-htmx) - An HTMX integration for Django with template fragments and view actions
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
@@ -917,6 +922,7 @@
 
 ## TypeScript 
 
+- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
