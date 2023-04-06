@@ -272,6 +272,10 @@
 
 ## Python 
 
+- [techonomydev/django-tableselect](https://github.com/techonomydev/django-tableselect) - Django widget for selecting rows in a data table
+- [stephenmcd/django-forms-builder](https://github.com/stephenmcd/django-forms-builder) - Let users build forms in Django admin
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
 - [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
 - [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [denisorehovsky/django-rest-polymorphic](https://github.com/denisorehovsky/django-rest-polymorphic) - Polymorphic serializers for Django REST Framework
@@ -637,7 +641,7 @@
 - [mblayman/django-denied](https://github.com/mblayman/django-denied) - An authorization system based exclusively on allow lists
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [wq/django-data-wizard](https://github.com/wq/django-data-wizard) - 🧙⚙️ Import structured data (e.g. Excel, CSV, XML, JSON) into one or more Django models via an interactive web-based wizard
@@ -915,6 +919,7 @@
 
 ## Swift 
 
+- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper & GPT-based app for passing remote SWE interviews
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter) - macOS tool to limit maximum charging percentage
