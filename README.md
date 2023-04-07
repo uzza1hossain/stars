@@ -272,6 +272,7 @@
 
 ## Python 
 
+- [open-formulieren/open-forms](https://github.com/open-formulieren/open-forms) - Smart and dynamic forms
 - [techonomydev/django-tableselect](https://github.com/techonomydev/django-tableselect) - Django widget for selecting rows in a data table
 - [stephenmcd/django-forms-builder](https://github.com/stephenmcd/django-forms-builder) - Let users build forms in Django admin
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
@@ -327,7 +328,7 @@
 - [browniebroke/django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [tinkoffjournal/freddie](https://github.com/tinkoffjournal/freddie) - DRF-like declarative viewsets for FastAPI
-- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice.
+- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [raagin/django-streamfield](https://github.com/raagin/django-streamfield) - This is a simple realisation of StreamField's idea from Wagtail CMS for plain Django admin or with Grappelli skin.
 - [jazzband/django-admin-sortable](https://github.com/jazzband/django-admin-sortable) - Generic drag-and-drop ordering for objects and tabular inlines in Django Admin
@@ -589,7 +590,7 @@
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [glasnt/emojificate](https://github.com/glasnt/emojificate) - 🙃 Turn text with emoji into text with accessible emoji
-- [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Sharing patterns I use with Django and htmx
+- [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Django and htmx patterns and examples
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [schinckel/django-shared-property](https://github.com/schinckel/django-shared-property) - Properties that are both ORM expressions and python code.
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
