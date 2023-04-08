@@ -25,6 +25,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -52,6 +53,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emoji](#emoji)
@@ -213,7 +215,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -344,6 +346,12 @@
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+
+## chatgpt-api 
+
+- [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 
@@ -537,6 +545,7 @@
 
 ## django 
 
+- [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
 - [techonomydev/django-tableselect](https://github.com/techonomydev/django-tableselect) - Django widget for selecting rows in a data table
 - [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [iashraful/fast-drf](https://github.com/iashraful/fast-drf) - A simple model based API maker written in Python and based on Django and Django REST Framework
@@ -778,6 +787,11 @@
 ## dotnet 
 
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+
+## education 
+
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
 ## electron 
 
@@ -1194,6 +1208,7 @@
 
 ## macos 
 
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
@@ -1324,6 +1339,7 @@
 
 ## others 
 
+- [fizista/django-password-validators](https://github.com/fizista/django-password-validators) - Additional libraries for validating passwords in Django.
 - [open-formulieren/open-forms](https://github.com/open-formulieren/open-forms) - Smart and dynamic forms
 - [stephenmcd/django-forms-builder](https://github.com/stephenmcd/django-forms-builder) - Let users build forms in Django admin
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
@@ -1675,6 +1691,7 @@
 
 ## python 
 
+- [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
 - [techonomydev/django-tableselect](https://github.com/techonomydev/django-tableselect) - Django widget for selecting rows in a data table
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
 - [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
@@ -1861,7 +1878,7 @@
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [crccheck/django-object-actions](https://github.com/crccheck/django-object-actions) - A Django app for easily adding object tools in the Django admin
 - [mikeckennedy/jinja_partials](https://github.com/mikeckennedy/jinja_partials) - Simple reuse of partial HTML page templates in the Jinja template language for Python web frameworks. #pypackage
-- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [barseghyanartur/django-fobi](https://github.com/barseghyanartur/django-fobi) - Form generator/builder application for Django done right: customisable, modular, user- and developer- friendly.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [typeddjango/django-stubs](https://github.com/typeddjango/django-stubs) - PEP-484 stubs for Django
@@ -1960,6 +1977,7 @@
 
 ## python3 
 
+- [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
 - [iashraful/fastapi-boilerplate-with-postgres](https://github.com/iashraful/fastapi-boilerplate-with-postgres) - A production ready boilerplate/template for FastAPI and PostgreSQL
 - [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
@@ -2187,6 +2205,7 @@
 
 ## swift 
 
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
