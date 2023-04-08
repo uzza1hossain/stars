@@ -272,6 +272,8 @@
 
 ## Python 
 
+- [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
+- [fizista/django-password-validators](https://github.com/fizista/django-password-validators) - Additional libraries for validating passwords in Django.
 - [open-formulieren/open-forms](https://github.com/open-formulieren/open-forms) - Smart and dynamic forms
 - [techonomydev/django-tableselect](https://github.com/techonomydev/django-tableselect) - Django widget for selecting rows in a data table
 - [stephenmcd/django-forms-builder](https://github.com/stephenmcd/django-forms-builder) - Let users build forms in Django admin
@@ -674,7 +676,7 @@
 - [mikeckennedy/jinja_partials](https://github.com/mikeckennedy/jinja_partials) - Simple reuse of partial HTML page templates in the Jinja template language for Python web frameworks. #pypackage
 - [aspiredu/django-safemigrate](https://github.com/aspiredu/django-safemigrate) - Safely run migrations before deployment
 - [ewels/rich-codex](https://github.com/ewels/rich-codex) - Create rich code images for your docs.
-- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [skorokithakis/django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
 - [barseghyanartur/django-fobi](https://github.com/barseghyanartur/django-fobi) - Form generator/builder application for Django done right: customisable, modular, user- and developer- friendly.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
@@ -920,6 +922,7 @@
 
 ## Swift 
 
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper & GPT-based app for passing remote SWE interviews
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
