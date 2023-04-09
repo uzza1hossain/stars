@@ -46,6 +46,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -514,6 +515,10 @@
 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
+## deno 
+
+- [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
 
 ## deployment 
 
@@ -1160,6 +1165,7 @@
 
 ## learning 
 
+- [plabayo/learn-rust-101](https://github.com/plabayo/learn-rust-101) - A guide to aid you in your journey of becoming a Rustacean (Rust developer).
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
@@ -1339,6 +1345,7 @@
 
 ## others 
 
+- [asg017/sqlite-ecosystem](https://github.com/asg017/sqlite-ecosystem) - An overview of all my SQLite extensions, and a roadmap for future extensions and tooling!
 - [fizista/django-password-validators](https://github.com/fizista/django-password-validators) - Additional libraries for validating passwords in Django.
 - [open-formulieren/open-forms](https://github.com/open-formulieren/open-forms) - Smart and dynamic forms
 - [stephenmcd/django-forms-builder](https://github.com/stephenmcd/django-forms-builder) - Let users build forms in Django admin
@@ -1461,7 +1468,6 @@
 - [yourlabs/django-session-security](https://github.com/yourlabs/django-session-security) - A little javascript and middleware work together to ensure that the user was active during the past X minutes in any tab he has open. Otherwise, display a warning leaving a couple of minutes to show a
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [andrewgodwin/yamdl](https://github.com/andrewgodwin/yamdl) - ORM-queryable YAML fixtures for Django
-- [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
 - [tim-schilling/django-anymail](https://github.com/tim-schilling/django-anymail) - Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, Postal, SendGrid, Sendinblue, SparkPost and more
 - [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [jazzband/django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
@@ -2101,6 +2107,7 @@
 
 ## rust 
 
+- [plabayo/learn-rust-101](https://github.com/plabayo/learn-rust-101) - A guide to aid you in your journey of becoming a Rustacean (Rust developer).
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
