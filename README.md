@@ -274,6 +274,7 @@
 
 ## Python 
 
+- [jazzband/django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering in the templates.
 - [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan) - 
 - [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
 - [fizista/django-password-validators](https://github.com/fizista/django-password-validators) - Additional libraries for validating passwords in Django.
@@ -995,7 +996,7 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 
 
 ## License
