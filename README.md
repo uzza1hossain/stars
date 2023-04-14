@@ -151,7 +151,8 @@
 
 ## JavaScript 
 
-- [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool for operating on your codebase using GPT. Promptr dynamically includes one or more files into your GPT prompts, and it can optionally parse and apply the changes that GPT suggest
+- [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
+- [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment 
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable and sortable behaviors inspired by the jQuery UI implementation
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [ra-systems/django-ra-erp](https://github.com/ra-systems/django-ra-erp) - A Django based framework to create diverse business solutions, equipped with a reporting engine and a responsive dashboard.
@@ -274,6 +275,9 @@
 
 ## Python 
 
+- [jazzband/django-user-sessions](https://github.com/jazzband/django-user-sessions) - Extend Django sessions with a foreign key back to the user, allowing enumerating all user's sessions.
+- [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
+- [RouganStriker/django-query-debug](https://github.com/RouganStriker/django-query-debug) - Helper methods and mixins to debug query issues
 - [florimondmanca/aiometer](https://github.com/florimondmanca/aiometer) - A Python concurrency scheduling library, compatible with asyncio and trio.
 - [jazzband/django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering in the templates.
 - [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django
