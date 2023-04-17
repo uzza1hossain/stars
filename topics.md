@@ -513,6 +513,7 @@
 
 ## database 
 
+- [codemation/pydbantic](https://github.com/codemation/pydbantic) - A single model for shaping, creating, accessing, storing data within a Database
 - [har777/pellet](https://github.com/har777/pellet) - Pellet helps improve your Django app performance by discovering N+1 queries.
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
@@ -561,6 +562,7 @@
 
 ## django 
 
+- [django-q2/django-q2](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django based on Django-Q
 - [jazzband/django-user-sessions](https://github.com/jazzband/django-user-sessions) - Extend Django sessions with a foreign key back to the user, allowing enumerating all user's sessions.
 - [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django
 - [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
@@ -1718,6 +1720,7 @@
 
 ## python 
 
+- [codemation/pydbantic](https://github.com/codemation/pydbantic) - A single model for shaping, creating, accessing, storing data within a Database
 - [florimondmanca/aiometer](https://github.com/florimondmanca/aiometer) - A Python concurrency scheduling library, compatible with asyncio and trio.
 - [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
 - [techonomydev/django-tableselect](https://github.com/techonomydev/django-tableselect) - Django widget for selecting rows in a data table
