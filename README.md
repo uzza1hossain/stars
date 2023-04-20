@@ -276,6 +276,7 @@
 
 ## Python 
 
+- [pivotal-energy-solutions/django-datatable-view](https://github.com/pivotal-energy-solutions/django-datatable-view) - Server-side datatable representations for Django querysets for automatic rendering in templates
 - [momegas/megabots](https://github.com/momegas/megabots) - 🤖 State-of-the-art, production ready LLM apps made mega-easy, so you don't have to build them from scratch 🤯 Create a bot, now 🫵
 - [django-q2/django-q2](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django based on Django-Q
 - [codemation/pydbantic](https://github.com/codemation/pydbantic) - A single model for shaping, creating, accessing, storing data within a Database
@@ -945,6 +946,7 @@
 
 ## TypeScript 
 
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Experience Management Solution
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
