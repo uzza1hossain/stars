@@ -938,7 +938,7 @@
 ## Swift 
 
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
-- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper & GPT-based app for passing remote SWE interviews
+- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper & GPT-based app for crushing remote SWE interviews
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter) - macOS tool to limit maximum charging percentage
