@@ -128,6 +128,7 @@
 - [orf/hq](https://github.com/orf/hq) - jq, but for HTML
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [eventbrite/tikibar](https://github.com/eventbrite/tikibar) - A debugging and information toolbar for django, designed for lightweight impact so it can be enabled selectively and run in production.
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django.
@@ -802,7 +803,7 @@
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [Radi85/Comment](https://github.com/Radi85/Comment) - Django comment app. It can be associated with any given model.
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [encode/django-vanilla-views](https://github.com/encode/django-vanilla-views) - Beautifully simple class-based views.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
@@ -965,7 +966,6 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
