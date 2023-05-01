@@ -279,6 +279,9 @@
 
 ## Python 
 
+- [nikalexis/django_htmx_ui](https://github.com/nikalexis/django_htmx_ui) - 
+- [yaakovLowenstein/hx-requests](https://github.com/yaakovLowenstein/hx-requests) - A package to facilitate the use of HTMX with Django
+- [idlesign/django-siteajax](https://github.com/idlesign/django-siteajax) - Reusable application for Django bridging client and server sides
 - [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox's realistic password strength estimator
 - [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
