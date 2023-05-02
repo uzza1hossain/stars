@@ -1379,6 +1379,7 @@
 
 ## others 
 
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [nikalexis/django_htmx_ui](https://github.com/nikalexis/django_htmx_ui) - 
 - [idlesign/django-siteajax](https://github.com/idlesign/django-siteajax) - Reusable application for Django bridging client and server sides
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
