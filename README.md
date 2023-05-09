@@ -280,6 +280,7 @@
 
 ## Python 
 
+- [timonweb/django-tailwind](https://github.com/timonweb/django-tailwind) - Django + Tailwind CSS = 💚
 - [fanout/django-eventstream](https://github.com/fanout/django-eventstream) - Server-Sent Events for Django
 - [py-moneyed/py-moneyed](https://github.com/py-moneyed/py-moneyed) - Provides Currency and Money classes for use in your Python code.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
@@ -370,7 +371,7 @@
 - [raagin/django-streamfield](https://github.com/raagin/django-streamfield) - This is a simple realisation of StreamField's idea from Wagtail CMS for plain Django admin or with Grappelli skin.
 - [jazzband/django-admin-sortable](https://github.com/jazzband/django-admin-sortable) - Generic drag-and-drop ordering for objects and tabular inlines in Django Admin
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [ra-systems/django-erp-framework](https://github.com/ra-systems/django-erp-framework) - A Django based framework to create diverse business solutions, equipped with a reporting engine and a responsive dashboard.
+- [RamezIssac/django-erp-framework](https://github.com/RamezIssac/django-erp-framework) - A Django based framework to create diverse business solutions, equipped with a reporting engine and a responsive dashboard.
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [heywbj/django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive) - Recursive Serialization for Django REST framework
 - [jambonsw/django-improved-user](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
