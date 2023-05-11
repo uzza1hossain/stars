@@ -897,7 +897,7 @@
 
 ## frontend 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [Bearle/django_private_chat2](https://github.com/Bearle/django_private_chat2) - Chat app for Django, powered by Django Channels, Websockets & Asyncio
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -1830,7 +1830,7 @@
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -2179,7 +2179,7 @@
 
 ## robotics 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## ruby 
@@ -2431,7 +2431,7 @@
 
 ## webapp 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## webpack 
 
@@ -2440,7 +2440,7 @@
 ## website 
 
 - [fabiocaccamo/django-freeze](https://github.com/fabiocaccamo/django-freeze) - :ice_cube: convert your dynamic django site to a static one with one line of code.
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 ## windows 
