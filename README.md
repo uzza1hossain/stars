@@ -265,7 +265,7 @@
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -282,6 +282,7 @@
 
 ## Python 
 
+- [scrapy-plugins/scrapy-djangoitem](https://github.com/scrapy-plugins/scrapy-djangoitem) - Scrapy extension to write scraped items using Django models
 - [jazzband/django-celery-monitor](https://github.com/jazzband/django-celery-monitor) - Celery Monitoring for Django
 - [llazzaro/django-scheduler](https://github.com/llazzaro/django-scheduler) - A calendaring app for Django.
 - [jazzband/django-dbbackup](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files
@@ -317,10 +318,10 @@
 - [florimondmanca/aiometer](https://github.com/florimondmanca/aiometer) - A Python concurrency scheduling library, compatible with asyncio and trio.
 - [jazzband/django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering in the templates.
 - [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django
-- [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
+- [file-validator/file-validator](https://github.com/file-validator/file-validator) - The first Python validation package uses type, mime, extension, magic numbers, and size to validate files. ✅
 - [fizista/django-password-validators](https://github.com/fizista/django-password-validators) - Additional libraries for validating passwords in Django.
 - [open-formulieren/open-forms](https://github.com/open-formulieren/open-forms) - Smart and dynamic forms
-- [techonomydev/django-tableselect](https://github.com/techonomydev/django-tableselect) - Django widget for selecting rows in a data table
+- [techonomydev/django-crispy-tableselect](https://github.com/techonomydev/django-crispy-tableselect) - Django widget for selecting rows in a data table
 - [stephenmcd/django-forms-builder](https://github.com/stephenmcd/django-forms-builder) - Let users build forms in Django admin
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
@@ -677,7 +678,7 @@
 - [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)
 - [asweigart/humre](https://github.com/asweigart/humre) - A human-readable regular expression module for Python.
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
-- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - An audio validator for Django that checks the mime and extension of audio files
+- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - Django audio validator that verifies the mime and extension of audio files.
 - [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.
 - [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions.
 - [revsys/django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase
@@ -906,6 +907,7 @@
 
 ## Rust 
 
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
