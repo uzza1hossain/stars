@@ -58,7 +58,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘐𝘮𝘢𝘨𝘪𝘯𝘦 𝘩𝘢𝘷𝘪𝘯𝘨 𝘢 𝘴𝘦𝘤𝘰𝘯𝘥 𝘣𝘳𝘢𝘪𝘯... Your new, ridonkuliciously-smart clipboard manager:rocket:
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -134,7 +134,6 @@
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-- [eventbrite/tikibar](https://github.com/eventbrite/tikibar) - A debugging and information toolbar for django, designed for lightweight impact so it can be enabled selectively and run in production.
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
@@ -159,6 +158,7 @@
 
 ## JavaScript 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment 
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable and sortable behaviors inspired by the jQuery UI implementation
@@ -370,7 +370,7 @@
 - [madzak/python-json-logger](https://github.com/madzak/python-json-logger) - Json Formatter for the standard python logger
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [celery/django-celery-results](https://github.com/celery/django-celery-results) - Celery result back end with django
 - [Zac-HD/shed](https://github.com/Zac-HD/shed) - `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
 - [browniebroke/django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
@@ -950,6 +950,7 @@
 
 ## Shell 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Miserlou/lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
