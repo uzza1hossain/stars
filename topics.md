@@ -214,7 +214,7 @@
 
 ## api 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of Twitter's v1, v2, and GraphQL APIs
 - [iashraful/fast-drf](https://github.com/iashraful/fast-drf) - A simple model based API maker written in Python and based on Django and Django REST Framework
 - [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
@@ -308,14 +308,14 @@
 ## bash 
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
@@ -364,13 +364,13 @@
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 
 ## chatgpt-api 
 
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 
 ## chrome 
 
@@ -386,7 +386,7 @@
 
 ## cli 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
@@ -418,7 +418,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [kmaork/madbg](https://github.com/kmaork/madbg) - A fully-featured remote and preemptive debugger for python
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -465,7 +465,7 @@
 
 ## cpp 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 
@@ -570,7 +570,7 @@
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
@@ -1062,7 +1062,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1229,7 +1229,7 @@
 
 ## library 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio and pytest, ready for production.
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
@@ -1238,7 +1238,7 @@
 ## linux 
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -1276,7 +1276,7 @@
 
 ## macos 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -1421,6 +1421,7 @@
 
 ## others 
 
+- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) - Reusable named inline partials for the Django Template Language.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [scrapy-plugins/scrapy-djangoitem](https://github.com/scrapy-plugins/scrapy-djangoitem) - Scrapy extension to write scraped items using Django models
 - [jazzband/django-celery-monitor](https://github.com/jazzband/django-celery-monitor) - Celery Monitoring for Django
@@ -1742,7 +1743,7 @@
 
 ## package-manager 
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 
@@ -1798,7 +1799,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 - [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [pivotal-energy-solutions/django-datatable-view](https://github.com/pivotal-energy-solutions/django-datatable-view) - Server-side datatable representations for Django querysets for automatic rendering in templates
 - [momegas/megabots](https://github.com/momegas/megabots) - 🤖 State-of-the-art, production ready LLM apps made mega-easy, so you don't have to build them from scratch 🤯 Create a bot, now 🫵
 - [codemation/pydbantic](https://github.com/codemation/pydbantic) - A single model for shaping, creating, accessing, storing data within a Database
@@ -2020,7 +2021,7 @@
 - [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [kmaork/madbg](https://github.com/kmaork/madbg) - A fully-featured remote and preemptive debugger for python
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [pytest-dev/pytest-django](https://github.com/pytest-dev/pytest-django) - A Django plugin for pytest.
 - [fabiocaccamo/django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - :art: color field for django models with a nice color-picker in the admin.
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
@@ -2284,7 +2285,7 @@
 
 ## shell 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -2295,7 +2296,7 @@
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -2344,7 +2345,7 @@
 
 ## terminal 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
@@ -2367,7 +2368,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [kmaork/madbg](https://github.com/kmaork/madbg) - A fully-featured remote and preemptive debugger for python
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
@@ -2416,7 +2417,7 @@
 ## ubuntu 
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 
 ## vim 
@@ -2482,7 +2483,7 @@
 
 ## windows 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
