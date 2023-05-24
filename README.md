@@ -58,7 +58,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart productivity tool :brain:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -291,7 +291,7 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [godd0t/django-docker-quickstart](https://github.com/godd0t/django-docker-quickstart) - Your all-in-one Django-Docker starter kit. Pre-configured services including PostgreSQL, Redis, Celery, with Nginx and Traefik for production. Streamlined development with included tools for testing a
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks
+- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - Reactive Python kernel for Jupyter notebooks.
 - [timonweb/django-tailwind](https://github.com/timonweb/django-tailwind) - Django + Tailwind CSS = 💚
 - [fanout/django-eventstream](https://github.com/fanout/django-eventstream) - Server-Sent Events for Django
 - [py-moneyed/py-moneyed](https://github.com/py-moneyed/py-moneyed) - Provides Currency and Money classes for use in your Python code.
@@ -884,7 +884,7 @@
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
 - [django-ordered-model/django-ordered-model](https://github.com/django-ordered-model/django-ordered-model) - Get your Django models in order
 - [tjwalch/django-livereload-server](https://github.com/tjwalch/django-livereload-server) - Livereload functionality integrated with your Django development environment.
-- [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - Reactive user interfaces with pure Python
+- [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 - [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
