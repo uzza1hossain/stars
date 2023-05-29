@@ -283,6 +283,7 @@
 
 ## Python 
 
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [fcurella/django-fakery](https://github.com/fcurella/django-fakery) - 🏭  An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 - [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
@@ -946,6 +947,7 @@
 
 ## SCSS 
 
+- [elapouya/django-listing](https://github.com/elapouya/django-listing) - Listing, table, with toolbars, automatic search and insert forms and much more for Django
 - [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 - [app-generator/devtool-django-api-generator](https://github.com/app-generator/devtool-django-api-generator) - Django API Generator - Open-Source Tool for Developers | AppSeed
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
