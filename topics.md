@@ -582,6 +582,7 @@
 
 ## django 
 
+- [coddingtonbear/django-mailbox](https://github.com/coddingtonbear/django-mailbox) - Import mail from POP3, IMAP, local email mailboxes or directly from Postfix or Exim4 into your Django application automatically.
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [fcurella/django-fakery](https://github.com/fcurella/django-fakery) - 🏭  An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 - [jazzband/django-dbbackup](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files
@@ -1802,6 +1803,7 @@
 
 ## python 
 
+- [coddingtonbear/django-mailbox](https://github.com/coddingtonbear/django-mailbox) - Import mail from POP3, IMAP, local email mailboxes or directly from Postfix or Exim4 into your Django application automatically.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks.
