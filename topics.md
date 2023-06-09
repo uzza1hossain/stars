@@ -1434,6 +1434,7 @@
 
 ## others 
 
+- [wildfish/django-dashboards](https://github.com/wildfish/django-dashboards) - 
 - [elapouya/django-listing](https://github.com/elapouya/django-listing) - Listing, table, with toolbars, automatic search and insert forms and much more for Django
 - [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -1908,7 +1909,7 @@
 - [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - New maintainers 🚧 --- Django reCAPTCHA form field/widget integration app.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [forgepackages/forge-htmx](https://github.com/forgepackages/forge-htmx) - An HTMX integration for Django with template fragments and view actions
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
@@ -2128,7 +2129,7 @@
 - [sjbitcode/django-cbv-inspect](https://github.com/sjbitcode/django-cbv-inspect) - A tool to help inspect Django class-based views
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 - [groveco/django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [Bearle/django_private_chat2](https://github.com/Bearle/django_private_chat2) - Chat app for Django, powered by Django Channels, Websockets & Asyncio
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
@@ -2250,7 +2251,7 @@
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [orf/hq](https://github.com/orf/hq) - jq, but for HTML
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
