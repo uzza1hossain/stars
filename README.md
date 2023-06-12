@@ -284,6 +284,7 @@
 
 ## Python 
 
+- [diegojromerolopez/django-async-include](https://github.com/diegojromerolopez/django-async-include) - Asynchronous inclusion of Django templates
 - [zostera/django-icons](https://github.com/zostera/django-icons) - Icons for Django
 - [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
 - [wildfish/django-dashboards](https://github.com/wildfish/django-dashboards) - 
