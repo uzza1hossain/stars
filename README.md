@@ -284,6 +284,8 @@
 
 ## Python 
 
+- [surenkov/django-pydantic-field](https://github.com/surenkov/django-pydantic-field) - Django JSONField with Pydantic models as a Schema
+- [barseghyanartur/django-elasticsearch-dsl-drf](https://github.com/barseghyanartur/django-elasticsearch-dsl-drf) - Integrate Elasticsearch DSL with Django REST framework.
 - [diegojromerolopez/django-async-include](https://github.com/diegojromerolopez/django-async-include) - Asynchronous inclusion of Django templates
 - [zostera/django-icons](https://github.com/zostera/django-icons) - Icons for Django
 - [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
