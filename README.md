@@ -284,6 +284,8 @@
 
 ## Python 
 
+- [valberg/django-view-utils](https://github.com/valberg/django-view-utils) - 
+- [valberg/django-view-decorator](https://github.com/valberg/django-view-decorator) - 
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [petrgazarov/FastAPI-app](https://github.com/petrgazarov/FastAPI-app) - Example app using FastAPI, asyncio, SQLModel, Celery, Alembic and Supertokens
@@ -363,7 +365,7 @@
 - [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
 - [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio and pytest, ready for production.
 - [codemation/easyauth](https://github.com/codemation/easyauth) - Create a centralized Authentication and Authorization token server. Easily secure FastAPI endpoints based on Users, Groups, Roles or Permissions with very little database usage.
-- [mrtolkien/fastapi_simple_security](https://github.com/mrtolkien/fastapi_simple_security) - API-key based security utilities for FastAPI, focused on simplicity of use
+- [mrtolkien/fastapi_simple_security](https://github.com/mrtolkien/fastapi_simple_security) - Drop-in API-key based security for FastAPI
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
