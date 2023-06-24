@@ -1446,6 +1446,8 @@
 
 ## others 
 
+- [valberg/django-view-utils](https://github.com/valberg/django-view-utils) - 
+- [valberg/django-view-decorator](https://github.com/valberg/django-view-decorator) - 
 - [wildfish/django-dashboards](https://github.com/wildfish/django-dashboards) - 
 - [elapouya/django-listing](https://github.com/elapouya/django-listing) - Listing, table, with toolbars, automatic search and insert forms and much more for Django
 - [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
@@ -1487,7 +1489,7 @@
 - [DeanWay/fastapi-versioning](https://github.com/DeanWay/fastapi-versioning) - api versioning for fastapi web applications
 - [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
 - [codemation/easyauth](https://github.com/codemation/easyauth) - Create a centralized Authentication and Authorization token server. Easily secure FastAPI endpoints based on Users, Groups, Roles or Permissions with very little database usage.
-- [mrtolkien/fastapi_simple_security](https://github.com/mrtolkien/fastapi_simple_security) - API-key based security utilities for FastAPI, focused on simplicity of use
+- [mrtolkien/fastapi_simple_security](https://github.com/mrtolkien/fastapi_simple_security) - Drop-in API-key based security for FastAPI
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
 - [adamcharnock/django-tz-detect](https://github.com/adamcharnock/django-tz-detect) - Easy user timezone detection for Django
