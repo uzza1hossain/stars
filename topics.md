@@ -145,6 +145,7 @@
 - [software](#software)
 - [sql](#sql)
 - [statistics](#statistics)
+- [storybook](#storybook)
 - [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -585,6 +586,8 @@
 
 ## django 
 
+- [torchbox/storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook
+- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [jazzband/django-newsletter](https://github.com/jazzband/django-newsletter) - An email newsletter application for the Django web application framework, including an extended admin interface, web (un)subscription, dynamic e-mail templates, an archive and HTML email support.
 - [surenkov/django-pydantic-field](https://github.com/surenkov/django-pydantic-field) - Django JSONField with Pydantic models as a Schema
 - [barseghyanartur/django-elasticsearch-dsl-drf](https://github.com/barseghyanartur/django-elasticsearch-dsl-drf) - Integrate Elasticsearch DSL with Django REST framework.
@@ -815,6 +818,7 @@
 
 ## docker 
 
+- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [godd0t/django-docker-quickstart](https://github.com/godd0t/django-docker-quickstart) - Your all-in-one Django-Docker starter kit. Pre-configured services including PostgreSQL, Redis, Celery, with Nginx and Traefik for production. Streamlined development with included tools for testing a
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
@@ -1086,7 +1090,7 @@
 - [cfpb/django-flags](https://github.com/cfpb/django-flags) - Feature flags for Django projects
 - [zodman/inertia-django](https://github.com/zodman/inertia-django) - django connector for inertia
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [codingjoe/django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP
 - [alanjds/drf-nested-routers](https://github.com/alanjds/drf-nested-routers) - Nested Routers for Django Rest Framework
@@ -1446,6 +1450,10 @@
 
 ## others 
 
+- [bugbytes-io/django-htmx](https://github.com/bugbytes-io/django-htmx) - Repository for django-htmx tutorials
+- [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+- [Tivix/django-cron](https://github.com/Tivix/django-cron) - Write cron business logic as a Python class and let this app do the rest! It enables Django projects to schedule cron tasks, tracks their success / failures, manages contention (via a cache) etc. Basi
+- [jazzband/django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from admin site.
 - [valberg/django-view-utils](https://github.com/valberg/django-view-utils) - 
 - [valberg/django-view-decorator](https://github.com/valberg/django-view-decorator) - 
 - [wildfish/django-dashboards](https://github.com/wildfish/django-dashboards) - 
@@ -2087,7 +2095,7 @@
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [bennylope/django-organizations](https://github.com/bennylope/django-organizations) - :couple: Multi-user accounts for Django projects
@@ -2171,7 +2179,7 @@
 - [wemake-services/django-split-settings](https://github.com/wemake-services/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [vishalanandl177/DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [lingster/drf-api-tracking](https://github.com/lingster/drf-api-tracking) - Fork of aschn/drf-tracking so that we can maintain and release newer versions
 - [yezz123/pyngo](https://github.com/yezz123/pyngo) - Pydantic model support for Django & Django-Rest-Framework ✨
@@ -2285,7 +2293,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
@@ -2382,6 +2390,10 @@
 ## statistics 
 
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
+
+## storybook 
+
+- [torchbox/storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook
 
 ## support 
 
