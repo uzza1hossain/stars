@@ -69,6 +69,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
+- [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -211,7 +212,7 @@
 
 ## ansible 
 
-- [sesh/django-up](https://github.com/sesh/django-up) - Zero configuration Django deployments
+- [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 
 ## api 
 
@@ -246,7 +247,7 @@
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -501,7 +502,7 @@
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 
 ## data-analysis 
 
@@ -518,7 +519,7 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
 
@@ -558,7 +559,7 @@
 
 ## deployment 
 
-- [sesh/django-up](https://github.com/sesh/django-up) - Zero configuration Django deployments
+- [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 - [johnsyncs/ezinnit](https://github.com/johnsyncs/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
@@ -569,7 +570,7 @@
 
 ## devops 
 
-- [sesh/django-up](https://github.com/sesh/django-up) - Zero configuration Django deployments
+- [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -638,7 +639,7 @@
 - [oxan/djangorestframework-dataclasses](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework
 - [Tivix/django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (
 - [slyapustin/django-classified](https://github.com/slyapustin/django-classified) - Django Classified
-- [sesh/django-up](https://github.com/sesh/django-up) - Zero configuration Django deployments
+- [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [manjitkumar/drf-url-filters](https://github.com/manjitkumar/drf-url-filters) - A django app to apply filters on drf querysets using query params with validations using voluptuous.
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
@@ -918,7 +919,7 @@
 - [RamezIssac/django-erp-framework](https://github.com/RamezIssac/django-erp-framework) - A Django based framework to create diverse business solutions, equipped with a reporting engine with charts, widgets system , a custom admin site and other goodies
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [dinoperovic/django-salesman](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django and Wagtail.
@@ -937,6 +938,10 @@
 - [learningnoobi/django_channels_bingo_game](https://github.com/learningnoobi/django_channels_bingo_game) - Real Time Multiplayer Bingo Game Using Django Channels and Javascript
 
 ## game-development 
+
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+## gamedev 
 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
@@ -1176,7 +1181,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
@@ -1450,6 +1455,7 @@
 
 ## others 
 
+- [django-tenants/django-tenants](https://github.com/django-tenants/django-tenants) - Django tenants using PostgreSQL Schemas
 - [bugbytes-io/django-htmx](https://github.com/bugbytes-io/django-htmx) - Repository for django-htmx tutorials
 - [adamchainz/django-cors-headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
 - [Tivix/django-cron](https://github.com/Tivix/django-cron) - Write cron business logic as a Python class and let this app do the rest! It enables Django projects to schedule cron tasks, tracks their success / failures, manages contention (via a cache) etc. Basi
@@ -1833,6 +1839,7 @@
 
 ## python 
 
+- [tophat/syrupy](https://github.com/tophat/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [jazzband/django-newsletter](https://github.com/jazzband/django-newsletter) - An email newsletter application for the Django web application framework, including an extended admin interface, web (un)subscription, dynamic e-mail templates, an archive and HTML email support.
 - [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
@@ -1912,6 +1919,7 @@
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [slyapustin/django-classified](https://github.com/slyapustin/django-classified) - Django Classified
+- [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 - [noripyt/django-cachalot](https://github.com/noripyt/django-cachalot) - No effort, no worry, maximum performance.
 - [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [manjitkumar/drf-url-filters](https://github.com/manjitkumar/drf-url-filters) - A django app to apply filters on drf querysets using query params with validations using voluptuous.
@@ -2024,7 +2032,7 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [nephila/django-meta](https://github.com/nephila/django-meta) - Pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [jonathan-s/django-sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the django tooling you already know and love.
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
 - [SmileyChris/django-countries](https://github.com/SmileyChris/django-countries) - A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
@@ -2450,6 +2458,7 @@
 
 ## testing 
 
+- [tophat/syrupy](https://github.com/tophat/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [fcurella/django-fakery](https://github.com/fcurella/django-fakery) - 🏭  An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -2530,7 +2539,7 @@
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [patrikx3/redis-ui](https://github.com/patrikx3/redis-ui) - 📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app
 - [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
