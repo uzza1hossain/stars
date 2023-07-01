@@ -139,7 +139,7 @@
 - [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components) - Create simple reusable template components in Django.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Django admin theme based on Tailwind CSS supporting advanced sidebar customizations, color combinations, actions, filters ...
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Django admin theme based on Tailwind CSS
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [rebataur/djkube](https://github.com/rebataur/djkube) - Tool for Django Developers to setup full stack EKS Kubernetes with all necessary tools including DevSecOps in 40 minutes
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
