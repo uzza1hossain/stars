@@ -171,6 +171,7 @@
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [mardix/litedom](https://github.com/mardix/litedom) - A reactive Web Component library to create Custom Element and turns any HTML sections into components
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [peopledoc/django-chartjs](https://github.com/peopledoc/django-chartjs) - Django Class Based Views to generate Ajax charts js parameters.
@@ -425,7 +426,7 @@
 - [django-parler/django-parler-rest](https://github.com/django-parler/django-parler-rest) - Translatable model support for django-rest-framework
 - [surface-security/django-restful-admin-ppb](https://github.com/surface-security/django-restful-admin-ppb) - Django admin restful api
 - [demon-bixia/django-api-admin](https://github.com/demon-bixia/django-api-admin) - Expose django.contrib.admin as a restful service. useful for adding new features to django admin or writing a new admin client.
-- [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
+- [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
@@ -478,10 +479,9 @@
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [MahdeenSky/ChatGPT-Terminal-Completion](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion) - Attempt at using ChatGPT to issue commands based on comments in the terminal.
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries made easy.
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
+- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - 🕸 Web apps in pure Python 🐍
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [jdevries3133/django_htmx_rest](https://github.com/jdevries3133/django_htmx_rest) - Bringing together django, django rest framework, and htmx
 - [PHACDataHub/django-htmx-autocomplete](https://github.com/PHACDataHub/django-htmx-autocomplete) - A Django autocomplete component powered by htmx
 - [aldjemy/aldjemy](https://github.com/aldjemy/aldjemy) - Integration SQLAlchemy in Django projects for effective query building purposes
@@ -876,7 +876,7 @@
 - [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
 - [jazzband/django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
 - [holgerd77/django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface
-- [GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) - This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . In order to help some who need 
+- [GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) - This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . You can share your vacant wareh
 - [deschler/django-modeltranslation](https://github.com/deschler/django-modeltranslation) - Translates Django models using a registration approach.
 - [mbi/django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 - [alanjds/drf-nested-routers](https://github.com/alanjds/drf-nested-routers) - Nested Routers for Django Rest Framework
