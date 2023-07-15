@@ -713,6 +713,7 @@
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications
 - [codingjoe/django-select2](https://github.com/codingjoe/django-select2) - This is a Django integration for Select2
 - [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
+- [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Pattern repository for Django and htmx with full example code
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Django admin theme based on Tailwind CSS
 - [Opus10/django-pghistory](https://github.com/Opus10/django-pghistory) - Track historical events to Django models using Postgres triggers.
@@ -925,7 +926,7 @@
 
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [RamezIssac/django-erp-framework](https://github.com/RamezIssac/django-erp-framework) - A Django based framework to create diverse business solutions, equipped with a reporting engine with charts, widgets system , a custom admin site and other goodies
-- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
@@ -1128,6 +1129,7 @@
 - [IanTerzo/Neutron](https://github.com/IanTerzo/Neutron) - Create modern cross-platform apps in Python using HTML and CSS
 - [orf/hq](https://github.com/orf/hq) - jq, but for HTML
 - [voiio/emark](https://github.com/voiio/emark) - eMark↓ – Markdown template based HTML and text emails for Django.
+- [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Pattern repository for Django and htmx with full example code
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [mikeckennedy/jinja_partials](https://github.com/mikeckennedy/jinja_partials) - Simple reuse of partial HTML page templates in the Jinja template language for Python web frameworks. #pypackage
@@ -1451,7 +1453,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [app-generator/devtool-django-api-generator](https://github.com/app-generator/devtool-django-api-generator) - Django API Generator - Open-Source Tool for Developers | AppSeed
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1463,6 +1465,7 @@
 
 ## others 
 
+- [treyhunner/django-relatives](https://github.com/treyhunner/django-relatives) - Utilities for linking to related objects in Django admin
 - [django-tastypie/django-tastypie](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [django-tenants/django-tenants](https://github.com/django-tenants/django-tenants) - Django tenants using PostgreSQL Schemas
@@ -1521,7 +1524,7 @@
 - [3YOURMIND/django-deprecate-fields](https://github.com/3YOURMIND/django-deprecate-fields) - This package allows deprecating model fields and allows removing them in a backwards compatible manner.
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable and sortable behaviors inspired by the jQuery UI implementation
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-- [neurosity/neurosity-python-sdk](https://github.com/neurosity/neurosity-python-sdk) - The Official Neurosity Python SDK 🤯
+- [neurosity/neurosity-python-sdk](https://github.com/neurosity/neurosity-python-sdk) - [BETA] The Official Neurosity Python SDK 🤯
 - [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
 - [Zac-HD/shed](https://github.com/Zac-HD/shed) - `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
@@ -1669,7 +1672,6 @@
 - [jazzband/django-defender](https://github.com/jazzband/django-defender) - A simple super fast django reusable app that blocks people from brute forcing login attempts
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [glasnt/emojificate](https://github.com/glasnt/emojificate) - 🙃 Turn text with emoji into text with accessible emoji
-- [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Django and htmx patterns and examples
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [schinckel/django-shared-property](https://github.com/schinckel/django-shared-property) - Properties that are both ORM expressions and python code.
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
@@ -1922,7 +1924,7 @@
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries made easy.
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
-- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -2171,7 +2173,7 @@
 - [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart) - A simple and flexible cart manager for your django projects.
 - [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python3 programs into one line of python code!
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
-- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [sjbitcode/django-cbv-inspect](https://github.com/sjbitcode/django-cbv-inspect) - A tool to help inspect Django class-based views
@@ -2548,10 +2550,11 @@
 
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
-- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone) 🕸 Web apps in pure Python 🐍
 - [patrikx3/redis-ui](https://github.com/patrikx3/redis-ui) - 📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app
 - [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Pattern repository for Django and htmx with full example code
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
