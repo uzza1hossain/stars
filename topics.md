@@ -1730,7 +1730,7 @@
 - [matthiask/django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
 - [jazzband/django-invitations](https://github.com/jazzband/django-invitations) - Generic invitations app for Django
 - [dozymoe/frozen-django](https://github.com/dozymoe/frozen-django) - Incrementally create static sites from Django, meant to be used in background tasks.
-- [rebataur/djkube](https://github.com/rebataur/djkube) - Tool for Django Developers to setup full stack EKS Kubernetes with all necessary tools including DevSecOps in 40 minutes
+- [rebataur/fskube](https://github.com/rebataur/fskube) - Tool for Django Developers to setup full stack EKS Kubernetes with all necessary tools including DevSecOps in 40 minutes
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [migonzalvar/dj-email-url](https://github.com/migonzalvar/dj-email-url) - Use an URL to configure email backend settings in your Django Application.
 - [epicserve/django-cache-url](https://github.com/epicserve/django-cache-url) - Use Cache URLs in your Django Application
