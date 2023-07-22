@@ -956,6 +956,7 @@
 
 ## git 
 
+- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -1045,7 +1046,6 @@
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [roaldnefs/django-sms](https://github.com/roaldnefs/django-sms) - A Django app for sending SMS with interchangeable backends.
 - [groveco/django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
-- [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -1464,6 +1464,8 @@
 
 ## others 
 
+- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
+- [goinnn/django-multiselectfield](https://github.com/goinnn/django-multiselectfield) - A Multiple Choice model field
 - [treyhunner/django-relatives](https://github.com/treyhunner/django-relatives) - Utilities for linking to related objects in Django admin
 - [django-tastypie/django-tastypie](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
@@ -1850,6 +1852,7 @@
 
 ## python 
 
+- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [georgemarshall/django-cryptography](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django
 - [tophat/syrupy](https://github.com/tophat/syrupy) - :pancakes: The sweeter pytest snapshot plugin
