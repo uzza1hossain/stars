@@ -396,6 +396,7 @@
 
 ## cli 
 
+- [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
@@ -2178,7 +2179,7 @@
 - [rawheel/fastapi-boilerplate](https://github.com/rawheel/fastapi-boilerplate) - Dockerized FastAPI boiler plate similar to Django code structure with views, serializers(pydantic) and model( Sqlalchemy ORM) with dockerized database(PostgresSQL) and PgAdmin. 🚀
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [noisrucer/girok](https://github.com/noisrucer/girok) - A powerful and beautiful CLI scheduler
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart) - A simple and flexible cart manager for your django projects.
 - [hhc97/flatliner-src](https://github.com/hhc97/flatliner-src) - Convert python3 programs into one line of python code!
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
