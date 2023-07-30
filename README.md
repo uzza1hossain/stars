@@ -245,6 +245,7 @@
 
 ## Others 
 
+- [djangonaut-space/pilot-program](https://github.com/djangonaut-space/pilot-program) - 3-month group mentoring program for contributing to Django :unicorn:
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
