@@ -1468,6 +1468,7 @@
 
 ## others 
 
+- [djangonaut-space/pilot-program](https://github.com/djangonaut-space/pilot-program) - 3-month group mentoring program for contributing to Django :unicorn:
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
