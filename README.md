@@ -8,6 +8,7 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
 - [Go](#go)
@@ -75,12 +76,17 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
+## Clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 ## CoffeeScript 
 
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Unobtrusive Javascript Framework for server-side applications
 
 ## Dart 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## Go 
@@ -293,6 +299,7 @@
 
 ## Python 
 
+- [silentsokolov/django-admin-rangefilter](https://github.com/silentsokolov/django-admin-rangefilter) - A Django app that adds a filter by date range and numeric range to the admin UI.
 - [tbicr/django-pg-zero-downtime-migrations](https://github.com/tbicr/django-pg-zero-downtime-migrations) - Django postgresql backend that apply migrations with respect to database locks
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
@@ -962,7 +969,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Miserlou/Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf 2.0)
+- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf-plugin compatible)
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
