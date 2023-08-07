@@ -759,7 +759,7 @@
 - [artinnok/django-swap-user](https://github.com/artinnok/django-swap-user) - (Beta) Simple and flexible way to swap default Django User
 - [model-bakers/model_bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-- [jrief/django-formset](https://github.com/jrief/django-formset) - Building beautiful Forms in Django with a contemporary User eXperience has never been easier.
+- [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django
 - [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [adamghill/coltrane](https://github.com/adamghill/coltrane) - A simple content site framework that harnesses the power of Django without the hassle.
@@ -1555,7 +1555,7 @@
 - [3YOURMIND/django-deprecate-fields](https://github.com/3YOURMIND/django-deprecate-fields) - This package allows deprecating model fields and allows removing them in a backwards compatible manner.
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable and sortable behaviors inspired by the jQuery UI implementation
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-- [neurosity/neurosity-python-sdk](https://github.com/neurosity/neurosity-python-sdk) - [BETA] The Official Neurosity Python SDK 🤯
+- [neurosity/neurosity-sdk-python](https://github.com/neurosity/neurosity-sdk-python) - [BETA] The Official Neurosity Python SDK 🤯
 - [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
 - [Zac-HD/shed](https://github.com/Zac-HD/shed) - `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
