@@ -303,6 +303,7 @@
 
 ## Python 
 
+- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [adamchainz/django-mysql](https://github.com/adamchainz/django-mysql) - :dolphin: :horse: Extensions to Django for use with MySQL/MariaDB
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [silentsokolov/django-admin-rangefilter](https://github.com/silentsokolov/django-admin-rangefilter) - A Django app that adds a filter by date range and numeric range to the admin UI.
@@ -882,7 +883,7 @@
 - [justquick/django-activity-stream](https://github.com/justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 - [Hipo/drf-extra-fields](https://github.com/Hipo/drf-extra-fields) - Extra Fields for Django Rest Framework
 - [vishalanandl177/DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [brianjbuck/drf_orjson_renderer](https://github.com/brianjbuck/drf_orjson_renderer) - Django RestFramework JSON Renderer Backed by orjson
 - [cfpb/django-flags](https://github.com/cfpb/django-flags) - Feature flags for Django projects
 - [zodman/inertia-django](https://github.com/zodman/inertia-django) - django connector for inertia
