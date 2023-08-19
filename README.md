@@ -183,7 +183,6 @@
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable and sortable behaviors inspired by the jQuery UI implementation
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-- [tekanokhambane/django-multitenancy](https://github.com/tekanokhambane/django-multitenancy) - Django Multitenancy is a Django app that handles user subscriptions for tenant apps.
 - [oscarmlage/django-cruds-adminlte](https://github.com/oscarmlage/django-cruds-adminlte) - django-cruds is simple drop-in django app that creates CRUD for faster prototyping
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
@@ -480,6 +479,7 @@
 - [edelvalle/reactor](https://github.com/edelvalle/reactor) - Phoenix LiveView but for Django
 - [eadwinCode/django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework)
 - [glyph/QuickMacHotKey](https://github.com/glyph/QuickMacHotKey) - Quickly bind a global hotkey in a PyObjC application.
+- [tekanokhambane/django-multitenancy](https://github.com/tekanokhambane/django-multitenancy) - Django Multitenancy is a Django app that handles user subscriptions for tenant apps.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
