@@ -2326,6 +2326,7 @@
 
 ## rest-api 
 
+- [billabear/billabear](https://github.com/billabear/billabear) - Subscription Management and Billing System
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [iashraful/fast-drf](https://github.com/iashraful/fast-drf) - A simple model based API maker written in Python and based on Django and Django REST Framework
 - [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
