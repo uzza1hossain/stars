@@ -959,7 +959,7 @@
 - [django-cms/django-sekizai](https://github.com/django-cms/django-sekizai) - Django Template Blocks with extra functionality
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [yezyilomo/django-restql](https://github.com/yezyilomo/django-restql) - Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
 - [django-ordered-model/django-ordered-model](https://github.com/django-ordered-model/django-ordered-model) - Get your Django models in order
 - [tjwalch/django-livereload-server](https://github.com/tjwalch/django-livereload-server) - Livereload functionality integrated with your Django development environment.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
@@ -996,7 +996,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Miserlou/Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
