@@ -793,7 +793,7 @@
 - [adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
-- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - Django comments app with thread support, follow-up notifications, mail confirmation, like/dislike flags and moderation.
+- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [charettes/django-seal](https://github.com/charettes/django-seal) - Django application providing queryset sealing capability.
 - [crccheck/django-object-actions](https://github.com/crccheck/django-object-actions) - A Django app for easily adding object tools in the Django admin
