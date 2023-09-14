@@ -317,6 +317,7 @@
 
 ## Python 
 
+- [cullenwatson/JobSpy](https://github.com/cullenwatson/JobSpy) - Jobs scraper library for LinkedIn, Indeed & ZipRecruiter
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [thornomad/django-hitcount](https://github.com/thornomad/django-hitcount) - Django hit counter application that tracks the number of hits/views for chosen objects
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
