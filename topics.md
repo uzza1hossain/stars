@@ -309,6 +309,7 @@
 - [Miserlou/lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 - [labd/django-cognito-jwt](https://github.com/labd/django-cognito-jwt) - An Authentication backend for Django Rest Framework for AWS Cognito JWT tokens
 - [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
+- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications
 - [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -317,6 +318,7 @@
 
 ## azure 
 
+- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
 ## bash 
@@ -1717,7 +1719,6 @@
 - [adamchainz/django-read-only](https://github.com/adamchainz/django-read-only) - Disable Django database writes.
 - [mrswats/django-interactive-models](https://github.com/mrswats/django-interactive-models) - Create Django Models interactively
 - [gavinwahl/django-postgres-queue](https://github.com/gavinwahl/django-postgres-queue) - A task queue for django
-- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 - [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window
 - [zanderle/django-sft](https://github.com/zanderle/django-sft) - Django Single File Templates — inspired by Vue's Single file components
 - [MetaMetricsInc/django-warrant](https://github.com/MetaMetricsInc/django-warrant) - Django package that uses AWS Cognito and Warrant to create a Django backend and common views.
