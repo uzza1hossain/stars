@@ -1077,6 +1077,7 @@
 
 ## hacktoberfest 
 
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -1101,7 +1102,6 @@
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -2361,6 +2361,7 @@
 
 ## react 
 
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -2651,6 +2652,7 @@
 
 ## typescript 
 
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
