@@ -371,7 +371,7 @@
 
 ## chatgpt 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
 - [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
@@ -1680,7 +1680,7 @@
 - [em1208/adrf](https://github.com/em1208/adrf) - Async support for Django REST framework
 - [saleweaver/python-amazon-sp-api](https://github.com/saleweaver/python-amazon-sp-api) - Python wrapper to access the amazon selling partner API
 - [ivelum/djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
-- [matthiask/feincms3](https://github.com/matthiask/feincms3) - feincms3 provides additional building blocks on top of django-content-editor and django-tree-queries which make building a page CMS (and also other types of CMS) simpler.
+- [feincms/feincms3](https://github.com/feincms/feincms3) - feincms3 provides additional building blocks on top of django-content-editor and django-tree-queries which make building a page CMS (and also other types of CMS) simpler.
 - [feincms/feincms](https://github.com/feincms/feincms) - A Django-based CMS with a focus on extensibility and concise code
 - [boxed/okrand](https://github.com/boxed/okrand) - Okrand is an internationalization/translation tool for Django
 - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
@@ -1852,7 +1852,7 @@
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [codegps/vsc-codio](https://github.com/codegps/vsc-codio) - A media format for VS Code to record and playback the process of programming.
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
-- [matthiask/django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
+- [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
 - [jazzband/django-invitations](https://github.com/jazzband/django-invitations) - Generic invitations app for Django
 - [dozymoe/frozen-django](https://github.com/dozymoe/frozen-django) - Incrementally create static sites from Django, meant to be used in background tasks.
 - [rebataur/fskube](https://github.com/rebataur/fskube) - Tool for Django Developers to setup full stack EKS Kubernetes with all necessary tools including DevSecOps in 40 minutes
@@ -1989,7 +1989,7 @@
 ## python 
 
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - The official Notion API client library, but rewritten in Python! (sync + async)
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
