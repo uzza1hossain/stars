@@ -19,6 +19,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
+- [backend](#backend)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [bootstrap](#bootstrap)
@@ -328,6 +329,10 @@
 
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+
+## backend 
+
+- [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 
 ## bash 
 
