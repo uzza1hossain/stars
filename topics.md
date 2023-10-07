@@ -2463,6 +2463,7 @@
 
 ## redux 
 
+- [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 
 ## rest-api 
