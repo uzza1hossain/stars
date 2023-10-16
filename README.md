@@ -337,6 +337,7 @@
 
 ## Python 
 
+- [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A Fork of Magma nvim, with improved image rendering, performance, and user experience
 - [jonra1993/fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
 - [byashimov/django-controlcenter](https://github.com/byashimov/django-controlcenter) - Set of widgets to build dashboards for Django projects
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
