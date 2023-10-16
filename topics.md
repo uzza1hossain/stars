@@ -1543,6 +1543,7 @@
 
 ## neovim 
 
+- [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A Fork of Magma nvim, with improved image rendering, performance, and user experience
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
