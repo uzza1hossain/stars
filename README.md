@@ -345,6 +345,7 @@
 
 ## Python 
 
+- [safevideo/autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [jmrivas86/django-json-widget](https://github.com/jmrivas86/django-json-widget) - An alternative widget that makes it easy to edit the new Django's field JSONField (PostgreSQL specific model fields)
 - [Lolomgrofl/fastapi-genesis](https://github.com/Lolomgrofl/fastapi-genesis) - FastAPI project Template generator  to make your life easier 🧬 🚀
