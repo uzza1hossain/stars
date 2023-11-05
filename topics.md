@@ -1179,7 +1179,6 @@
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [codingjoe/django-select2](https://github.com/codingjoe/django-select2) - This is a Django integration for Select2
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -1419,6 +1418,7 @@
 
 ## library 
 
+- [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio and pytest, ready for production.
@@ -2091,6 +2091,7 @@
 
 ## python 
 
+- [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [safevideo/autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
 - [dfunckt/django-rules](https://github.com/dfunckt/django-rules) - Awesome Django authorization, without the database
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
@@ -2416,6 +2417,7 @@
 
 ## python3 
 
+- [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [tbicr/django-pg-zero-downtime-migrations](https://github.com/tbicr/django-pg-zero-downtime-migrations) - Django postgresql backend that apply migrations with respect to database locks
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
