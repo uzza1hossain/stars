@@ -351,6 +351,7 @@
 
 ## Python 
 
+- [eadwinCode/ninja-schema](https://github.com/eadwinCode/ninja-schema) - Ninja Schema is Pydantic full support for Django ORM.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [ninemoreminutes/django-site-utils](https://github.com/ninemoreminutes/django-site-utils) - Django site-wide management commands and utilities.
 - [safevideo/autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
@@ -1091,6 +1092,7 @@
 
 ## Shell 
 
+- [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Miserlou/lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
