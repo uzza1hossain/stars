@@ -1142,6 +1142,7 @@
 
 ## hacktoberfest 
 
+- [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - ASPM, DevSecOps, Vulnerability Management. All on one platform.
@@ -1696,7 +1697,7 @@
 - [Bunsly/JobSpy](https://github.com/Bunsly/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor & ZipRecruiter
 - [thornomad/django-hitcount](https://github.com/thornomad/django-hitcount) - Django hit counter application that tracks the number of hits/views for chosen objects
 - [measuredco/puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
-- [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - 
+- [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js
 - [dabapps/django-zen-queries](https://github.com/dabapps/django-zen-queries) - Explicit control over database query execution in Django applications
 - [bernardopires/django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas) - Tenant support for Django using PostgreSQL schemas.
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
