@@ -651,7 +651,7 @@
 - [sehmaschine/django-filebrowser](https://github.com/sehmaschine/django-filebrowser) - Media-Management with Grappelli
 - [richardbarran/django-photologue](https://github.com/richardbarran/django-photologue) - A customizable plug-in photo gallery management application for the Django web framework.
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
-- [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - New maintainers 🚧 --- Django reCAPTCHA form field/widget integration app.
+- [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - Django reCAPTCHA form field/widget integration app.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [assem-ch/django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) - Legacy Django jet rebooted to support Django 3 and Django 4, and latest python releases
