@@ -744,7 +744,7 @@
 - [schlunsen/django-timescaledb](https://github.com/schlunsen/django-timescaledb) - A Django database backend and tooling for Timescaledb.
 - [richardbarran/django-photologue](https://github.com/richardbarran/django-photologue) - A customizable plug-in photo gallery management application for the Django web framework.
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
-- [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - New maintainers 🚧 --- Django reCAPTCHA form field/widget integration app.
+- [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - Django reCAPTCHA form field/widget integration app.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [assem-ch/django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) - Legacy Django jet rebooted to support Django 3 and Django 4, and latest python releases
 - [forgepackages/forge-htmx](https://github.com/forgepackages/forge-htmx) - An HTMX integration for Django with template fragments and view actions
@@ -1342,6 +1342,7 @@
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [adamghill/dlite](https://github.com/adamghill/dlite) - A tiny, blazing fast view library that creates reactive Web Components
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
@@ -1607,6 +1608,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
@@ -2233,7 +2235,7 @@
 - [django-parler/django-parler](https://github.com/django-parler/django-parler) - Easily translate "cheese omelet" into "omelette au fromage".
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
-- [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - New maintainers 🚧 --- Django reCAPTCHA form field/widget integration app.
+- [torchbox/django-recaptcha](https://github.com/torchbox/django-recaptcha) - Django reCAPTCHA form field/widget integration app.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
