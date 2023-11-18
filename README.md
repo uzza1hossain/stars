@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
@@ -383,7 +384,7 @@
 - [echo724/notion2md](https://github.com/echo724/notion2md) - Notion Markdown Exporter with Python Cli
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [bernardopires/django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas) - Tenant support for Django using PostgreSQL schemas.
-- [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
 - [adamchainz/django-mysql](https://github.com/adamchainz/django-mysql) - :dolphin: :horse: Extensions to Django for use with MySQL/MariaDB
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [silentsokolov/django-admin-rangefilter](https://github.com/silentsokolov/django-admin-rangefilter) - A Django app that adds a filter by date range and numeric range to the admin UI.
@@ -1086,6 +1087,7 @@
 
 ## SCSS 
 
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [elapouya/django-listing](https://github.com/elapouya/django-listing) - Listing, table, with toolbars, automatic search and insert forms and much more for Django
 - [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 - [app-generator/devtool-django-api-generator](https://github.com/app-generator/devtool-django-api-generator) - Django API Generator - Open-Source Tool for Developers | AppSeed
