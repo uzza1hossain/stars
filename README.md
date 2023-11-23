@@ -1010,7 +1010,7 @@
 - [chibisov/drf-extensions](https://github.com/chibisov/drf-extensions) - DRF-extensions is a collection of custom extensions for Django REST Framework
 - [rsinger86/drf-flex-fields](https://github.com/rsinger86/drf-flex-fields) - Dynamically set fields and expand nested resources in Django REST Framework serializers.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
-- [django-polymorphic/django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Improved Django model inheritance with automatic downcasting
+- [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
 - [tolomea/django-data-browser](https://github.com/tolomea/django-data-browser) - Django app for user friendly querying of Django models
 - [dinoperovic/django-salesman](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django and Wagtail.
 - [buckyroberts/Vataxia](https://github.com/buckyroberts/Vataxia) - Open source social network built with Django and Django REST framework
