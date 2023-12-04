@@ -306,7 +306,7 @@
 - [st3v3nmw/awesome-django-performance](https://github.com/st3v3nmw/awesome-django-performance) - A curated list of libraries, tools, blog articles, and books to help profile and optimize your Django project
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-- [djangonaut-space/pilot-program](https://github.com/djangonaut-space/pilot-program) - 3-month group mentoring program for contributing to Django :unicorn:
+- [djangonaut-space/program](https://github.com/djangonaut-space/program) - 8-week group mentoring program for contributing to Django :unicorn:
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
@@ -364,7 +364,7 @@
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [ninemoreminutes/django-site-utils](https://github.com/ninemoreminutes/django-site-utils) - Django site-wide management commands and utilities.
 - [safevideo/autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [jmrivas86/django-json-widget](https://github.com/jmrivas86/django-json-widget) - An alternative widget that makes it easy to edit the new Django's field JSONField (PostgreSQL specific model fields)
 - [Lolomgrofl/fastapi-genesis](https://github.com/Lolomgrofl/fastapi-genesis) - FastAPI project Template generator  to make your life easier 🧬 🚀
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
