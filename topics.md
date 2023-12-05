@@ -745,7 +745,7 @@
 - [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 - [django-parler/django-parler](https://github.com/django-parler/django-parler) - Easily translate "cheese omelet" into "omelette au fromage".
 - [moggers87/django-sendfile2](https://github.com/moggers87/django-sendfile2) - xsendfile etc wrapper for Django. Friendly fork of django-sendfile
-- [schlunsen/django-timescaledb](https://github.com/schlunsen/django-timescaledb) - A Django database backend and tooling for Timescaledb.
+- [jamessewell/django-timescaledb](https://github.com/jamessewell/django-timescaledb) - A Django database backend and tooling for Timescaledb.
 - [richardbarran/django-photologue](https://github.com/richardbarran/django-photologue) - A customizable plug-in photo gallery management application for the Django web framework.
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [django-recaptcha/django-recaptcha](https://github.com/django-recaptcha/django-recaptcha) - Django reCAPTCHA form field/widget integration app.
@@ -1702,6 +1702,7 @@
 
 ## others 
 
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [SeptemberHX/joplin-plugin-bundle](https://github.com/SeptemberHX/joplin-plugin-bundle) - Gather several plugins together into one panel with more elegant UI design!
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
