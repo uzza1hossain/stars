@@ -67,6 +67,7 @@
 
 ## C++ 
 
+- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
@@ -94,7 +95,7 @@
 
 ## Dart 
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
@@ -1022,7 +1023,7 @@
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [yezz123/pyngo](https://github.com/yezz123/pyngo) - Pydantic model support for Django & Django-Rest-Framework ✨
 - [django-cms/django-sekizai](https://github.com/django-cms/django-sekizai) - Django Template Blocks with extra functionality
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [yezyilomo/django-restql](https://github.com/yezyilomo/django-restql) - Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
 - [django-ordered-model/django-ordered-model](https://github.com/django-ordered-model/django-ordered-model) - Get your Django models in order
