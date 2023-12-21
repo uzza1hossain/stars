@@ -352,7 +352,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [billabear/billabear](https://github.com/billabear/billabear) - Subscription Management and Billing System
 
 ## Perl 
@@ -1042,7 +1042,7 @@
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags) - Class based template tags for django
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
-- [Riverside-Healthcare/djLint](https://github.com/Riverside-Healthcare/djLint) - ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
+- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
 - [aaugustin/django-sesame](https://github.com/aaugustin/django-sesame) - "Magic Links" - URLs with authentication tokens for one-click login
 - [Abdenasser/dr_scaffold](https://github.com/Abdenasser/dr_scaffold) - scaffold django rest apis like a champion 🚀
 - [Yawan-1/StackOverFlow--Clone](https://github.com/Yawan-1/StackOverFlow--Clone) - Fully Functional Stack Overflow Clone, with almost every functionality.
@@ -1146,7 +1146,7 @@
 
 ## TypeScript 
 
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
