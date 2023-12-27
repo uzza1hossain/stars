@@ -187,6 +187,7 @@
 
 ## Java 
 
+- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
