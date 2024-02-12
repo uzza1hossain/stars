@@ -1764,6 +1764,7 @@
 
 ## others 
 
+- [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 - [orcasgit/django-fernet-fields](https://github.com/orcasgit/django-fernet-fields) - Fernet symmetric encryption for Django model fields
 - [mik3y/django-db-multitenant](https://github.com/mik3y/django-db-multitenant) - A simple multi-tenancy solution for Django apps.
 - [tiangolo/pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Tools to convert SQLAlchemy models to Pydantic models
