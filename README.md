@@ -368,6 +368,7 @@
 
 ## Python 
 
+- [PaulGilmartin/django-queryhunter](https://github.com/PaulGilmartin/django-queryhunter) - Hunt down the lines of your Django application code which are responsible for executing the most queries.
 - [orcasgit/django-fernet-fields](https://github.com/orcasgit/django-fernet-fields) - Fernet symmetric encryption for Django model fields
 - [mik3y/django-db-multitenant](https://github.com/mik3y/django-db-multitenant) - A simple multi-tenancy solution for Django apps.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
