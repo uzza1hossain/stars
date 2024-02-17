@@ -1765,6 +1765,7 @@
 
 ## others 
 
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [PaulGilmartin/django-queryhunter](https://github.com/PaulGilmartin/django-queryhunter) - Hunt down the lines of your Django application code which are responsible for executing the most queries.
 - [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 - [orcasgit/django-fernet-fields](https://github.com/orcasgit/django-fernet-fields) - Fernet symmetric encryption for Django model fields
