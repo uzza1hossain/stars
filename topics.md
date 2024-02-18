@@ -2776,7 +2776,7 @@
 
 ## self-hosted 
 
-- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Web UI Client for Ollama 🦙
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
