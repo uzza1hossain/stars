@@ -70,6 +70,7 @@
 
 - [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 
 ## C++ 
 
@@ -444,7 +445,6 @@
 - [valberg/django-view-utils](https://github.com/valberg/django-view-utils) - 
 - [valberg/django-view-decorator](https://github.com/valberg/django-view-decorator) - 
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [petrgazarov/FastAPI-app](https://github.com/petrgazarov/FastAPI-app) - Example app using FastAPI, asyncio, SQLModel, Celery, Alembic and Supertokens
 - [jazzband/django-newsletter](https://github.com/jazzband/django-newsletter) - An email newsletter application for the Django web application framework, including an extended admin interface, web (un)subscription, dynamic e-mail templates, an archive and HTML email support.
 - [surenkov/django-pydantic-field](https://github.com/surenkov/django-pydantic-field) - Django JSONField with Pydantic models as a Schema
@@ -1109,7 +1109,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
