@@ -391,6 +391,7 @@
 - [Corvia/django-tenant-users](https://github.com/Corvia/django-tenant-users) - Adds global user authentication and tenant-specific permissions to django-tenants.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [jazzband/django-axes](https://github.com/jazzband/django-axes) - Keep track of failed login attempts in Django-powered sites.
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
 - [shangxiao/stupid-django-tricks](https://github.com/shangxiao/stupid-django-tricks) - 
@@ -1179,7 +1180,6 @@
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [kaedroho/meze](https://github.com/kaedroho/meze) - Meze is a collection of utilities for building modern applications with Django
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [SeptemberHX/joplin-plugin-bundle](https://github.com/SeptemberHX/joplin-plugin-bundle) - Gather several plugins together into one panel with more elegant UI design!
@@ -1279,6 +1279,7 @@
 
 ## Zig 
 
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
