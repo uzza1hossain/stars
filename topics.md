@@ -1077,7 +1077,7 @@
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [RamezIssac/django-erp-framework](https://github.com/RamezIssac/django-erp-framework) - A Django based framework to create diverse business solutions, equipped with a reporting engine with charts, widgets system , a custom admin site and other goodies
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
@@ -1790,7 +1790,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [app-generator/devtool-django-api-generator](https://github.com/app-generator/devtool-django-api-generator) - Django API Generator - Open-Source Tool for Developers | AppSeed
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2360,7 +2360,7 @@
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [saadmk11/python-third-party-imports](https://github.com/saadmk11/python-third-party-imports) - A Python CLI tool (Written in Rust) that finds all third-party packages imported into your Python project
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -2458,7 +2458,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [jrief/django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface
-- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
+- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -2807,7 +2807,7 @@
 - [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox's realistic password strength estimator
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [justinmayer/kagi](https://github.com/justinmayer/kagi) - WebAuthn security keys and TOTP multi-factor authentication for Django
-- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
+- [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
