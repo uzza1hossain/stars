@@ -201,7 +201,7 @@
 
 ## JavaScript 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -379,6 +379,8 @@
 
 ## Python 
 
+- [metalogico/django-sonar](https://github.com/metalogico/django-sonar) - The missing debug tool for django
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [williln/til](https://github.com/williln/til) - Today I Learned
 - [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio source separation, generate lyrics, chords, beat.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -1187,7 +1189,7 @@
 
 ## TypeScript 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The AI-native, open source alternative to Tines / Splunk SOAR.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR.
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [kaedroho/django-render](https://github.com/kaedroho/django-render) - Django Render is a library for building Django applications with modern frontend frameworks
