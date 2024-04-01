@@ -291,7 +291,7 @@
 
 ## automation 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
@@ -1671,6 +1671,7 @@
 ## monitoring 
 
 - [metalogico/django-sonar](https://github.com/metalogico/django-sonar) - The missing debug tool for django
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
@@ -1718,6 +1719,7 @@
 
 ## nextjs 
 
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
@@ -1805,6 +1807,7 @@
 
 ## others 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
 - [williln/til](https://github.com/williln/til) - Today I Learned
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
 - [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio source separation, generate lyrics, chords, beat.
@@ -2742,7 +2745,7 @@
 ## redux 
 
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 
 ## rest-api 
 
@@ -2813,7 +2816,7 @@
 
 ## security 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
