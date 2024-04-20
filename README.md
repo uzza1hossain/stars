@@ -377,6 +377,7 @@
 
 ## Python 
 
+- [kraiz/django-crontab](https://github.com/kraiz/django-crontab) - dead simple crontab powered job scheduling for django.
 - [django-xxx/django-detect](https://github.com/django-xxx/django-detect) - :sparkles:Middleware:sparkles: Django UserAgent Detect
 - [null-none/django-useragent](https://github.com/null-none/django-useragent) - A django package that allows easy identification of visitor's browser, OS and device information, including whether the visitor uses a mobile phone, tablet or a touch capable device.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
