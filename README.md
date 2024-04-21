@@ -33,6 +33,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -70,7 +71,6 @@
 
 - [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 
 ## C++ 
 
@@ -371,12 +371,17 @@
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
+## PowerShell 
+
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+
 ## Pug 
 
 - [rajasegar/htmx-trello](https://github.com/rajasegar/htmx-trello) - A Trello clone in htmx
 
 ## Python 
 
+- [testdrivenio/django-celery](https://github.com/testdrivenio/django-celery) - Example of how to handle background processes with Django, Celery, and Docker
 - [kraiz/django-crontab](https://github.com/kraiz/django-crontab) - dead simple crontab powered job scheduling for django.
 - [django-xxx/django-detect](https://github.com/django-xxx/django-detect) - :sparkles:Middleware:sparkles: Django UserAgent Detect
 - [null-none/django-useragent](https://github.com/null-none/django-useragent) - A django package that allows easy identification of visitor's browser, OS and device information, including whether the visitor uses a mobile phone, tablet or a touch capable device.
