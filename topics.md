@@ -1858,7 +1858,6 @@
 - [orcasgit/django-fernet-fields](https://github.com/orcasgit/django-fernet-fields) - Fernet symmetric encryption for Django model fields
 - [mik3y/django-db-multitenant](https://github.com/mik3y/django-db-multitenant) - A simple multi-tenancy solution for Django apps.
 - [tiangolo/pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Tools to convert SQLAlchemy models to Pydantic models
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [Corvia/django-tenant-users](https://github.com/Corvia/django-tenant-users) - Adds global user authentication and tenant-specific permissions to django-tenants.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
