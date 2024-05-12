@@ -201,6 +201,9 @@
 
 ## ai 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
@@ -412,6 +415,7 @@
 
 ## bot 
 
+- [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 
@@ -426,6 +430,8 @@
 
 ## chatgpt 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen...
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
@@ -464,6 +470,8 @@
 
 ## chrome-extension 
 
+- [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
+- [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -668,6 +676,7 @@
 
 ## deep-learning 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -1411,6 +1420,7 @@
 
 ## ios 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
@@ -1587,6 +1597,8 @@
 
 ## llm 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+- [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -1772,6 +1784,7 @@
 
 ## nextjs 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1841,6 +1854,7 @@
 
 ## open-source 
 
+- [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -1864,6 +1878,7 @@
 
 ## others 
 
+- [jose-donato/ollama-reply](https://github.com/jose-donato/ollama-reply) - open-source browser extension that leverages the power of the AI to generate engaging replies for social media growth.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
@@ -2726,6 +2741,7 @@
 
 ## pytorch 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions.
 
@@ -2747,6 +2763,7 @@
 
 ## react 
 
+- [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [kaedroho/django-render](https://github.com/kaedroho/django-render) - Django Render provides a simplified approach for building React frontends for Django applications
@@ -3009,6 +3026,7 @@
 
 ## stable-diffusion 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 
 ## statistics 
@@ -3031,6 +3049,7 @@
 
 ## swift 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
@@ -3106,6 +3125,7 @@
 
 ## typescript 
 
+- [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -3187,6 +3207,7 @@
 
 ## web 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
@@ -3214,6 +3235,7 @@
 
 ## webpack 
 
+- [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## website 
