@@ -33,7 +33,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
-- [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -71,6 +70,7 @@
 
 - [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 
 ## C++ 
 
@@ -376,10 +376,6 @@
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-
-## PowerShell 
-
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 
 ## Pug 
 
