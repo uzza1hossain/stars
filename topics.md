@@ -205,6 +205,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
@@ -1688,7 +1689,7 @@
 
 ## markdown 
 
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [echo724/notion2md](https://github.com/echo724/notion2md) - Notion Markdown Exporter with Python Cli
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -1884,7 +1885,6 @@
 
 - [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API) - A CLI tool and an API for fetching data from Twitter for free!
 - [jose-donato/ollama-reply](https://github.com/jose-donato/ollama-reply) - open-source browser extension that leverages the power of the AI to generate engaging replies for social media growth.
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -2868,7 +2868,7 @@
 
 ## rust 
 
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
