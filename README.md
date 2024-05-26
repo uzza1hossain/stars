@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
