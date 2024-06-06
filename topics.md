@@ -728,6 +728,7 @@
 
 ## django 
 
+- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [rails-inspire-django/django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent) - Build reusable components in Django, inspired by Rails ViewComponent
 - [stribny/sidewinder](https://github.com/stribny/sidewinder) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5.
 - [testdrivenio/django-celery](https://github.com/testdrivenio/django-celery) - Example of how to handle background processes with Django, Celery, and Docker
@@ -1673,6 +1674,7 @@
 
 ## macos 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [wkaisertexas/ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Take color-accurate timelapses of your screens and cameras on MacOS
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -1904,6 +1906,8 @@
 
 ## others 
 
+- [google/mesop](https://github.com/google/mesop) - 
+- [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [mfreeborn/fastapi-sqlalchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Adds simple SQLAlchemy support to FastAPI
@@ -2384,6 +2388,7 @@
 
 ## python 
 
+- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [stribny/sidewinder](https://github.com/stribny/sidewinder) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5.
@@ -2933,6 +2938,7 @@
 
 ## security 
 
+- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
@@ -3084,6 +3090,7 @@
 
 ## swift 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
@@ -3095,6 +3102,7 @@
 
 ## swiftui 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [wkaisertexas/ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Take color-accurate timelapses of your screens and cameras on MacOS
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
