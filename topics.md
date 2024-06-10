@@ -1910,7 +1910,7 @@
 ## others 
 
 - [google/mesop](https://github.com/google/mesop) - 
-- [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [mfreeborn/fastapi-sqlalchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Adds simple SQLAlchemy support to FastAPI
