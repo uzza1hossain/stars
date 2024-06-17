@@ -242,7 +242,7 @@
 
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - Reporting engine for Django, Create dashboards, reports and charts effectively and effortlessly.
+- [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [jazzband/django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
@@ -506,7 +506,7 @@
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -858,7 +858,7 @@
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [theatlantic/django-nested-admin](https://github.com/theatlantic/django-nested-admin) - Django admin classes that allow for nested inlines
 - [vintasoftware/django-virtual-models](https://github.com/vintasoftware/django-virtual-models) - Improve performance and maintainability with a prefetching layer in your Django project
-- [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - Reporting engine for Django, Create dashboards, reports and charts effectively and effortlessly.
+- [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 - [miki725/django-url-filter](https://github.com/miki725/django-url-filter) - Django URL Filter provides a safe way to filter data via human-friendly URLs.
 - [businho/django-migrations-ci](https://github.com/businho/django-migrations-ci) - Cached migrations on CI (and local) for faster migrations
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
@@ -1904,7 +1904,7 @@
 
 ## npm 
 
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## objective-c 
@@ -2337,7 +2337,7 @@
 
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 
@@ -2577,7 +2577,7 @@
 - [theatlantic/django-nested-admin](https://github.com/theatlantic/django-nested-admin) - Django admin classes that allow for nested inlines
 - [vintasoftware/django-virtual-models](https://github.com/vintasoftware/django-virtual-models) - Improve performance and maintainability with a prefetching layer in your Django project
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - Reporting engine for Django, Create dashboards, reports and charts effectively and effortlessly.
+- [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [businho/django-migrations-ci](https://github.com/businho/django-migrations-ci) - Cached migrations on CI (and local) for faster migrations
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
@@ -3341,7 +3341,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
