@@ -251,7 +251,7 @@
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [calmjohnson/alpineapple](https://github.com/calmjohnson/alpineapple) - Alpine JS UI Components styled with Tailwind Css
-- [patrikx3/redis-ui](https://github.com/patrikx3/redis-ui) - 📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app
+- [patrikx3/redis-ui](https://github.com/patrikx3/redis-ui) - 📡 P3X Redis UI: A highly functional and convenient database GUI that fits in your pocket, accessible on both responsive web and desktop applications.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [rajasimon/django-command-palette](https://github.com/rajasimon/django-command-palette) - A modern Django admin shortcut interface  ( kbar )
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
