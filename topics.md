@@ -398,7 +398,7 @@
 
 ## bash 
 
-- [adaszko/complgen](https://github.com/adaszko/complgen) - Generate bash/fish/zsh in a declarative way without writing shell scripts
+- [adaszko/complgen](https://github.com/adaszko/complgen) - Generate bash/fish/zsh completions declaratively without writing shell scripts
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -748,6 +748,7 @@
 
 ## django 
 
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component-based design to Django templates
 - [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [rails-inspire-django/django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent) - Build reusable components in Django, inspired by Rails ViewComponent
 - [stribny/sidewinder](https://github.com/stribny/sidewinder) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5.
@@ -914,6 +915,7 @@
 - [jonathan-s/django-sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the django tooling you already know and love.
 - [SmileyChris/django-countries](https://github.com/SmileyChris/django-countries) - A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
+- [tolomea/django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed
 - [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [crccheck/django-object-actions](https://github.com/crccheck/django-object-actions) - A Django app for easily adding object tools in the Django admin
 - [barseghyanartur/django-fobi](https://github.com/barseghyanartur/django-fobi) - Form generator/builder application for Django done right: customisable, modular, user- and developer- friendly.
@@ -982,6 +984,7 @@
 - [rsinger86/drf-flex-fields](https://github.com/rsinger86/drf-flex-fields) - Dynamically set fields and expand nested resources in Django REST Framework serializers.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
+- [tolomea/django-data-browser](https://github.com/tolomea/django-data-browser) - Django app for user friendly querying of Django models
 - [dinoperovic/django-salesman](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django and Wagtail.
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
@@ -1946,9 +1949,9 @@
 
 ## others 
 
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 - [matthiask/django-admin-ordering](https://github.com/matthiask/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component-based design to Django templates
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
@@ -2251,7 +2254,6 @@
 - [django-cache-machine/django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models through the ORM.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [Brobin/django-seed](https://github.com/Brobin/django-seed) - :seedling: Seed your Django database with fake data
-- [tolomea/django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed
 - [kalekseev/django-extra-checks](https://github.com/kalekseev/django-extra-checks) - Collection of useful checks for Django Checks Framework
 - [adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -2329,7 +2331,6 @@
 - [Brobin/drf-generators](https://github.com/Brobin/drf-generators) - :triangular_ruler: Generate Views, Serializers, and Urls for your Django Rest Framework application
 - [django-getpaid/django-plans](https://github.com/django-getpaid/django-plans) - Django application for managing account plans and quotas
 - [chibisov/drf-extensions](https://github.com/chibisov/drf-extensions) - DRF-extensions is a collection of custom extensions for Django REST Framework
-- [tolomea/django-data-browser](https://github.com/tolomea/django-data-browser) - Django app for user friendly querying of Django models
 - [buckyroberts/Vataxia](https://github.com/buckyroberts/Vataxia) - Open source social network built with Django and Django REST framework
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
