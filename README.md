@@ -170,6 +170,7 @@
 
 ## HTML 
 
+- [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [gnat/css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
