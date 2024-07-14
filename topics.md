@@ -1967,6 +1967,7 @@
 
 ## others 
 
+- [arnobk/kindle-en-bn-dictionary](https://github.com/arnobk/kindle-en-bn-dictionary) - A simple English to Bangla Dictionary for Amazon Kindle devices.
 - [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 - [matthiask/django-admin-ordering](https://github.com/matthiask/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
