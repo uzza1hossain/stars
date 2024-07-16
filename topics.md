@@ -1970,6 +1970,7 @@
 
 ## others 
 
+- [choyan/ebanglalibrary-epub](https://github.com/choyan/ebanglalibrary-epub) - A nodejs library to generate epub3 books from ebanglalibrary book url.
 - [dodeeric/pdf2epubEX](https://github.com/dodeeric/pdf2epubEX) - Tool to convert a PDF file (myfile.pdf) to a fixed layout ePub file (myfile.epub). The layout is perfectly retained and all the fonts are embedded.
 - [innocenat/kindle-epub-fix](https://github.com/innocenat/kindle-epub-fix) - A simple Javascript website to fix common EPUB problem for Amazon's Send to Kindle.
 - [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - Aggregates RSS and web content(Calibre recipe), sends to Kindle, and includes an e-ink optimized online reader.
