@@ -89,7 +89,6 @@
 
 ## CSS 
 
-- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [dgk/django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django
 - [syse-i/django-component-tags-tailwindcss](https://github.com/syse-i/django-component-tags-tailwindcss) - Tailwindcss component tags for Django Projects.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
@@ -171,6 +170,7 @@
 ## HTML 
 
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
+- [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [gnat/css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
@@ -206,6 +206,7 @@
 
 ## JavaScript 
 
+- [choyan/ebanglalibrary-epub](https://github.com/choyan/ebanglalibrary-epub) - A nodejs library to generate epub3 books from ebanglalibrary book url.
 - [innocenat/kindle-epub-fix](https://github.com/innocenat/kindle-epub-fix) - A simple Javascript website to fix common EPUB problem for Amazon's Send to Kindle.
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
