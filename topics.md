@@ -1970,6 +1970,7 @@
 
 ## others 
 
+- [Hybridhash/FastAPI-HTMX](https://github.com/Hybridhash/FastAPI-HTMX) - FastAPI, HTMX and Alpine JS | BoilerPlate Implementation
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [choyan/ebanglalibrary-epub](https://github.com/choyan/ebanglalibrary-epub) - A nodejs library to generate epub3 books from ebanglalibrary book url.
@@ -2196,7 +2197,7 @@
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [andrewgodwin/yamdl](https://github.com/andrewgodwin/yamdl) - ORM-queryable YAML fixtures for Django
 - [tim-schilling/django-anymail](https://github.com/tim-schilling/django-anymail) - Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, Postal, SendGrid, Sendinblue, SparkPost and more
-- [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
+- [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [jazzband/django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
 - [radiac/django-tagulous](https://github.com/radiac/django-tagulous) - Fabulous Tagging for Django
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
@@ -2432,6 +2433,7 @@
 
 ## privacy 
 
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
