@@ -1978,6 +1978,8 @@
 
 ## others 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) - A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [kebot/reink.app](https://github.com/kebot/reink.app) - 
 - [Hybridhash/FastAPI-HTMX](https://github.com/Hybridhash/FastAPI-HTMX) - FastAPI, HTMX and Alpine JS | BoilerPlate Implementation
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
@@ -2472,6 +2474,7 @@
 
 ## python 
 
+- [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
 - [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
