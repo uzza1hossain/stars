@@ -923,7 +923,7 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [wq/django-data-wizard](https://github.com/wq/django-data-wizard) - 🧙⚙️ Import structured data (e.g. Excel, CSV, XML, JSON) into one or more Django models via an interactive web-based wizard
 - [nephila/django-meta](https://github.com/nephila/django-meta) - Pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
@@ -1250,6 +1250,7 @@
 
 ## TypeScript 
 
+- [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
 - [kebot/reink.app](https://github.com/kebot/reink.app) - 
 - [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub file from articles saved in your Omnivore library and optionally send it to your eReader using email
