@@ -419,7 +419,7 @@
 - [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [matthiask/django-admin-ordering](https://github.com/matthiask/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component-based design to Django templates
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
