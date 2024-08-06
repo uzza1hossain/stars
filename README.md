@@ -635,7 +635,7 @@
 - [RamezIssac/django-erp-framework](https://github.com/RamezIssac/django-erp-framework) - A Django based framework to create diverse business solutions, equipped with a reporting engine with charts, widgets system , a custom admin site and other goodies
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [heywbj/django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive) - Recursive Serialization for Django REST framework
-- [jambonsw/django-improved-user](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
+- [jambonrose/django-improved-user](https://github.com/jambonrose/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 - [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [django-parler/django-parler-rest](https://github.com/django-parler/django-parler-rest) - Translatable model support for django-rest-framework
