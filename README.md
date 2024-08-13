@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -183,6 +184,7 @@
 
 ## HTML 
 
+- [djaodjin/djaoapp](https://github.com/djaodjin/djaoapp) - Web/API Gateway with user profiles, billing, and subscription-based access control
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [Hybridhash/FastAPI-HTMX](https://github.com/Hybridhash/FastAPI-HTMX) - FastAPI, HTMX and Alpine JS | BoilerPlate Implementation
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
@@ -418,6 +420,7 @@
 
 ## Python 
 
+- [djaodjin/djaodjin-saas](https://github.com/djaodjin/djaodjin-saas) - Django application for software-as-service and subscription businesses
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.
@@ -899,7 +902,7 @@
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [glasnt/emojificate](https://github.com/glasnt/emojificate) - 🙃 Turn text with emoji into text with accessible emoji
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [schinckel/django-shared-property](https://github.com/schinckel/django-shared-property) - Properties that are both ORM expressions and python code.
 - [AltSchool/dynamic-rest](https://github.com/AltSchool/dynamic-rest) - Dynamic extensions for Django REST Framework
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
@@ -1008,7 +1011,7 @@
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
-- [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
+- [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py) - 🎨 Type-safe and powerful Python library to generate SVG files
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
