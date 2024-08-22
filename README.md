@@ -420,6 +420,7 @@
 
 ## Python 
 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [curtis-allan/shadcn-fasthtml-framework](https://github.com/curtis-allan/shadcn-fasthtml-framework) - Porting Shadcn-ui components to python/js for use with fasthtml
 - [mkalioby/django-passkeys](https://github.com/mkalioby/django-passkeys) - Django Authentication Backend For Passkeys
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
