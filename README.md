@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
