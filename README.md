@@ -121,10 +121,11 @@
 
 ## Go 
 
+- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [getzep/zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database hyper-optimized for building real-time applications with SQL-based real-time reactivity baked in.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database for building real-time applications with SQL-based real-time reactivity.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
