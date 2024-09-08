@@ -125,7 +125,7 @@
 - [getzep/zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database for building real-time applications with SQL-based real-time reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is hyper-optimized for building and scaling truly real-time applications on modern hardware. It is a drop-in replacement for Redis with support for SQL-based reactivity.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -221,6 +221,7 @@
 
 ## Java 
 
+- [n3o-d4rk3r/Competitive-Programming-Reference-Bangla](https://github.com/n3o-d4rk3r/Competitive-Programming-Reference-Bangla) - বাংলায় প্রোগ্রামিং রিসোর্সসমূহ | Online Competitive Programming References
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
 - [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
@@ -426,6 +427,7 @@
 
 ## Python 
 
+- [Shopify/shopify_django_app](https://github.com/Shopify/shopify_django_app) - Get a Shopify app up and running with Django and Python Shopify API
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -692,7 +694,7 @@
 - [nwjlyons/django_slots](https://github.com/nwjlyons/django_slots) - django_slots = inclusion tag + blocks
 - [DontShaveTheYak/cf2tf](https://github.com/DontShaveTheYak/cf2tf) - Convert Cloudformation templates to Terraform.
 - [respondcreate/django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
-- [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
+- [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [jordaneremieff/djantic](https://github.com/jordaneremieff/djantic) - Pydantic model support for Django
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [edelvalle/reactor](https://github.com/edelvalle/reactor) - Phoenix LiveView but for Django
