@@ -428,6 +428,8 @@
 
 ## Python 
 
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+- [bckohan/django-enum](https://github.com/bckohan/django-enum) - Full and natural support for enumerations as Django model fields.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [Shopify/shopify_django_app](https://github.com/Shopify/shopify_django_app) - Get a Shopify app up and running with Django and Python Shopify API
@@ -1201,6 +1203,8 @@
 
 ## Rust 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+- [sergi0g/cup](https://github.com/sergi0g/cup) - The easiest way to check for your container updates
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
@@ -1315,6 +1319,7 @@
 
 ## TypeScript 
 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
