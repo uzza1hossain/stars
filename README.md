@@ -257,7 +257,7 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [torchbox/storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook
@@ -320,6 +320,7 @@
 
 ## Jupyter Notebook 
 
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
@@ -428,6 +429,9 @@
 
 ## Python 
 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [bckohan/django-enum](https://github.com/bckohan/django-enum) - Full and natural support for enumerations as Django model fields.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
@@ -1212,7 +1216,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh completions without writing shell scripts
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Minimalist, Unbundled PKM for your favorite text-editor through the LSP
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
