@@ -408,6 +408,7 @@
 
 ## aws 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [Miserlou/lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 - [labd/django-cognito-jwt](https://github.com/labd/django-cognito-jwt) - An Authentication backend for Django Rest Framework for AWS Cognito JWT tokens
@@ -421,6 +422,7 @@
 
 ## azure 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
@@ -815,6 +817,7 @@
 
 ## devops 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
@@ -844,7 +847,7 @@
 - [djaodjin/djaodjin-saas](https://github.com/djaodjin/djaodjin-saas) - Django application for software-as-service and subscription businesses
 - [vintasoftware/django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - Integrate AI Assistants with Django to build intelligent applications
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
 - [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [rails-inspire-django/django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent) - Build reusable components in Django, inspired by Rails ViewComponent
 - [stribny/sidewinder](https://github.com/stribny/sidewinder) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5.
@@ -2708,7 +2711,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
 - [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
 - [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
@@ -3280,6 +3283,7 @@
 
 ## security 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [mkalioby/django-passkeys](https://github.com/mkalioby/django-passkeys) - Django Authentication Backend For Passkeys
 - [mkalioby/django-mfa2](https://github.com/mkalioby/django-mfa2) - A Django app that handles MFA, it supports TOTP, U2F, FIDO2 U2F (Webauthn),  Email Token and Trusted Devices
