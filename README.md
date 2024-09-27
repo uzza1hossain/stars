@@ -146,7 +146,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -225,7 +225,7 @@
 - [n3o-d4rk3r/Competitive-Programming-Reference-Bangla](https://github.com/n3o-d4rk3r/Competitive-Programming-Reference-Bangla) - বাংলায় প্রোগ্রামিং রিসোর্সসমূহ | Online Competitive Programming References
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
 - [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code and from the UI.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
@@ -431,6 +431,7 @@
 
 ## Python 
 
+- [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client requests in a Python program.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
@@ -1212,7 +1213,7 @@
 
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [sergi0g/cup](https://github.com/sergi0g/cup) - The easiest way to check for your container updates
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
@@ -1460,6 +1461,7 @@
 
 ## Vue 
 
+- [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
