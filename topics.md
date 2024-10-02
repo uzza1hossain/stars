@@ -1425,6 +1425,7 @@
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
@@ -2405,7 +2406,7 @@
 - [olivierdalang/django-toosimple-q](https://github.com/olivierdalang/django-toosimple-q) - Simplistic task queue and cron-like scheduler for Django
 - [furious-luke/django-address](https://github.com/furious-luke/django-address) - A Django address model and field. Addresses may be specified by address components or by performing an automatic Google Maps lookup.
 - [dbrgn/drf-dynamic-fields](https://github.com/dbrgn/drf-dynamic-fields) - Dynamically select only a subset of fields per DRF resource, either using a whitelist or a blacklist.
-- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
+- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2/H4
 - [python/devguide](https://github.com/python/devguide) - The Python developer's guide
 - [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
