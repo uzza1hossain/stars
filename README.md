@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [getzep/zep](https://github.com/getzep/zep) - Zep | The Memory Foundation For Your AI Stack
@@ -483,7 +484,7 @@
 - [mategol/PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [matthiask/django-admin-ordering](https://github.com/matthiask/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Modern UI Composition for Django
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Enables Modern UI Composition in Django
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
