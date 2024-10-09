@@ -85,6 +85,7 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
@@ -144,7 +145,6 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -501,7 +501,7 @@
 - [kraiz/django-crontab](https://github.com/kraiz/django-crontab) - dead simple crontab powered job scheduling for django.
 - [django-xxx/django-detect](https://github.com/django-xxx/django-detect) - :sparkles:Middleware:sparkles: Django UserAgent Detect
 - [null-none/django-useragent](https://github.com/null-none/django-useragent) - A django package that allows easy identification of visitor's browser, OS and device information, including whether the visitor uses a mobile phone, tablet or a touch capable device.
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [metalogico/django-sonar](https://github.com/metalogico/django-sonar) - The missing debug tool for django
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [williln/til](https://github.com/williln/til) - Today I Learned
@@ -519,7 +519,7 @@
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [tiangolo/pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Tools to convert SQLAlchemy models to Pydantic models
 - [brack3t/django-brackets](https://github.com/brack3t/django-brackets) - Small mixins for Django's generic class-based views.
-- [Tobi-De/falco](https://github.com/Tobi-De/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+- [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [Corvia/django-tenant-users](https://github.com/Corvia/django-tenant-users) - Adds global user authentication and tenant-specific permissions to django-tenants.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [jazzband/django-axes](https://github.com/jazzband/django-axes) - Keep track of failed login attempts in Django-powered sites.
