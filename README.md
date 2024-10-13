@@ -1226,7 +1226,7 @@
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [sergi0g/cup](https://github.com/sergi0g/cup) - The easiest way to check for your container updates
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
@@ -1348,7 +1348,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
-- [clinebot/cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
