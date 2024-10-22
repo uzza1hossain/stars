@@ -2236,6 +2236,7 @@
 
 ## others 
 
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [NomadicDaddy/htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) - a browser extension (Chrome and Firefox) debugging tool for htmx applications
