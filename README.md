@@ -1343,6 +1343,7 @@
 
 ## TypeScript 
 
+- [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
