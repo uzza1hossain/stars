@@ -438,6 +438,7 @@
 
 ## Python 
 
+- [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) - 👨‍💻 Python cleanup script for macOS
 - [joshuadavidthomas/django-bird](https://github.com/joshuadavidthomas/django-bird) - High-flying components for perfectionists with deadlines
 - [Lazarus-org/dj-notification-api](https://github.com/Lazarus-org/dj-notification-api) - dj-notification-api is a Django package developed by Lazarus for efficiently handling notifications through various APIs
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -928,7 +929,7 @@
 - [justinmayer/kagi](https://github.com/justinmayer/kagi) - WebAuthn security keys and TOTP multi-factor authentication for Django
 - [zanderle/django-sft](https://github.com/zanderle/django-sft) - Django Single File Templates — inspired by Vue's Single file components
 - [MetaMetricsInc/django-warrant](https://github.com/MetaMetricsInc/django-warrant) - Django package that uses AWS Cognito and Warrant to create a Django backend and common views.
-- [wharton/drf-excel](https://github.com/wharton/drf-excel) - An XLSX spreadsheet renderer for Django REST Framework.
+- [django-commons/drf-excel](https://github.com/django-commons/drf-excel) - An XLSX spreadsheet renderer for Django REST Framework.
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [skoczen/django-seo-js](https://github.com/skoczen/django-seo-js) - SEO support for react, Vue, angular, backbone, ember.us, and other SPA apps built with django.
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
@@ -1224,7 +1225,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Start recording your screen today ... or be left behind. Works with Ollama. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
