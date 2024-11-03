@@ -1033,7 +1033,7 @@
 - [charettes/django-seal](https://github.com/charettes/django-seal) - Django application providing queryset sealing capability.
 - [crccheck/django-object-actions](https://github.com/crccheck/django-object-actions) - A Django app for easily adding object tools in the Django admin
 - [beda-software/drf-writable-nested](https://github.com/beda-software/drf-writable-nested) - Writable nested model serializer for Django REST Framework
-- [ehmatthes/django-simple-deploy](https://github.com/ehmatthes/django-simple-deploy) - A reusable Django app that configures your project for deployment
+- [django-simple-deploy/django-simple-deploy](https://github.com/django-simple-deploy/django-simple-deploy) - A reusable Django app that configures your project for deployment
 - [mikeckennedy/jinja_partials](https://github.com/mikeckennedy/jinja_partials) - Simple reuse of partial HTML page templates in the Jinja template language for Python web frameworks. #pypackage
 - [ryanhiebert/django-safemigrate](https://github.com/ryanhiebert/django-safemigrate) - Safely run migrations before deployment
 - [ewels/rich-codex](https://github.com/ewels/rich-codex) - Create rich code images for your docs.
