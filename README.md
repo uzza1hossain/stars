@@ -6,7 +6,6 @@
 ## Contents
 
 - [Astro](#astro)
-- [Awk](#awk)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -52,10 +51,6 @@
 ## Astro 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-
-## Awk 
-
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
 
 ## C 
 
@@ -380,6 +375,7 @@
 
 ## Others 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
 - [eedeidk/bongboi](https://github.com/eedeidk/bongboi) - This repo contains Bengali EPUB books that are out of copyright. Find all of them at https://t.me/bongboi
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [arnobk/kindle-en-bn-dictionary](https://github.com/arnobk/kindle-en-bn-dictionary) - A simple English to Bangla Dictionary for Amazon Kindle devices.
@@ -443,6 +439,7 @@
 
 ## Python 
 
+- [Viicos/django-autotyping](https://github.com/Viicos/django-autotyping) - Automatically add type hints for Django powered applications.
 - [joshuadavidthomas/django-github-app](https://github.com/joshuadavidthomas/django-github-app) - A Django toolkit for GitHub Apps with batteries included
 - [mohamed-alired/drf-totp](https://github.com/mohamed-alired/drf-totp) - TOTP (Time-based One-Time Password) authentication for Django REST Framework.
 - [igorbenav/fastcrud](https://github.com/igorbenav/fastcrud) - FastCRUD is a Python package for FastAPI, offering robust async CRUD operations and flexible endpoint creation utilities.
@@ -471,7 +468,7 @@
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [AnswerDotAI/web2md](https://github.com/AnswerDotAI/web2md) - Convert a web page to markdown
@@ -1359,6 +1356,7 @@
 
 ## TypeScript 
 
+- [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [voideditor/void](https://github.com/voideditor/void) - 
