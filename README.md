@@ -458,7 +458,7 @@
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Containerized, state of the art Retrieval-Augmented Generation (RAG) system with a RESTful API
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The most advanced AI retrieval system. Containerized, Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [bckohan/django-enum](https://github.com/bckohan/django-enum) - Full and natural support for enumerations as Django model fields.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
@@ -545,7 +545,7 @@
 - [eadwinCode/ninja-schema](https://github.com/eadwinCode/ninja-schema) - Ninja Schema is Pydantic full support for Django ORM.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [ninemoreminutes/django-site-utils](https://github.com/ninemoreminutes/django-site-utils) - Django site-wide management commands and utilities.
-- [safevideo/autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
+- [viddexa/autollm](https://github.com/viddexa/autollm) - Ship RAG based LLM web apps in seconds.
 - [jmrivas86/django-json-widget](https://github.com/jmrivas86/django-json-widget) - An alternative widget that makes it easy to edit the new Django's field JSONField (PostgreSQL specific model fields)
 - [Lolomgrofl/fastapi-genesis](https://github.com/Lolomgrofl/fastapi-genesis) - FastAPI project Template generator  to make your life easier 🧬 🚀
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -1236,7 +1236,6 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
@@ -1360,6 +1359,7 @@
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [voideditor/void](https://github.com/voideditor/void) - 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
