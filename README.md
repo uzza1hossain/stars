@@ -128,7 +128,7 @@
 - [getzep/zep](https://github.com/getzep/zep) - Zep | The Memory Foundation For Your AI Stack
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -189,6 +189,7 @@
 
 ## HTML 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -272,7 +273,7 @@
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase.
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable, sortable and resizable behaviors inspired by the jQuery UI implementation
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
@@ -437,6 +438,7 @@
 
 ## Python 
 
+- [Fajar-RahmadJaya/KeyTik](https://github.com/Fajar-RahmadJaya/KeyTik) - GUI-Based Keyboard Remapper with Profiles, Auto Clicker, Screen Clicker, Multiple Files Opener, AutoHotkey Script Manager and More.
 - [Viicos/django-autotyping](https://github.com/Viicos/django-autotyping) - Automatically add type hints for Django powered applications.
 - [joshuadavidthomas/django-github-app](https://github.com/joshuadavidthomas/django-github-app) - A Django toolkit for GitHub Apps with batteries included
 - [mohamed-alired/drf-totp](https://github.com/mohamed-alired/drf-totp) - TOTP (Time-based One-Time Password) authentication for Django REST Framework.
