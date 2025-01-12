@@ -248,7 +248,7 @@
 - [fetchfox/fetchfox-extension](https://github.com/fetchfox/fetchfox-extension) - A Chrome extension to extract any data from any website
 - [goshops-com/clipshare](https://github.com/goshops-com/clipshare) - An incredibly simple, open-source alternative to Loom that only requires S3-compatible storage—no servers needed
 - [meparth/bangla-boi](https://github.com/meparth/bangla-boi) - get books from ebanglalibrary's website. We are commited to use scraping responsibly and for personal use only.
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - WIFI / LAN intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) - A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [choyan/ebanglalibrary-epub](https://github.com/choyan/ebanglalibrary-epub) - A nodejs library to generate epub3 books from ebanglalibrary book url.
 - [innocenat/kindle-epub-fix](https://github.com/innocenat/kindle-epub-fix) - A simple Javascript website to fix common EPUB problem for Amazon's Send to Kindle.
@@ -530,6 +530,7 @@
 - [metalogico/django-sonar](https://github.com/metalogico/django-sonar) - The missing debug tool for django
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [williln/til](https://github.com/williln/til) - Today I Learned
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio to chords, lyrics, beat, and melody.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -727,7 +728,7 @@
 - [demon-bixia/django-api-admin](https://github.com/demon-bixia/django-api-admin) - Expose django.contrib.admin as a restful service. useful for adding new features to django admin or writing a new admin client.
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [cltrudeau/django-awl](https://github.com/cltrudeau/django-awl) - Miscellaneous django tools
@@ -1399,7 +1400,6 @@
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [django-bridge/django-bridge](https://github.com/django-bridge/django-bridge) - Build fast, user-friendly applications with Django and React
