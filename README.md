@@ -110,6 +110,7 @@
 
 ## Dockerfile 
 
+- [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
 ## Elixir 
@@ -983,7 +984,7 @@
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [MattBroach/DjangoRestMultipleModels](https://github.com/MattBroach/DjangoRestMultipleModels) - View (and mixin) for serializing multiple models or querysets in Django Rest Framework
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [AmbitionEng/django-pgtrigger](https://github.com/AmbitionEng/django-pgtrigger) - Write Postgres triggers for your Django models
 - [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
@@ -1372,6 +1373,7 @@
 
 ## TypeScript 
 
+- [nizzyabi/Mail0](https://github.com/nizzyabi/Mail0) - open source gmail alternative (coming soon). join the discord: https://discord.gg/5nwrvt3JH2
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [roperi/YaSaas](https://github.com/roperi/YaSaas) - YaSaas is a flexible foundation for entrepreneurs looking to monetize their data. A free and flexible SaaS boilerplate built on Django REST Framework and React, it integrates Stripe subscriptions seam
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
