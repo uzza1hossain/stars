@@ -1036,7 +1036,7 @@
 - [apragacz/django-rest-registration](https://github.com/apragacz/django-rest-registration) - User-related REST API based on the awesome Django REST Framework
 - [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Pattern repository for Django and htmx with full example code
 - [clokep/django-render-block](https://github.com/clokep/django-render-block) - Render the content of a specific block tag from a Django template.
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory) - Track historical events to Django models using Postgres triggers.
 - [AmbitionEng/django-pgtrigger](https://github.com/AmbitionEng/django-pgtrigger) - Write Postgres triggers for your Django models
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
@@ -2293,6 +2293,8 @@
 
 ## others 
 
+- [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
+- [nizzyabi/Mail0](https://github.com/nizzyabi/Mail0) - open source gmail alternative (coming soon). join the discord: https://discord.gg/5nwrvt3JH2
 - [mierau/hotline](https://github.com/mierau/hotline) - A modern Hotline client for Mac, iOS, and iPadOS
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
 - [FunctionError/PiratesTv](https://github.com/FunctionError/PiratesTv) - 📢 This project is not maintained anymore 📢
@@ -3059,7 +3061,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
@@ -3669,7 +3671,7 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [django-commons/django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
