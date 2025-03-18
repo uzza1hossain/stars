@@ -2351,7 +2351,7 @@
 - [arnobify/kindle-en-bn-dictionary](https://github.com/arnobify/kindle-en-bn-dictionary) - A simple English to Bangla Dictionary for Amazon Kindle devices.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [matthiask/django-admin-ordering](https://github.com/matthiask/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
-- [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
+- [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
