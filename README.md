@@ -448,6 +448,8 @@
 
 ## Python 
 
+- [fourdigits/django-template-lsp](https://github.com/fourdigits/django-template-lsp) - 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [matthiask/django-translated-fields](https://github.com/matthiask/django-translated-fields) - Django model translation without magic-inflicted pain.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
