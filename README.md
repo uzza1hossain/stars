@@ -451,6 +451,7 @@
 
 ## Python 
 
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook) - Transforms markdown files into fully-rendered Django templates with auto-generated views and URLs, eliminating boilerplate code while maintaining Django's flexibility.
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -494,7 +495,7 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [Shopify/shopify_django_app](https://github.com/Shopify/shopify_django_app) - Get a Shopify app up and running with Django and Python Shopify API
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
@@ -548,7 +549,7 @@
 - [metalogico/django-sonar](https://github.com/metalogico/django-sonar) - The missing debug tool for django
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [williln/til](https://github.com/williln/til) - Today I Learned
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on simple YAML templates for integrations and response-as-code.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams.
 - [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio to chords, lyrics, beat, and melody.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -939,7 +940,7 @@
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [lincolnloop/django-production](https://github.com/lincolnloop/django-production) - production settings for Django
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
 - [celery/django-celery-beat](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM
 - [occipital/django-consistency-model](https://github.com/occipital/django-consistency-model) - DCM is a set of tools that helps you to keep your data in your Django Models consistent.
 - [meshy/django-schema-graph](https://github.com/meshy/django-schema-graph) - An interactive graph of your Django model structure
@@ -1456,7 +1457,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [Alt-er/obsidian-sync-share](https://github.com/Alt-er/obsidian-sync-share) - Sync and share (publish) your notes in your own private service.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
