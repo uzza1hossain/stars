@@ -203,7 +203,7 @@
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [Hybridhash/FastAPI-HTMX](https://github.com/Hybridhash/FastAPI-HTMX) - FastAPI, HTMX and Alpine JS | BoilerPlate Implementation
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [gnat/css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
