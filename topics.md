@@ -2455,7 +2455,7 @@
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [fourdigits/django-template-lsp](https://github.com/fourdigits/django-template-lsp) - 
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
-- [matthiask/django-translated-fields](https://github.com/matthiask/django-translated-fields) - Django model translation without magic-inflicted pain.
+- [feincms/django-translated-fields](https://github.com/feincms/django-translated-fields) - Django model translation without magic-inflicted pain.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [mierau/hotline](https://github.com/mierau/hotline) - A modern Hotline client for Mac, iOS, and iPadOS
@@ -2501,7 +2501,7 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [arnobify/kindle-en-bn-dictionary](https://github.com/arnobify/kindle-en-bn-dictionary) - A simple English to Bangla Dictionary for Amazon Kindle devices.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [matthiask/django-admin-ordering](https://github.com/matthiask/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
+- [feincms/django-admin-ordering](https://github.com/feincms/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
