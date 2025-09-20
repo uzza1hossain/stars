@@ -1409,6 +1409,7 @@
 
 ## TypeScript 
 
+- [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [httl-lang/HTTL](https://github.com/httl-lang/HTTL) - 
