@@ -1161,6 +1161,7 @@
 - [voiio/emark](https://github.com/voiio/emark) - eMark↓ – Markdown template based HTML and text emails for Django.
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [justinmayer/kagi](https://github.com/justinmayer/kagi) - WebAuthn security keys and TOTP multi-factor authentication for Django
+- [adamghill/django-fbv](https://github.com/adamghill/django-fbv) - Utilities to make function-based views cleaner, more efficient, and better tasting.
 - [pmclanahan/django-celery-email](https://github.com/pmclanahan/django-celery-email) - A Django email backend that uses a celery task for sending the email.
 - [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [Kludex/mangum](https://github.com/Kludex/mangum) - AWS Lambda support for ASGI applications
@@ -1313,7 +1314,7 @@
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [godd0t/django-docker-quickstart](https://github.com/godd0t/django-docker-quickstart) - Your all-in-one Django-Docker starter kit. Pre-configured services including PostgreSQL, Redis, Celery, with Nginx and Traefik for production. Streamlined development with included tools for testing a
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [rawheel/fastapi-boilerplate](https://github.com/rawheel/fastapi-boilerplate) - Dockerized FastAPI boiler plate similar to Django code structure with views, serializers(pydantic) and model( Sqlalchemy ORM) with dockerized database(PostgresSQL) and PgAdmin. 🚀
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
@@ -1550,7 +1551,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2194,7 +2195,7 @@
 - [echo724/notion2md](https://github.com/echo724/notion2md) - Notion Markdown Exporter with Python Cli
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [render-engine/render-engine](https://github.com/render-engine/render-engine) - Python Static Site Generator built with flexibility prioritized
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
@@ -2784,7 +2785,6 @@
 - [MetaMetricsInc/django-warrant](https://github.com/MetaMetricsInc/django-warrant) - Django package that uses AWS Cognito and Warrant to create a Django backend and common views.
 - [django-commons/drf-excel](https://github.com/django-commons/drf-excel) - An XLSX spreadsheet renderer for Django REST Framework.
 - [skoczen/django-seo-js](https://github.com/skoczen/django-seo-js) - SEO support for react, Vue, angular, backbone, ember.us, and other SPA apps built with django.
-- [adamghill/django-fbv](https://github.com/adamghill/django-fbv) - Utilities to make function-based views cleaner, more efficient, and better tasting.
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [jazzband/django-embed-video](https://github.com/jazzband/django-embed-video) - Django app for easy embedding YouTube and Vimeo videos and music from SoundCloud.
 - [larryhastings/appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
@@ -3552,7 +3552,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -3748,7 +3748,7 @@
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
@@ -3856,7 +3856,7 @@
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
