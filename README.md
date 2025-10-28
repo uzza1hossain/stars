@@ -149,7 +149,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -356,6 +356,7 @@
 
 ## MDX 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## Makefile 
@@ -449,6 +450,8 @@
 
 ## Python 
 
+- [savannahostrowski/gruyere](https://github.com/savannahostrowski/gruyere) - ✨ A tiny (and pretty) program for viewing + killing listening ports
+- [AakarSharma/fast-django](https://github.com/AakarSharma/fast-django) - Django-like batteries-included framework built on FastAPI — with ORM, admin, and modern async performance.
 - [gaetanlhf/EXPOSE](https://github.com/gaetanlhf/EXPOSE) - Your no-config, no-install, globally distributed open-source tool to expose your local services
 - [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [volfpeter/holm](https://github.com/volfpeter/holm) - Web development framework that brings the Next.js developer experience to Python, built on FastAPI, htmy, and FastHX.
@@ -503,7 +506,7 @@
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [django-commons/django-enum](https://github.com/django-commons/django-enum) - Full and natural support for enumerations as Django model fields.
@@ -1428,7 +1431,6 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -1447,7 +1449,7 @@
 - [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 - [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API) - A CLI tool and an API for fetching data from Twitter for free!
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
