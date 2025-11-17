@@ -2805,7 +2805,7 @@
 - [jazzband/django-embed-video](https://github.com/jazzband/django-embed-video) - Django app for easy embedding YouTube and Vimeo videos and music from SoundCloud.
 - [larryhastings/appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
 - [swyddfa/esbonio](https://github.com/swyddfa/esbonio) - A language server for working with Sphinx projects.
-- [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v4.0
+- [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v6.0
 - [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
 - [pennersr/django-trackstats](https://github.com/pennersr/django-trackstats) - Keep track of your statistics
 - [drpancake/chard](https://github.com/drpancake/chard) - A simple async/await task queue for Django. One process, no threads, no other dependencies.
