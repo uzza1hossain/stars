@@ -2582,6 +2582,7 @@
 
 ## others 
 
+- [rebelice/lazypg](https://github.com/rebelice/lazypg) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [AakarSharma/fast-django](https://github.com/AakarSharma/fast-django) - Django-like batteries-included framework built on FastAPI — with ORM, admin, and modern async performance.
 - [SarthakJariwala/shadcn-django](https://github.com/SarthakJariwala/shadcn-django) - shadcn/ui for Django ✨
@@ -3157,7 +3158,7 @@
 - [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
 - [django-json-api/django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api) - JSON:API support for Django REST framework
 - [Healthlane-Technologies/Zango](https://github.com/Healthlane-Technologies/Zango) - Django meta-framework for building enterprise-ready custom business applications 💼 ✨
-- [fromscratchcode/bytecode-compiler](https://github.com/fromscratchcode/bytecode-compiler) - Bytecode compiler UI for Python, powered by Memphis.
+- [fromscratchcode/ozark](https://github.com/fromscratchcode/ozark) - Bytecode compiler UI for Python, powered by Memphis.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 - [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook) - Transforms markdown files into fully-rendered Django templates with auto-generated views and URLs, eliminating boilerplate code while maintaining Django's flexibility.
@@ -3855,6 +3856,7 @@
 
 ## self-hosted 
 
+- [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [secluso/secluso](https://github.com/secluso/secluso) - A privacy-preserving home security camera that uses end-to-end encryption. (Secluso was previously named Privastead.)
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
