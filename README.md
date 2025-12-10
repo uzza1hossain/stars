@@ -118,6 +118,8 @@
 
 ## Go 
 
+- [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
+- [rebelice/lazypg](https://github.com/rebelice/lazypg) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [abishekmuthian/open-payment-host](https://github.com/abishekmuthian/open-payment-host) - Sell what you want without paying double commissions. Self hosted alternative for Gumroad, Buy Me a Coffee, Ko-fi etc.
 - [yarlson/lnk](https://github.com/yarlson/lnk) - 🔗 Git-native dotfiles management that doesn't suck.
@@ -249,7 +251,7 @@
 ## JavaScript 
 
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-- [fromscratchcode/bytecode-compiler](https://github.com/fromscratchcode/bytecode-compiler) - Bytecode compiler UI for Python, powered by Memphis.
+- [fromscratchcode/ozark](https://github.com/fromscratchcode/ozark) - Bytecode compiler UI for Python, powered by Memphis.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
 - [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide
@@ -1425,6 +1427,7 @@
 
 ## TypeScript 
 
+- [FarhanAliRaza/django-repl](https://github.com/FarhanAliRaza/django-repl) - Run django in the browser
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [httl-lang/HTTL](https://github.com/httl-lang/HTTL) - 
