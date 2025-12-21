@@ -454,6 +454,7 @@
 
 ## Python 
 
+- [codingjoe/django-mail-auth](https://github.com/codingjoe/django-mail-auth) - Django authentication via login URLs, no passwords required
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [BezBartek/django-db-views](https://github.com/BezBartek/django-db-views) - Creating automatic migrations for Views models witch working reverse and full command options like in normal makemigrations
