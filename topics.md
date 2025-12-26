@@ -2973,7 +2973,7 @@
 - [MythicManiac/copilot-import](https://github.com/MythicManiac/copilot-import) - Inspired by https://github.com/drathier/stack-overflow-import
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
-- [stefanfoulis/django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
+- [django-phonenumber-field/django-phonenumber-field](https://github.com/django-phonenumber-field/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [caramdache/django-dynamic-filters](https://github.com/caramdache/django-dynamic-filters) - Add dynamic filtering abilities to Django admin
 - [adamghill/django-rich-logging](https://github.com/adamghill/django-rich-logging) - A prettier way to see Django requests while developing.
