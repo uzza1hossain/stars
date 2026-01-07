@@ -2609,6 +2609,7 @@
 
 ## others 
 
+- [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) - This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.
 - [BezBartek/django-db-views](https://github.com/BezBartek/django-db-views) - Creating automatic migrations for Views models witch working reverse and full command options like in normal makemigrations
 - [FarhanAliRaza/django-repl](https://github.com/FarhanAliRaza/django-repl) - Run django in the browser
 - [rebelice/lazypg](https://github.com/rebelice/lazypg) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
