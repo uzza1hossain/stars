@@ -661,7 +661,7 @@
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [petrgazarov/FastAPI-app](https://github.com/petrgazarov/FastAPI-app) - Example app using FastAPI, asyncio, SQLModel, Celery, Alembic and Supertokens
 - [jazzband/django-newsletter](https://github.com/jazzband/django-newsletter) - An email newsletter application for the Django web application framework, including an extended admin interface, web (un)subscription, dynamic e-mail templates, an archive and HTML email support.
-- [surenkov/django-pydantic-field](https://github.com/surenkov/django-pydantic-field) - Django JSONField with Pydantic models as a Schema
+- [surenkov/django-pydantic-field](https://github.com/surenkov/django-pydantic-field) - Type-Safe Pydantic Schemas for Django JSONFields
 - [barseghyanartur/django-elasticsearch-dsl-drf](https://github.com/barseghyanartur/django-elasticsearch-dsl-drf) - Integrate Elasticsearch DSL with Django REST framework.
 - [diegojromerolopez/django-async-include](https://github.com/diegojromerolopez/django-async-include) - Asynchronous inclusion of Django templates
 - [zostera/django-icons](https://github.com/zostera/django-icons) - Icons for Django
