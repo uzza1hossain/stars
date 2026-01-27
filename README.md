@@ -41,7 +41,6 @@
 - [SCSS](#scss)
 - [Sass](#sass)
 - [Shell](#shell)
-- [SurrealQL](#surrealql)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -150,7 +149,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -1405,10 +1404,6 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
-## SurrealQL 
-
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
 ## Svelte 
 
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
@@ -1479,9 +1474,10 @@
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [jose-donato/ollama-reply](https://github.com/jose-donato/ollama-reply) - open-source browser extension that leverages the power of the AI to generate engaging replies for social media growth.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
