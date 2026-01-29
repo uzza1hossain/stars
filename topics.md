@@ -547,7 +547,7 @@
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh/pwsh completions without writing shell scripts
+- [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh/pwsh completions without writing shell scripts!
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -2671,7 +2671,7 @@
 - [kebot/reink.app](https://github.com/kebot/reink.app) - 
 - [Hybridhash/FastAPI-HTMX](https://github.com/Hybridhash/FastAPI-HTMX) - FastAPI, HTMX and Alpine JS | BoilerPlate Implementation
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [dodeeric/pdf2epubEX](https://github.com/dodeeric/pdf2epubEX) - Tool to convert a PDF file (myfile.pdf) to a fixed layout ePub file (myfile.epub). The layout is perfectly retained and all the fonts are embedded.
 - [innocenat/kindle-epub-fix](https://github.com/innocenat/kindle-epub-fix) - A simple Javascript website to fix common EPUB problem for Amazon's Send to Kindle.
 - [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - Aggregates RSS and web content(Calibre recipe), sends to Kindle, and includes an e-ink optimized online reader.
@@ -4442,7 +4442,7 @@
 ## zsh 
 
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
-- [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh/pwsh completions without writing shell scripts
+- [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh/pwsh completions without writing shell scripts!
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
