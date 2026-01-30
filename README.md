@@ -116,7 +116,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 ## Go 
 
@@ -1514,7 +1514,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
-- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React with AI superpowers
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [Alt-er/obsidian-sync-share](https://github.com/Alt-er/obsidian-sync-share) - Sync and share (publish) your notes in your own private service.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
