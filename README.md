@@ -122,7 +122,7 @@
 ## Go 
 
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
-- [rebelice/lazypg](https://github.com/rebelice/lazypg) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
+- [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [abishekmuthian/open-payment-host](https://github.com/abishekmuthian/open-payment-host) - Sell what you want without paying double commissions. Self hosted alternative for Gumroad, Buy Me a Coffee, Ko-fi etc.
 - [yarlson/lnk](https://github.com/yarlson/lnk) - 🔗 Git-native dotfiles management that doesn't suck.
