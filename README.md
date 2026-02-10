@@ -58,6 +58,7 @@
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2/H4
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 - [gwsw/less](https://github.com/gwsw/less) - Less - text pager
@@ -135,7 +136,6 @@
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool written in Go
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -193,6 +193,7 @@
 
 ## HCL 
 
+- [goshops-com/clipshare](https://github.com/goshops-com/clipshare) - An incredibly simple, open-source alternative to Loom that only requires S3-compatible storage—no servers needed
 - [TobKed/django_on_gcp](https://github.com/TobKed/django_on_gcp) - Django on Google Cloud Platform
 
 ## HTML 
@@ -263,7 +264,6 @@
 - [NomadicDaddy/htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) - a browser extension (Chrome and Firefox) debugging tool for htmx applications
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [fetchfox/fetchfox-extension](https://github.com/fetchfox/fetchfox-extension) - A Chrome extension to extract any data from any website
-- [goshops-com/clipshare](https://github.com/goshops-com/clipshare) - An incredibly simple, open-source alternative to Loom that only requires S3-compatible storage—no servers needed
 - [meparth/bangla-boi](https://github.com/meparth/bangla-boi) - get books from ebanglalibrary's website. We are commited to use scraping responsibly and for personal use only.
 - [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) - A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [innocenat/kindle-epub-fix](https://github.com/innocenat/kindle-epub-fix) - A simple Javascript website to fix common EPUB problem for Amazon's Send to Kindle.
@@ -395,6 +395,7 @@
 
 ## Others 
 
+- [tobieapb/claude-interactive-documentation-workflow](https://github.com/tobieapb/claude-interactive-documentation-workflow) - I used to whiteboard, then code. Now I markdown, then code. This is how I vibe-code: I can direct, guardrail, and understand the LLM-built code, come back to it 6 months later and actually understand 
 - [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
 - [IslandApps/cursor-agent-tracking](https://github.com/IslandApps/cursor-agent-tracking) - A repository that provides a structured system for maintaining context and tracking changes in Cursor's AGENT mode conversations through template files, enabling better continuity and organization of 
