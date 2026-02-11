@@ -948,7 +948,7 @@
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [django-commons/django-enum](https://github.com/django-commons/django-enum) - Full and natural support for enumerations as Django model fields.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -1653,7 +1653,6 @@
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool written in Go
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
@@ -1743,7 +1742,6 @@
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
@@ -1853,7 +1851,7 @@
 ## html 
 
 - [felix-bohlin/ui](https://github.com/felix-bohlin/ui) - A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists.
-- [volfpeter/holm](https://github.com/volfpeter/holm) - Web development framework that brings the Next.js developer experience to Python, built on FastAPI, htmy, and FastHX.
+- [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
 - [adamghill/dj-angles](https://github.com/adamghill/dj-angles) - Transpile HTML to the Django Template Language &lt;/&gt;
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -2432,7 +2430,7 @@
 ## nextjs 
 
 - [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel) - A versatile, production-ready Django project template for any use case  Build SaaS applications, API backends, web apps, or internal tools with one template.
-- [volfpeter/holm](https://github.com/volfpeter/holm) - Web development framework that brings the Next.js developer experience to Python, built on FastAPI, htmy, and FastHX.
+- [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
@@ -2517,6 +2515,7 @@
 ## nosql 
 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
 
 ## npm 
 
@@ -2614,6 +2613,7 @@
 
 ## others 
 
+- [tobieapb/claude-interactive-documentation-workflow](https://github.com/tobieapb/claude-interactive-documentation-workflow) - I used to whiteboard, then code. Now I markdown, then code. This is how I vibe-code: I can direct, guardrail, and understand the LLM-built code, come back to it 6 months later and actually understand 
 - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 - [shakedlokits/stash](https://github.com/shakedlokits/stash) - Bidirectionally sync Markdown files with Apple Notes.
 - [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) - This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.
@@ -3195,7 +3195,7 @@
 - [savannahostrowski/gruyere](https://github.com/savannahostrowski/gruyere) - ✨ A tiny (and pretty) program for viewing + killing listening ports
 - [gaetanlhf/EXPOSE](https://github.com/gaetanlhf/EXPOSE) - Your no-config, no-install, globally distributed open-source tool to expose your local services
 - [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
-- [volfpeter/holm](https://github.com/volfpeter/holm) - Web development framework that brings the Next.js developer experience to Python, built on FastAPI, htmy, and FastHX.
+- [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
 - [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
 - [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
 - [django-json-api/django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api) - JSON:API support for Django REST framework
