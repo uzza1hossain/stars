@@ -2638,7 +2638,7 @@
 - [feincms/django-translated-fields](https://github.com/feincms/django-translated-fields) - Django model translation without magic-inflicted pain.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
-- [mierau/hotline](https://github.com/mierau/hotline) - A modern Hotline client for macOS, iOS, and iPadOS
+- [mierau/hotline](https://github.com/mierau/hotline) - A modern remake of Hotline for macOS, iOS, and iPadOS.
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
 - [FunctionError/PiratesTv](https://github.com/FunctionError/PiratesTv) - 📢 This project is not maintained anymore 📢
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
