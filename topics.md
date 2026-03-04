@@ -80,6 +80,7 @@
 - [english](#english)
 - [es6](#es6)
 - [express](#express)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -654,7 +655,6 @@
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
@@ -667,7 +667,6 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [translate-tools/linguist](https://github.com/translate-tools/linguist) - Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
@@ -1475,6 +1474,55 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
+## fastapi 
+
+- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
+- [volfpeter/holm](https://github.com/volfpeter/holm) - Hypermedia web development framework that brings the Next.js developer experience to Python, built on FastAPI.
+- [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
+- [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
+- [benavlabs/fastcrud](https://github.com/benavlabs/fastcrud) - FastCRUD is a Python package for FastAPI, offering robust async CRUD operations and flexible endpoint creation utilities.
+- [yezz123/authx](https://github.com/yezz123/authx) - Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨
+- [benavlabs/SQLModel-boilerplate](https://github.com/benavlabs/SQLModel-boilerplate) - An extendable async API using FastAPI, SQLModel, PostgreSQL and Redis.
+- [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
+- [viddexa/autollm](https://github.com/viddexa/autollm) - Ship RAG based LLM web apps in seconds.
+- [Lolomgrofl/fastapi-genesis](https://github.com/Lolomgrofl/fastapi-genesis) - FastAPI project Template generator  to make your life easier 🧬 🚀
+- [vargasjona/fastapi-alembic-sqlmodel-async](https://github.com/vargasjona/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Pydantic 2.0, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
+- [petrgazarov/FastAPI-app](https://github.com/petrgazarov/FastAPI-app) - Example app using FastAPI, asyncio, SQLModel, Celery, Alembic and Supertokens
+- [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
+- [momegas/megabots](https://github.com/momegas/megabots) - 🤖 State-of-the-art, production ready LLM apps made mega-easy, so you don't have to build them from scratch 🤯 Create a bot, now 🫵
+- [iashraful/fastapi-boilerplate-with-postgres](https://github.com/iashraful/fastapi-boilerplate-with-postgres) - A production ready boilerplate/template for FastAPI and PostgreSQL
+- [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
+- [nickatnight/cookiecutter-fastapi-backend](https://github.com/nickatnight/cookiecutter-fastapi-backend) - :cookie: Cookiecutter template to build and deploy fastapi backends..batteries included
+- [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
+- [melvinkcx/fastapi-events](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette
+- [long2ice/fastapi-limiter](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for fastapi
+- [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
+- [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
+- [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, SQLModel and pytest, ready for production.
+- [codemation/easyauth](https://github.com/codemation/easyauth) - Create a centralized Authentication and Authorization token server. Easily secure FastAPI endpoints based on Users, Groups, Roles or Permissions with very little database usage.
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+- [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
+- [fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities for FastAPI
+- [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
+- [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
+- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
+- [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
+- [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate) - FastAPI boilerplate for real world production
+- [rawheel/fastapi-boilerplate](https://github.com/rawheel/fastapi-boilerplate) - Dockerized FastAPI boiler plate similar to Django code structure with views, serializers(pydantic) and model( Sqlalchemy ORM) with dockerized database(PostgresSQL) and PgAdmin. 🚀
+- [identixone/fastapi_contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities on top of FastAPI
+- [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
+- [florimondmanca/arel](https://github.com/florimondmanca/arel) - Lightweight browser hot reload for Python ASGI web apps
+- [tinkoffjournal/freddie](https://github.com/tinkoffjournal/freddie) - DRF-like declarative viewsets for FastAPI
+- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
+- [johnhewi/ezinnit](https://github.com/johnhewi/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
+- [Kludex/mangum](https://github.com/Kludex/mangum) - AWS Lambda support for ASGI applications
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [yezz123/pyngo](https://github.com/yezz123/pyngo) - Pydantic model support for Django & Django-Rest-Framework ✨
+
 ## finance 
 
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
@@ -1967,7 +2015,6 @@
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [curtis-allan/Shad4Fasthtml](https://github.com/curtis-allan/Shad4Fasthtml) - Porting Shadcn-ui components to python/js for use with fasthtml
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -2365,6 +2412,7 @@
 
 ## monitoring 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
 - [mwarkentin/django-watchman](https://github.com/mwarkentin/django-watchman) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
@@ -2616,7 +2664,6 @@
 
 ## others 
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [tobieapb/claude-interactive-documentation-workflow](https://github.com/tobieapb/claude-interactive-documentation-workflow) - I used to whiteboard, then code. Now I markdown, then code. This is how I vibe-code: I can direct, guardrail, and understand the LLM-built code, come back to it 6 months later and actually understand 
 - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 - [shakedlokits/stash](https://github.com/shakedlokits/stash) - Bidirectionally sync Markdown files with Apple Notes.
@@ -2765,7 +2812,6 @@
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [yunojuno/django-perimeter](https://github.com/yunojuno/django-perimeter) - Site-wide perimeter access control for Django projects
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
-- [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [nikalexis/django_htmx_ui](https://github.com/nikalexis/django_htmx_ui) - 
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
@@ -2785,14 +2831,9 @@
 - [django-functest/django-functest](https://github.com/django-functest/django-functest) - Helpers for creating high-level functional tests in Django, with a unified API for WebTest and Selenium tests.
 - [holgi/fastapi-permissions](https://github.com/holgi/fastapi-permissions) - row level security for FastAPI framework
 - [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
-- [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
-- [long2ice/fastapi-limiter](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for fastapi
 - [sunhailin-Leo/fastapi_profiler](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of https://github.com/joerick/pyinstrument to check your service performance.
 - [DeanWay/fastapi-versioning](https://github.com/DeanWay/fastapi-versioning) - api versioning for fastapi web applications
-- [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)
 - [mrtolkien/fastapi_simple_security](https://github.com/mrtolkien/fastapi_simple_security) - Drop-in API-key based security for FastAPI
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
-- [fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities for FastAPI
 - [adamcharnock/django-tz-detect](https://github.com/adamcharnock/django-tz-detect) - Easy user timezone detection for Django
 - [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins) - Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
 - [3YOURMIND/django-deprecate-fields](https://github.com/3YOURMIND/django-deprecate-fields) - This package allows deprecating model fields and allows removing them in a backwards compatible manner.
@@ -2869,7 +2910,6 @@
 - [brutasse/django-push](https://github.com/brutasse/django-push) - PubSubHubbub support for Django
 - [BeanieODM/lazy_model](https://github.com/BeanieODM/lazy_model) - Lazy parsing for Pydantic models
 - [diefenbach/djello](https://github.com/diefenbach/djello) - This is a try to create a trello clone by using Django, django_components, htmx and hyperscript.
-- [jowilf/starlette-admin](https://github.com/jowilf/starlette-admin) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 - [mohi7solanki/dj-snake](https://github.com/mohi7solanki/dj-snake) - Django command to load fixture without overriding existing objects with same primary key
 - [pavelsof/django-mirror](https://github.com/pavelsof/django-mirror) - cheese shop package marrying django with codemirror
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
@@ -3125,7 +3165,6 @@
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
@@ -3701,7 +3740,6 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
@@ -4340,7 +4378,6 @@
 
 ## vpn 
 
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
 
 ## vue 
