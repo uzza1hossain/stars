@@ -173,6 +173,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -1773,6 +1774,7 @@
 
 ## hacking 
 
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -3102,8 +3104,14 @@
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
+## penetration-testing 
+
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+
 ## pentesting 
 
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
@@ -3937,6 +3945,7 @@
 
 ## security-tools 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 
 ## self-hosted 
