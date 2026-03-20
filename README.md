@@ -6,6 +6,7 @@
 ## Contents
 
 - [Astro](#astro)
+- [Awk](#awk)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -53,13 +54,17 @@
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
+## Awk 
+
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
+
 ## C 
 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
-- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2/H4
+- [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - The firmware for the HackRF+PortaPack H1/H2/H4/H4M
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 - [gwsw/less](https://github.com/gwsw/less) - Less - text pager
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -220,7 +225,6 @@
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
@@ -588,7 +592,7 @@
 - [metalogico/django-sonar](https://github.com/metalogico/django-sonar) - The missing debug tool for django
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [williln/til](https://github.com/williln/til) - Today I Learned
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The AI automation platform built for security teams and agents.
 - [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio to chords, lyrics, beat, and melody.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
@@ -997,6 +1001,7 @@
 - [syse-i/django-component-tags](https://github.com/syse-i/django-component-tags) - Create advanced HTML components using Django Tags.
 - [skorokithakis/django-annoying](https://github.com/skorokithakis/django-annoying) - A django application that tries to eliminate annoying things in the Django framework. ⛺
 - [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
+- [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [adamchainz/django-read-only](https://github.com/adamchainz/django-read-only) - Disable Django database writes.
 - [mrswats/django-interactive-models](https://github.com/mrswats/django-interactive-models) - Create Django Models interactively
 - [gavinwahl/django-postgres-queue](https://github.com/gavinwahl/django-postgres-queue) - A task queue for django
@@ -1386,7 +1391,6 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [shakedlokits/stash](https://github.com/shakedlokits/stash) - Bidirectionally sync Markdown files with Apple Notes.
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [2KAbhishek/tmux2k](https://github.com/2KAbhishek/tmux2k) - Make tmux powerful and pretty 🥊💅
 - [dodeeric/pdf2epubEX](https://github.com/dodeeric/pdf2epubEX) - Tool to convert a PDF file (myfile.pdf) to a fixed layout ePub file (myfile.epub). The layout is perfectly retained and all the fonts are embedded.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
