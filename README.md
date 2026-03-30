@@ -293,7 +293,6 @@
 - [torchbox/storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that applies plain language instructions to the filesystem. Instructions can utilize a liquidjs based templating system. Use cases include refactoring, code generation, and exper
 - [marcospont/agnostic-draggable](https://github.com/marcospont/agnostic-draggable) - An agnostic set of libraries implementing draggable, droppable, sortable and resizable behaviors inspired by the jQuery UI implementation
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
@@ -1530,6 +1529,7 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [asg017/sqlite-ecosystem](https://github.com/asg017/sqlite-ecosystem) - An overview of all my SQLite extensions, and a roadmap for future extensions and tooling!
