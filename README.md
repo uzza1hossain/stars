@@ -56,7 +56,7 @@
 
 ## Awk 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 
 ## C 
 
@@ -1422,6 +1422,7 @@
 
 ## Swift 
 
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) - A SwiftUI based macOS GUI for rsync.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
