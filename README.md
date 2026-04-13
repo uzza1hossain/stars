@@ -1316,7 +1316,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [secluso/core](https://github.com/secluso/core) - A privacy-preserving home security camera that uses advanced end-to-end encryption.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [cuppar/rtd](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -1424,7 +1424,7 @@
 ## Swift 
 
 - [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) - A SwiftUI based macOS GUI for rsync.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
