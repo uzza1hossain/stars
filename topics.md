@@ -2730,6 +2730,7 @@
 
 ## others 
 
+- [larryhastings/big](https://github.com/larryhastings/big) - The big package for Python.  Think big!
 - [krakrukra/PocketAdmin](https://github.com/krakrukra/PocketAdmin) - oshw keystroke injection device ( badusb )
 - [yassi/dj-control-room](https://github.com/yassi/dj-control-room) - The control room for your Django app
 - [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
