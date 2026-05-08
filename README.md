@@ -459,6 +459,7 @@
 
 ## Python 
 
+- [larryhastings/big](https://github.com/larryhastings/big) - The big package for Python.  Think big!
 - [yassi/dj-control-room](https://github.com/yassi/dj-control-room) - The control room for your Django app
 - [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [codingjoe/django-mail-auth](https://github.com/codingjoe/django-mail-auth) - Django authentication via login URLs, no passwords required
