@@ -1488,7 +1488,7 @@
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [jose-donato/ollama-reply](https://github.com/jose-donato/ollama-reply) - open-source browser extension that leverages the power of the AI to generate engaging replies for social media growth.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
