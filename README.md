@@ -462,6 +462,8 @@
 
 ## Python 
 
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+- [clark-labs-inc/clark-browser](https://github.com/clark-labs-inc/clark-browser) - Browser that finds a way.
 - [2captcha/2captcha-python](https://github.com/2captcha/2captcha-python) - Python 3 package for easy integration with the API of 2captcha captcha solving service to bypass recaptcha, сloudflare turnstile, funcaptcha, geetest and solve any other captchas.
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
@@ -1426,6 +1428,8 @@
 
 ## Swift 
 
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
