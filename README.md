@@ -463,6 +463,7 @@
 
 ## Python 
 
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [KatrielMoses/MailAccess](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, 800+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
