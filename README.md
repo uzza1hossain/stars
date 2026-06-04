@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [Awk](#awk)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -56,6 +57,10 @@
 ## Awk 
 
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
+
+## Blade 
+
+- [Gigamick/burnernote](https://github.com/Gigamick/burnernote) - Burner Note is a free, ad-free and open source tool for securely sending text based notes that are encrypted and self destruct once read.
 
 ## C 
 
@@ -154,7 +159,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -275,6 +280,7 @@
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [BruceMacD/chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
@@ -461,6 +467,7 @@
 
 ## Python 
 
+- [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant) - Multi-tenant SQLite databases for Django.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [KatrielMoses/MailAccess](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess
@@ -1462,6 +1469,7 @@
 
 ## TypeScript 
 
+- [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [FarhanAliRaza/django-repl](https://github.com/FarhanAliRaza/django-repl) - Run django in the browser
@@ -1505,7 +1513,6 @@
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [kaedroho/django-bridge](https://github.com/kaedroho/django-bridge) - Build fast, user-friendly applications with Django and React or Vue
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
