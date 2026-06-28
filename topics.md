@@ -2768,6 +2768,7 @@
 
 ## others 
 
+- [kangtastic/timestation](https://github.com/kangtastic/timestation) - Synchronize most radio-controlled ("atomic") clocks and watches using almost any phone or tablet
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [clark-labs-inc/clark-browser](https://github.com/clark-labs-inc/clark-browser) - Fully stealth chromium for AI agents. Powering Clark agent. https://www.clarkchat.com
