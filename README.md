@@ -1472,6 +1472,7 @@
 
 ## TypeScript 
 
+- [kangtastic/timestation](https://github.com/kangtastic/timestation) - Synchronize most radio-controlled ("atomic") clocks and watches using almost any phone or tablet
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
