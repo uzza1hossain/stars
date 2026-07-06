@@ -1441,7 +1441,7 @@
 - [Yawan-1/StackOverFlow--Clone](https://github.com/Yawan-1/StackOverFlow--Clone) - Fully Functional Stack Overflow Clone, with almost every functionality.
 - [almahdi404/code-django](https://github.com/almahdi404/code-django) - The ultimate django framework support
 - [theArjun/awesome-django-blogs](https://github.com/theArjun/awesome-django-blogs) - List of blogs about Django and related technologies.
-- [ChanTsune/django-boost](https://github.com/ChanTsune/django-boost) - Django Extension library
+- [ChanTsune/django-boost](https://github.com/ChanTsune/django-boost) - Extra batteries for Django, the batteries-included framework
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
 ## docker 
@@ -3770,7 +3770,7 @@
 - [Yawan-1/StackOverFlow--Clone](https://github.com/Yawan-1/StackOverFlow--Clone) - Fully Functional Stack Overflow Clone, with almost every functionality.
 - [navdeep-G/setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
-- [ChanTsune/django-boost](https://github.com/ChanTsune/django-boost) - Django Extension library
+- [ChanTsune/django-boost](https://github.com/ChanTsune/django-boost) - Extra batteries for Django, the batteries-included framework
 - [driscollis/pytips](https://github.com/driscollis/pytips) - Python Tips contains code snippets that will help you learn Python
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
