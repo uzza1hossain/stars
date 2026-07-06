@@ -1309,7 +1309,7 @@
 - [Abdenasser/dr_scaffold](https://github.com/Abdenasser/dr_scaffold) - scaffold django rest apis like a champion 🚀
 - [otto-torino/django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin - https://baton.sqrt64.it/
 - [navdeep-G/setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
-- [ChanTsune/django-boost](https://github.com/ChanTsune/django-boost) - Django Extension library
+- [ChanTsune/django-boost](https://github.com/ChanTsune/django-boost) - Extra batteries for Django, the batteries-included framework
 - [driscollis/pytips](https://github.com/driscollis/pytips) - Python Tips contains code snippets that will help you learn Python
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
