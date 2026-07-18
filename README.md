@@ -161,7 +161,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -471,6 +471,7 @@
 
 ## Python 
 
+- [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright) - Playwright's API on a Rust CDP engine — Chromium browser automation for Python & Node, no driver subprocess. (Alpha)
 - [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant) - Multi-tenant SQLite databases for Django.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
@@ -923,7 +924,7 @@
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [django-recaptcha/django-recaptcha](https://github.com/django-recaptcha/django-recaptcha) - Django reCAPTCHA form field/widget integration app.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a fast Python library for generating fake data in multiple languages.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python library for generating fake but realistic data in multiple languages and locales.
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [brutasse/django-push](https://github.com/brutasse/django-push) - PubSubHubbub support for Django
@@ -1337,7 +1338,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [adamchainz/djade](https://github.com/adamchainz/djade) - A Django template formatter.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
