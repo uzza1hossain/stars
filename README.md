@@ -472,6 +472,7 @@
 
 ## Python 
 
+- [FROWNINGdev/django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Live sidebar, ER diagrams, CLI, and MCP server for Django models. VS Code + PyPI + MCP Registry + Glama. Zero-dep parser, no DB required.
 - [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright) - Playwright's API on a Rust CDP engine — Chromium browser automation for Python & Node, no driver subprocess. (Alpha)
 - [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant) - Multi-tenant SQLite databases for Django.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
