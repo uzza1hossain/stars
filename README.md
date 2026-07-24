@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 - [foxj77/claudectx](https://github.com/foxj77/claudectx) - Fast way to switch between Claude Code configuration profiles
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
