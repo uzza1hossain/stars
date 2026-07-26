@@ -915,7 +915,6 @@
 - [django-parler/django-parler](https://github.com/django-parler/django-parler) - Easily translate "cheese omelet" into "omelette au fromage".
 - [jazzband/django-categories](https://github.com/jazzband/django-categories) - This app attempts to provide a generic category system that multiple apps could use. It uses MPTT for the tree storage and provides a custom admin for better visualization (copied and modified from fe
 - [dabapps/django-db-queue](https://github.com/dabapps/django-db-queue) - Simple database-backed job queue
-- [moggers87/django-sendfile2](https://github.com/moggers87/django-sendfile2) - Moved to Codeberg
 - [adamchainz/django-linear-migrations](https://github.com/adamchainz/django-linear-migrations) - Ensure your migration history is linear.
 - [craigds/django-typed-models](https://github.com/craigds/django-typed-models) - polymorphic django models using automatic type-field downcasting
 - [guettli/django-tips](https://github.com/guettli/django-tips) - Güttli's opinionated Django Tips
