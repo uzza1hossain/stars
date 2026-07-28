@@ -52,6 +52,7 @@
 ## Astro 
 
 - [felix-bohlin/ui](https://github.com/felix-bohlin/ui) - A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists.
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## Awk 
@@ -230,7 +231,6 @@
 - [danihodovic/django-allauth-ui](https://github.com/danihodovic/django-allauth-ui) - Nice looking templates for django-allauth
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [gnat/css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [orf/html-query](https://github.com/orf/html-query) - jq, but for HTML
 - [HugoDF/alpinejs-playground](https://github.com/HugoDF/alpinejs-playground) - A set of ready to use Alpine.js examples with TailwindCSS
@@ -612,7 +612,6 @@
 - [williln/til](https://github.com/williln/til) - Today I Learned
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
 - [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio to chords, lyrics, beat, and melody.
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [betagouv/django-magicauth](https://github.com/betagouv/django-magicauth) - Password-less authentication for Django. An email with a magic link allows a secure login
 - [jsocol/django-adminplus](https://github.com/jsocol/django-adminplus) - Easily add custom views to the Django admin.
@@ -1521,6 +1520,7 @@
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
