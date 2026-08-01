@@ -1477,6 +1477,7 @@
 
 ## TypeScript 
 
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [kangtastic/timestation](https://github.com/kangtastic/timestation) - Synchronize most radio-controlled ("atomic") clocks and watches using almost any phone or tablet
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
