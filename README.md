@@ -122,6 +122,8 @@
 
 ## Dart 
 
+- [0xchat-app/0xchat-app-main](https://github.com/0xchat-app/0xchat-app-main) - Security chat app built on Nostr
+- [Spl0itable/NYM](https://github.com/Spl0itable/NYM) - A feature-rich, ephemeral chat client built on Nostr protocol, bridged with Bitchat, for pseudonymous, temporary messaging.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
@@ -409,6 +411,7 @@
 
 ## Others 
 
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [tobieapb/claude-interactive-documentation-workflow](https://github.com/tobieapb/claude-interactive-documentation-workflow) - I used to whiteboard, then code. Now I markdown, then code. This is how I vibe-code: I can direct, guardrail, and understand the LLM-built code, come back to it 6 months later and actually understand 
 - [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
@@ -1477,6 +1480,8 @@
 
 ## TypeScript 
 
+- [psic4t/nospeak](https://github.com/psic4t/nospeak) - nospeak is a modern Nostr chat client
+- [degoog-org/degoog](https://github.com/degoog-org/degoog) - Search engine aggregator with a comprehensive plugin/extension system
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [kangtastic/timestation](https://github.com/kangtastic/timestation) - Synchronize most radio-controlled ("atomic") clocks and watches using almost any phone or tablet
