@@ -279,7 +279,7 @@
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
-- [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide
+- [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide [Project is being updated in private repo]
 - [NomadicDaddy/htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) - a browser extension (Chrome and Firefox) debugging tool for htmx applications
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [fetchfox/fetchfox-extension](https://github.com/fetchfox/fetchfox-extension) - A Chrome extension to extract any data from any website
@@ -1503,7 +1503,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
