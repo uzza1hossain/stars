@@ -427,7 +427,7 @@
 ## angular 
 
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
-- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
 
 ## ansible 
 
@@ -1457,7 +1457,7 @@
 - [django-commons/django-unicorn](https://github.com/django-commons/django-unicorn) - The magical reactive component framework for Django ✨
 - [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags) - Class based template tags for django
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
-- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
 - [aaugustin/django-sesame](https://github.com/aaugustin/django-sesame) - "Magic Links" - URLs with authentication tokens for one-click login
 - [Abdenasser/dr_scaffold](https://github.com/Abdenasser/dr_scaffold) - scaffold django rest apis like a champion 🚀
 - [Yawan-1/StackOverFlow--Clone](https://github.com/Yawan-1/StackOverFlow--Clone) - Fully Functional Stack Overflow Clone, with almost every functionality.
@@ -1844,7 +1844,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
-- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
 
 ## good-first-issue 
 
@@ -2046,7 +2046,7 @@
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
-- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
 - [Yawan-1/StackOverFlow--Clone](https://github.com/Yawan-1/StackOverFlow--Clone) - Fully Functional Stack Overflow Clone, with almost every functionality.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
@@ -2285,6 +2285,7 @@
 
 ## linux 
 
+- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
@@ -2423,6 +2424,7 @@
 
 ## macos 
 
+- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
@@ -3814,7 +3816,7 @@
 - [django-commons/django-unicorn](https://github.com/django-commons/django-unicorn) - The magical reactive component framework for Django ✨
 - [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags) - Class based template tags for django
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
-- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
 - [aaugustin/django-sesame](https://github.com/aaugustin/django-sesame) - "Magic Links" - URLs with authentication tokens for one-click login
 - [Abdenasser/dr_scaffold](https://github.com/Abdenasser/dr_scaffold) - scaffold django rest apis like a champion 🚀
 - [Yawan-1/StackOverFlow--Clone](https://github.com/Yawan-1/StackOverFlow--Clone) - Fully Functional Stack Overflow Clone, with almost every functionality.
@@ -4583,6 +4585,7 @@
 
 ## vim 
 
+- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
