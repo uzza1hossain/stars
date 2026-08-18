@@ -1093,7 +1093,7 @@
 - [coderholic/django-cities](https://github.com/coderholic/django-cities) - Countries and cities of the world for Django projects
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [lavr/python-emails](https://github.com/lavr/python-emails) - Python library for building, templating, transforming, signing, and sending emails.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
