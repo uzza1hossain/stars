@@ -408,7 +408,7 @@
 
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [vitorpamplona/amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
-- [Spl0itable/NYM](https://github.com/Spl0itable/NYM) - A feature-rich, ephemeral chat client built on Nostr protocol, bridged with Bitchat, for pseudonymous, temporary messaging.
+- [Spl0itable/NYM](https://github.com/Spl0itable/NYM) - A feature-rich, ephemeral geohash and bluetooth mesh chat client built on the Nostr protocol and bridged with Bitchat for pseudonymous, temporary messaging.
 - [bakad3v/Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
@@ -533,7 +533,7 @@
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -552,6 +552,7 @@
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [originalankur/awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -560,7 +561,7 @@
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -2105,7 +2106,7 @@
 
 ## ios 
 
-- [Spl0itable/NYM](https://github.com/Spl0itable/NYM) - A feature-rich, ephemeral chat client built on Nostr protocol, bridged with Bitchat, for pseudonymous, temporary messaging.
+- [Spl0itable/NYM](https://github.com/Spl0itable/NYM) - A feature-rich, ephemeral geohash and bluetooth mesh chat client built on the Nostr protocol and bridged with Bitchat for pseudonymous, temporary messaging.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -2819,6 +2820,7 @@
 
 ## others 
 
+- [fisharebest/webtrees](https://github.com/fisharebest/webtrees) - Online genealogy
 - [greenart7c3/Amber](https://github.com/greenart7c3/Amber) - 
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
 - [psic4t/nospeak](https://github.com/psic4t/nospeak) - nospeak is a modern Nostr chat client
@@ -3514,7 +3516,7 @@
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [georgemarshall/django-cryptography](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django
-- [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
+- [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The most popular pytest snapshot plugin
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [jazzband/django-newsletter](https://github.com/jazzband/django-newsletter) - An email newsletter application for the Django web application framework, including an extended admin interface, web (un)subscription, dynamic e-mail templates, an archive and HTML email support.
 - [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
@@ -4458,7 +4460,7 @@
 ## testing 
 
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
+- [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The most popular pytest snapshot plugin
 - [fcurella/django-fakery](https://github.com/fcurella/django-fakery) - 🏭  An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python library for generating fake but realistic data in multiple languages and locales.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
