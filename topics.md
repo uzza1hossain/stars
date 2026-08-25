@@ -87,6 +87,7 @@
 - [es6](#es6)
 - [esp32](#esp32)
 - [express](#express)
+- [facebook](#facebook)
 - [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
@@ -187,6 +188,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [php](#php)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -406,6 +408,8 @@
 
 ## android 
 
+- [chindaronit/Flux](https://github.com/chindaronit/Flux) - Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it 
+- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free facebook lite for Android. All in Material You colors!
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [vitorpamplona/amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
 - [Spl0itable/NYM](https://github.com/Spl0itable/NYM) - A feature-rich, ephemeral geohash and bluetooth mesh chat client built on the Nostr protocol and bridged with Bitchat for pseudonymous, temporary messaging.
@@ -513,6 +517,7 @@
 
 ## awesome 
 
+- [chindaronit/Flux](https://github.com/chindaronit/Flux) - Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it 
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup
@@ -1579,6 +1584,10 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
+## facebook 
+
+- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free facebook lite for Android. All in Material You colors!
+
 ## fastapi 
 
 - [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx) - A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
@@ -1781,6 +1790,7 @@
 
 ## go 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
 - [barrydeen/haven](https://github.com/barrydeen/haven) - High Availability Vault for Events on Nostr
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
@@ -1811,6 +1821,7 @@
 
 ## golang 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
@@ -2199,6 +2210,8 @@
 
 ## jetpack-compose 
 
+- [chindaronit/Flux](https://github.com/chindaronit/Flux) - Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it 
+- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free facebook lite for Android. All in Material You colors!
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
 
@@ -2232,6 +2245,7 @@
 
 ## kotlin 
 
+- [chindaronit/Flux](https://github.com/chindaronit/Flux) - Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it 
 - [vitorpamplona/amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
 
 ## kubernetes 
@@ -2530,6 +2544,7 @@
 
 ## mcp 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [FROWNINGdev/django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Free, MIT alternative to paid Django schema review. Blast radius on every PR, schema drift, N+1 across functions, ER diagrams, MCP server. No DB, no Django boot, no Pro tier.
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
@@ -2750,6 +2765,8 @@
 
 ## open-source 
 
+- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [chindaronit/Flux](https://github.com/chindaronit/Flux) - Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it 
 - [textbee/textbee](https://github.com/textbee/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [KatrielMoses/MailAccess](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -3296,6 +3313,10 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
+## portfolio 
+
+- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+
 ## postgresql 
 
 - [procrastinate-org/procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
@@ -3342,6 +3363,7 @@
 
 ## privacy 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [Gigamick/burnernote](https://github.com/Gigamick/burnernote) - Burner Note is a free, ad-free and open source tool for securely sending text based notes that are encrypted and self destruct once read.
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
@@ -3902,7 +3924,6 @@
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -4328,6 +4349,7 @@
 
 ## swift 
 
+- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
@@ -4639,6 +4661,7 @@
 
 ## web 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [dropseed/plain](https://github.com/dropseed/plain) - The Python web framework for building apps.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
