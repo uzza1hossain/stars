@@ -2299,7 +2299,7 @@
 
 ## linux 
 
-- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
+- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse. [mac, linux, windows]
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
@@ -2436,7 +2436,7 @@
 
 ## macos 
 
-- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
+- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse. [mac, linux, windows]
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
@@ -4617,7 +4617,7 @@
 
 ## vim 
 
-- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
+- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse. [mac, linux, windows]
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
