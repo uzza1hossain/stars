@@ -410,7 +410,7 @@
 
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [chindaronit/Flux](https://github.com/chindaronit/Flux) - Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it 
-- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free facebook lite for Android. All in Material You colors!
+- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free Facebook WebView client for Android. All in Material You colors!
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [vitorpamplona/amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
 - [Spl0itable/NYM](https://github.com/Spl0itable/NYM) - A feature-rich, ephemeral geohash and bluetooth mesh chat client built on the Nostr protocol and bridged with Bitchat for pseudonymous, temporary messaging.
@@ -1588,7 +1588,7 @@
 
 ## facebook 
 
-- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free facebook lite for Android. All in Material You colors!
+- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free Facebook WebView client for Android. All in Material You colors!
 
 ## fastapi 
 
@@ -2212,7 +2212,7 @@
 ## jetpack-compose 
 
 - [chindaronit/Flux](https://github.com/chindaronit/Flux) - Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it 
-- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free facebook lite for Android. All in Material You colors!
+- [eepiemi/Materialbook](https://github.com/eepiemi/Materialbook) - Ad-free Facebook WebView client for Android. All in Material You colors!
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
 
