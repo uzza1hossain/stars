@@ -495,7 +495,7 @@
 - [FROWNINGdev/django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Django ER diagrams, N+1 detection, schema drift & migration-risk linting — in VS Code, a CLI and an MCP server. Static analysis: no database, no django.setup(). Free & MIT.
 - [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright) - Playwright's API on a Rust CDP engine — Chromium browser automation for Python & Node, no driver subprocess. (Alpha)
 - [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant) - Multi-tenant SQLite databases for Django.
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [KatrielMoses/MailAccess](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, 5000+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [clark-labs-inc/clark-browser](https://github.com/clark-labs-inc/clark-browser) - Fully stealth chromium for AI agents. Powering Clark agent. https://www.clarkchat.com
