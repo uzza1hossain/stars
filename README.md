@@ -140,7 +140,7 @@
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Hints, grids and vim keys for your whole desktop. Built for macOS, linux and windows, natively.
 - [barrydeen/haven](https://github.com/barrydeen/haven) - High Availability Vault for Events on Nostr
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
-- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, transcodes it, and streams it to your TV in real time. It even burns in subtitles.
 - [foxj77/claudectx](https://github.com/foxj77/claudectx) - Fast way to switch between Claude Code configuration profiles
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
@@ -748,7 +748,7 @@
 - [yaakovLowenstein/hx-requests](https://github.com/yaakovLowenstein/hx-requests) - A package to facilitate the use of HTMX with Django
 - [idlesign/django-siteajax](https://github.com/idlesign/django-siteajax) - Reusable application for Django bridging client and server sides
 - [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox's realistic password strength estimator
-- [kmmbvnr/django-fsm](https://github.com/kmmbvnr/django-fsm) - Django friendly finite state machine support
+- [viewflow/django-fsm](https://github.com/viewflow/django-fsm) - Django friendly finite state machine support
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [pivotal-energy-solutions/django-datatable-view](https://github.com/pivotal-energy-solutions/django-datatable-view) - Server-side datatable representations for Django querysets for automatic rendering in templates
 - [momegas/megabots](https://github.com/momegas/megabots) - 🤖 State-of-the-art, production ready LLM apps made mega-easy, so you don't have to build them from scratch 🤯 Create a bot, now 🫵
@@ -971,7 +971,7 @@
 - [pavelsof/django-mirror](https://github.com/pavelsof/django-mirror) - cheese shop package marrying django with codemirror
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
-- [jazzband/django-smart-selects](https://github.com/jazzband/django-smart-selects) - chained and grouped selects for django forms
+- [django-commons/django-smart-selects](https://github.com/django-commons/django-smart-selects) - chained and grouped selects for django forms
 - [charettes/django-syzygy](https://github.com/charettes/django-syzygy) - Django application providing database migration tooling to automate their deployment.
 - [django-otp/django-otp](https://github.com/django-otp/django-otp) - A pluggable framework for adding two-factor authentication to Django using one-time passwords.
 - [farhan0581/django-admin-autocomplete-filter](https://github.com/farhan0581/django-admin-autocomplete-filter) - A simple Django app to render list filters in django admin using autocomplete widget.
@@ -1616,7 +1616,7 @@
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
