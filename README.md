@@ -892,7 +892,7 @@
 - [jdevries3133/django_htmx_rest](https://github.com/jdevries3133/django_htmx_rest) - Bringing together django, django rest framework, and htmx
 - [PHACDataHub/django-htmx-autocomplete](https://github.com/PHACDataHub/django-htmx-autocomplete) - A Django autocomplete component powered by htmx
 - [aldjemy/aldjemy](https://github.com/aldjemy/aldjemy) - Integration SQLAlchemy in Django projects for effective query building purposes
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [ministryofjustice/django-zendesk-tickets](https://github.com/ministryofjustice/django-zendesk-tickets) - Django views and forms that submit tickets to Zendesk
 - [ministryofjustice/money-to-prisoners-api](https://github.com/ministryofjustice/money-to-prisoners-api) - Backend and internal admin site for Prisoner Money suite of apps
 - [applegrew/django-select2](https://github.com/applegrew/django-select2) - This is a Django integration for Select2
