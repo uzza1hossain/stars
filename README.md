@@ -53,7 +53,6 @@
 ## Astro 
 
 - [felix-bohlin/ui](https://github.com/felix-bohlin/ui) - A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## Awk 
@@ -214,6 +213,7 @@
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - AWS Copilot CLI will reach end-of-support on June 12, 2026.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
 ## HCL 
 
@@ -1454,7 +1454,7 @@
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [Miserlou/lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 - [johnhewi/ezinnit](https://github.com/johnhewi/ezinnit) - ezinnit initializes your gitlab repository and your server. Your app will be live and commits to main will automatically deploy.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
@@ -1462,7 +1462,6 @@
 - [jdbit/django-auto-deploy](https://github.com/jdbit/django-auto-deploy) - Deploy a Django website in one click with this bash script (Nginx, Gunicorn, MySQL/MariaDB/PostgreSQL)
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
 ## Svelte 
@@ -1525,6 +1524,7 @@
 - [roperi/YaSaas](https://github.com/roperi/YaSaas) - YaSaas is a flexible foundation for entrepreneurs looking to monetize their data. A free and flexible SaaS boilerplate built on Django REST Framework and React, it integrates Stripe subscriptions seam
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [dont-be-evil-company/p2p.kiwi](https://github.com/dont-be-evil-company/p2p.kiwi) - p2p.kiwi 🥝, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [voideditor/void](https://github.com/voideditor/void) - 
